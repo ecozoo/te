@@ -58,7 +58,8 @@ def get(sectionName='', proxy=False, http_proxy='', https_proxy='') -> tuple:
         details.append(currentDetail)
 
     if not sectionName:
-        titles.insert(3, ['The world in brief', 'https://arielherself.github.io/espresso-native'])
+        # titles.insert(3, ['The world in brief', 'https://arielherself.github.io/espresso-native'])
+        titles.insert(3, ['The world in brief', 'https://ecozoo.github.io/te'])
         details.insert(3, ['', 'Espresso', 'Catch up quickly on the global stories that matter'])
 
     # print(titles, '\n\n', details)
