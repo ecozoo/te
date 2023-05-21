@@ -34,6 +34,7 @@ jobs:
     - name: Fetch Content
       run: |
         python get.py
+        python get_world_in_brief.py
     - name: Commit
       run: |
         git config --global user.email lemontree3.141@gmail.com
