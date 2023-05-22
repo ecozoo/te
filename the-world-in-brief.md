@@ -1,4 +1,4 @@
-## The world in brief 2023-05-21
+## The world in brief 2023-05-22
 
 Kevin McCarthy, the speaker of <strong>America’s</strong> House of Representatives, said that talks on raising the country’s <strong>debt-ceiling</strong> between him and President Joe Biden would continue on Monday. The pair spoke on the phone after Mr Biden called Republican demands—which include heavy spending cuts—“unacceptable” at a press conference at the end of a meeting of the G7, a club of rich democracies, in Japan. [Negotiations](https://https://www.https://www.economist.com/united-states/2023/05/19/could-the-14th-amendment-fix-americas-debt-ceiling-debacle) have grown increasingly heated in recent days.
 
