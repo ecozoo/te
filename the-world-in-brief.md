@@ -1,104 +1,65 @@
 ## The world in brief 2023-05-22
 
-<strong>Volodymyr Zelensky</strong>, Ukraine’s president, denied Russia’s claim that its forces had at last occupied <strong>Bakhmut</strong>, in eastern <strong>Ukraine</strong>, which they have been [trying to capture](https://https://www.https://www.economist.com/europe/2023/05/03/russia-could-take-bakhmut-within-weeks) for almost a year. Vladimir Putin congratulated his fighters for taking the town, but Ukrainian officials said that their soldiers still held some positions there. At the G7 summit, which Mr Zelensky attended, leaders pledged more support to Ukraine to fight the war.
+The <strong>EU</strong> fined <strong>Meta</strong>, which owns Facebook and Instagram, €1.2bn ($1.3bn) for failing to comply with its [privacy rules](https://https://www.https://www.economist.com/europe/2022/09/01/is-the-eu-overreaching-with-new-digital-regulations) and ordered the company to suspend transfers of user data to America. It is the largest fine to be imposed on a big tech company in the bloc. Ireland’s Data Protection Commission, one of the EU’s privacy watchdogs, said that Facebook did not properly protect the data of European users against American surveillance programmes. 
+
+<strong>China’s</strong> vice foreign minister said <strong>Japan</strong> and the <strong>G7</strong> colluded to “smear and attack China” and summoned the Japanese ambassador to Beijing to protest against the “hype around China-related issues”. The <em>Global Times</em>, a state-backed tabloid, called the [G7 summit](https://https://www.https://www.economist.com/asia/2023/05/16/can-the-west-win-over-the-rest-of-the-world), hosted by Japan, an “anti-China workshop”. On Saturday the G7 condemned China’s “economic coercion” and “militarisation activities” in the [South China Sea](https://https://www.https://www.economist.com/the-economist-explains/2023/02/10/how-the-nine-dash-line-fuels-tensions-in-the-south-china-sea). 
+
+The governing centre-right New Democracy party comfortably won the most votes in <strong>Greece’s</strong> [general election](https://https://www.https://www.economist.com/europe/2023/05/21/greeces-prime-minister-wins-an-election-but-lacks-a-majority) on Sunday, but failed to secure a parliamentary majority. The left-wing Syriza party performed unexpectedly poorly. ND’s leader, Kyriakos Mitsotakis, the prime minister, seems likely to win a majority after a second poll in June, with the help of bonus seats awarded under a new electoral system.
 
 Kevin McCarthy, the speaker of <strong>America’s</strong> House of Representatives, said that talks on raising the country’s <strong>debt-ceiling</strong> between him and President Joe Biden would continue on Monday. The pair spoke on the phone after Mr Biden called Republican demands—which include heavy spending cuts—“unacceptable” at a press conference at the end of the G7 summit. [Negotiations](https://https://www.https://www.economist.com/united-states/2023/05/19/could-the-14th-amendment-fix-americas-debt-ceiling-debacle) have grown increasingly heated in recent days.
 
-The governing centre-right New Democracy party comfortably won the most votes in <strong>Greece’s</strong> [general election](https://https://www.https://www.economist.com/europe/2023/05/21/greeces-prime-minister-wins-an-election-but-lacks-a-majority) on Sunday, but failed to secure a parliamentary majority. The left-wing Syriza party performed unexpectedly poorly. ND’s leader, Kyriakos Mitsotakis, the prime minister, seems likely to win a majority after a second poll in July, with the help of bonus seats awarded under a new electoral system.
+<strong>America’s</strong> secretary of state, Antony Blinken, signed a defence deal with <strong>Papua New Guinea</strong>. The pact will make it easier for the countries’ forces to train together; America also promised to help PNG respond to disasters. Earlier, India pledged its support for PNG and other [Pacific islands](https://https://www.https://www.economist.com/asia/2022/10/06/what-pacific-island-states-make-of-the-great-power-contest-over-them) at a regional summit. Both America and India are keen to counter China’s influence in the Pacific. 
 
-<strong>China </strong>banned operators of its “key infrastructure” from buying products made by <strong>Micron Technology</strong>, an American maker of <strong>microchips.</strong> The Cyberspace Administration of China, the country’s internet watchdog, said that the Idaho-based company posed “significant security risks”. [America](https://https://www.https://www.economist.com/united-states/2023/05/16/the-fault-lines-in-americas-china-policy) said the ban “had no basis in fact” and plans to seek a clarification from Chinese officials. Shares in Chinese chip-makers rose in response.
+<strong>Ukraine’s</strong> [Zaporizhia nuclear power plant](https://https://www.https://www.economist.com/the-economist-explains/2022/08/19/what-is-at-stake-at-ukraines-zaporizhia-nuclear-plant),the largest in Europe, was cut off from its power supply and is relying on diesel generators. The United Nations called the safety situation “extremely vulnerable”. Meanwhile, <strong>Russia</strong> launched several strikes on the<strong> Ukrainian</strong> city of Dnipro. Ukraine’s air force claimed to have shot down 20 drones and four missiles. Russia has intensified its aerial attacks in recent weeks in anticipation of a Ukrainian counter-offensive. 
 
-<strong>Allen &amp; Overy</strong>, a London-based law firm, and New York’s <strong>Shearman &amp; Sterling</strong>, announced a merger. The deal, which needs to be approved by partners at both firms, would create one of the world’s biggest legal practices with combined revenues of $3.4bn. The new entity is to be called A&amp;O Shearman.
+<strong>Ryanair </strong>reported a better-than-forecasted profit of €1.4bn ($1.5bn) for the year ending in March, as air travel rebounded after the covid-19 pandemic. The Irish low-cost carrier hopes to double annual passenger traffic to 300m by 2034. In an interview with the <em>Financial Times</em>, Michael O’Leary, the airline’s abrasive boss, said “We will continue to wipe the floor with every other airline in Europe.”
 
-More than 75,000 people took to the streets of Chisinau, the capital of <strong>Moldova</strong>, to show their support for their government and <strong>Europe</strong>. The rally took place during a visit to the country by Roberta Metsola, the president of the European Parliament. Moldovan officials have [accused](https://https://www.https://www.economist.com/by-invitation/2023/05/10/russias-efforts-to-destabilise-moldova-will-fail-says-its-president) <strong>Russia</strong> of trying to undermine its application to join the EU by funding protests and propaganda. 
-
-A football match between Valencia and Real Madrid in <strong>La Liga</strong>, Spain’s top division, was halted for ten minutes after Valencia fans were heard <strong>racially abusing</strong> Vinicius Junior, Real’s Brazilian centre forward. Vinicius had tried to point out several culprits in the crowd. He was later shown a red card for violent conduct. Racism is “normal” and “encouraged” in Spanish football, he said after the game.
+<strong>Fact of the day: </strong>$31.8m, the record amount fetched at auction in 2020 by “Stan”, a <em>Tyrannosaurus rex</em> skeleton. [Read the full story](https://https://www.https://www.economist.com/science-and-technology/2023/05/17/the-market-for-dinosaur-fossils-is-booming). 
 
 ----------
 
-## Economic woes divide Greek voters
+## America’s debt-ceiling drama intensifies
 
-When Greeks finish voting on Sunday New Democracy, the ruling centre-right party, is expected to come first. But it will almost certainly fail to win an outright majority. The country would then head for another election in July. Both Syriza and Pasok, left-wing parties that could help ND form a majority coalition, have ruled out the possibility of joining such a government. 
+President Joe Biden, having left the G7 summit in Japan on Sunday, had hoped to tie a bow on a debt-ceiling deal on his return to Washington. Instead, he looks likely to land squarely in the middle of high-stakes negotiations.
 
-Kyriakos Mitsotakis, the technocratic prime minister, who is a member of one of Greece’s oldest political dynasties, has overseen an economic revival since taking office in 2019. The economy is now more than 6% larger in real terms than before the pandemic, helped by strong growth in exports and foreign investment. 
+Republicans have been pressing for big spending cuts, and Kevin McCarthy, speaker of the House of Representatives, feels that he must secure them to keep his fractious caucus together. The Democrats, meanwhile, have been resisting them, and progressives in the party have warned that they might reject any deal perceived as a capitulation by Mr Biden’s administration.
 
-But many ordinary Greeks are missing out on the benefits of the recovery. Pensions have barely risen and the unemployment rate is in double digits. One in three families risks falling into poverty, according to the EU’s statistics agency, far above the average for the bloc. ND must do more to woo voters in the summer.
+The Treasury will use up its cash buffers as soon as June 1st, which means politicians have a fast-closing window in which to reach agreement. A [no-deal scenario](https://https://www.https://www.economist.com/finance-and-economics/2023/05/15/what-america-does-after-a-debt-ceiling-disaster)—which could trigger an American default, a devastating prospect for global markets—ought to be unthinkable, but anyone watching the negotiations closely is finding it harder to ignore.
 
-## Insects could help turn beer waste into beef
+## Great powers in the Pacific
 
-Despite <em>The Economist’</em>s [best](https://https://www.https://www.economist.com/technology-quarterly/2021/09/28/feeding-9bn-people-will-mean-reimagining-the-edible-world) efforts, [eating insects](https://https://www.https://www.economist.com/films/2022/01/25/the-future-of-food) has not yet caught on among humans. Luckily, livestock are less fussy. Insects are a nutritious source of animal feed. Of course, insects also need to eat. Most insect-rearing has thus far relied on surplus chicken feed. But if insect-reared meat is to take off, new sources will be needed. A study published in <em>Applied Entomology</em>, a journal, proposes feeding them the beer industry’s waste products.
+The leaders of at least 14 Pacific countries convened in Papua New Guinea on Monday, for two separate meetings: one with Antony Blinken, America’s secretary of state; the other with Narendra Modi, India’s prime minister. The gatherings are a sign of the region’s growing strategic importance. 
 
-Around 185bn litres of beer are consumed worldwide each year. Each litre produces between three and ten litres of wastewater full of barley and yeast, a mix rich in protein but deficient in carbohydrates. Because insects in the wild typically rely on carbohydrates, it was unclear if they would take to the waste. But researchers found that they ate it happily. Slaughterhouses and sugar-beet could also provide sources of plentiful, protein-rich waste for insects to feast on. 
+The Pacific is, increasingly, the locus of a power struggle between America and China. China used aid and investment to[ increase its influence](https://https://www.https://www.economist.com/china/2022/06/02/chinas-interest-in-the-pacific-islands-is-growing) there over the past decade; America mostly snoozed. It received a rude awakening in 2022 when China reached a security agreement with the Solomon Islands, and has been playing catch-up since.
 
-## Private astronauts set off for the ISS
+Mr Blinken duly signed a defence pact with the prime minister of PNG, James Marape. The deal will make it easier for the countries’ forces to train together, and America said that it will help to beef up PNG’s disaster relief and humanitarian responses. Many Pacific islanders, however, are not enamoured with the plan: they fear militarisation and dislike their region being an arena for competing superpowers. 
 
-If all goes to plan—never a given in astronautics—a launch from Florida to the International Space Station on Sunday will mark the next step in the privatisation of crewed spaceflight. The mission is operated by Axiom, a company using a Dragon capsule spacecraft (made and launched by [SpaceX](https://https://www.https://www.economist.com/science-and-technology/2023/04/20/despite-an-explosion-elon-musk-is-closer-to-his-new-space-age)) to fly private passengers to the ISS and put them to work on experiments Axiom is carrying out there for other companies. 
+## Britain and Switzerland talk trade
 
-This, Axiom’s second mission, is not only flying deep-pocketed punters. The four-person crew includes two Saudi Arabian “mission specialists”, paid for by the Saudi Space Commission. Astronauts from various other countries (including Turkey and the UAE) are booked on later flights, with Axiom positioning its services as a chance for governments to run their own space programs even if they cannot afford to develop the infrastructure themselves. And once the ISS reaches the end of its life, some time after 2028, Axiom and other companies have plans for fully commercial space stations to take its place.
+A first round of talks is beginning in London on Monday on another post-Brexit free-trade agreement, between Britain and Switzerland. The existing set-up, signed in 2019, replicates the latter’s piecemeal arrangements with the EU. Later deals added some flexibility for working between the two countries and provided mutual standards for some goods. 
 
-## The best of Arabic fiction
+Switzerland is Britain’s fourth-biggest market, after the EU, America and China. Last year it was the recipient of £33bn-worth ($41bn), or 4.1%, of British goods and services. That is three times more than Australia, with which Britain struck a much-ballyhooed free-trade deal in 2021. After that comes into force this month it is forecast to add just 0.08% a year to GDP by 2035.
 
-An old Arabic saying goes, “Cairo writes, Beirut publishes, Baghdad reads.” But these days the richer Gulf countries are the ones burnishing their cultural bona fides. [Sharjah International Book Fair](https://https://www.https://www.economist.com/books-and-arts/2019/07/06/the-unlikely-rise-of-book-fairs-in-the-gulf) in the United Arab Emirates attracts more than 2m visitors a year. And on Sunday the winners of the International Prize for Arabic Fiction will be announced in the country’s capital, Abu Dhabi.
+Most goods already pass between Britain and Switzerland without tariffs. Prospective gains therefore will mainly be found in [services](https://https://www.https://www.economist.com/britain/2023/05/09/britains-services-exports-are-booming-despite-brexit-why)—especially finance, which is a speciality of both countries. Between haggling sessions, the Britons might also seek advice on battles with the EU, in which the Swiss have much experience.
 
-This year’s contenders include “Concerto Qurina Eduardo”, a coming-of-age tale set in Libya by Najwa Binshatwan, as well as “The Stone of Happiness”, about a photographer’s struggles to capture Iraq ravaged by war, by Azher Jirjees. 
+## Tim Scott’s long-shot presidential bid
 
-The award, launched in 2007 with the help of Britain’s Booker Prize, has helped promote regional writers. But it has also overlooked women—only two have ever won. And its relevance is perhaps waning, as English threatens [Arabic in the Gulf](https://https://www.https://www.economist.com/middle-east-and-africa/2022/09/29/losing-the-language-of-the-koran). A survey of young Gulf Arabs from 2017 found that most use English more regularly than Arabic. Indeed, the winner of the IPAF will receive a fully funded translation into English. 
+On Monday Tim Scott, a Republican senator from South Carolina, is expected to [formally launch his campaign](https://https://www.https://www.economist.com/united-states/2023/04/13/why-tim-scott-is-such-a-long-shot-for-the-republican-nomination) for America’s presidency. Hardly anyone in the party has a bad word to say about Mr Scott, who grew up in poverty with a single mother to become the first African-American senator to represent a Southern state since 1881. 
 
-## Weekend profile: Guillermo Lasso, Ecuador’s beleaguered president
+Mr Scott is no belligerent ideologue. His congressional record highlights his championing of “opportunity zones”—a tax-incentive scheme to revitalise deprived neighbourhoods—and for a bipartisan effort at police reform that eventually foundered.
 
-For years Ecuador avoided the troubles that have plagued its neighbours in Latin America. The country hasn’t experienced military rule since 1979 nor did it suffer much from violence. But this exceptionalism is now in danger. A crime wave related to drug-trafficking has seen the country’s homicide rate race past those of Colombia and Mexico, to more than 25 per 100,000 people. The country’s politics is in turmoil as well. On Wednesday Guillermo Lasso, the conservative president, used a previously untried constitutional rule known as <em>muerte cruzada</em> (“mutual death”) to [dissolve the parliament](https://https://www.https://www.economist.com/the-americas/2023/05/18/ecuadors-president-dissolves-congress-to-avoid-impeachment) after it looked poised to impeach him on flimsy charges of embezzlement. Snap presidential and parliamentary elections will follow within 97 days. 
+Yet his willingness to work across the aisle may end up working against him. Modern Republican voters expect a culture warrior, and polling suggests just 2% support Mr Scott. He clearly feels that playing the part will help his chances, however. In a recent video he warned that empowering the “radical left” would trap families in “failing schools” and “crime-ridden neighbourhoods”. Some think he could ride the role into a vice-presidential position.
 
-Mr Lasso was elected on a campaign to ensure political stability. The 67-year-old’s conservatism was shaped by his background. He grew up in a middle-class family in Guayaquil, a business hub on Ecuador’s Pacific Coast. He did not complete a university degree, but that did not stop him from climbing to the top of Ecuador’s financial elite, earning a fortune in banking.
+## Hwang Ji-hae lets nature take its course
 
-Later he entered local politics, overseeing the construction of a giant bus terminal in his hometown. Such successes propelled him into the national arena. But it took years for a breakthrough. In 2013 Mr Lasso lost the presidential election to Rafael Correa, the populist firebrand who led Ecuador from 2007 to 2017. He lost to Mr Correa’s proxy in 2017.
+Hwang Ji-hae’s last submission, in 2012, to the Royal Horticultural Society Chelsea Flower Show—the gardening world’s equivalent to Wimbledon, held in London each year—was inspired by the demilitarised zone that separates North and South Korea. The landscape artist’s garden reproduced the scars left behind by the Korean war almost 60 years before, and the wildlife that has since grown over it like stitches. It won the President’s Award, one of Chelsea’s most coveted prizes. 
 
-After finally winning the presidency in 2021, Mr Lasso’s tenure started well. He led a successful covid-19 vaccine drive, inoculating half of the Ecuadorean population in just 100 days. And the economy has been buoyant. Last year GDP grew by 3%, faster than the regional average. But surging drug-related violence and prison riots have hurt Mr Lasso’s reputation. His inexperienced team failed to build a coalition to prevent the opposition Citizens’ Revolution, led by Mr Correa, from controlling parliament. That allowed Citizens’ Revolution to launch impeachment proceedings.
+Ms Hwang will further explore the restorative power of nature in this year’s show, which opens to the press on Monday and the public the following day. Her entry is based on the rocky outcrops of Jirisan, the highest mountain on the South Korean mainland, and its medicinal herbs, many of which are now endangered. Ms Hwang hopes that, in contemplating the plants that saved human lives before modern medicine, visitors will better understand humans’ place in the natural world, and the ways in which each can heal the other. 
 
-Mr Lasso’s dissolution of parliament is not popular. The opposition has claimed it is illegal; protests are a possibility. But by guaranteeing elections relatively soon, Mr Lasso may ensure Ecuador retains some exceptionalism by avoiding the political violence that has beset neighbouring Peru.
+## Daily quiz
 
-## Weekly crossword
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="fcad899586b98f8c8e998f8f93bc999f93929391958f88d29f9391">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@https://www.economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
-Our crossword has two sets of clues, one for seasoned cruciverbalists and the other for less experienced solvers. Both give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-Email all four answers, along with your home city and country, by 9am GMT on Monday to [[email&#160;protected]](https://https://www.https://www.economist.com/cdn-cgi/l/email-protection) We will pick randomly from those with the right answers and crown three winners in next week’s edition.
-
-<strong>Cryptic clues</strong>
-
-<em>1 down</em> A rich club drunkenly grooves up fen (5,2,5)
-
-<em>1 across </em>Radiance and celebration heard around the world (6)
-
-<em>2 across </em>Circle it: a circuit! (5)
-
-<em>3 across</em> No right way home to Oslo (6)
-
-<strong>Factual clues </strong>
-
-<em>1 down</em> Countries whose relevance has faded along with their share of the global economy (5,2,5)
-
-<em>1 across</em> Where the race to transform payments is going (6)
-
-<em>2 across </em>A destination for wealthy space cadets (5)
-
-<em>3 across</em> One country American firms are eyeing up for supply chains (6) 
-
-## This week’s quiz winners
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
-
-<strong>Maureen Evans Vernon, </strong>Vernon, British Columbia, Canada
-
-<strong>Craig Sinfield-Hain,</strong> Walferdange, Luxembourg 
-
-<strong>Tetsuyuki Maruyama,</strong> Ito, Japan
-
-They gave the correct answers: <em>Strait of Malacca, Steve Rogers, Mel Brooks, Pat Cash </em>and <em>Horatio Nelson</em>. The theme is male country singers: <em>George Strait, Kenny Rogers, Garth Brooks, Johnny Cash</em> and <em>Willie Nelson</em>. 
-
-The questions:  
-<strong>Monday: </strong>Which stretch of water between the Malay peninsula and Sumatra is the main shipping lane between the Indian and Pacific oceans?  
-<strong>Tuesday: </strong>What is the real name of the superhero Captain America?  
-<strong>Wednesday: </strong>Which film director was responsible for a range of 1970s comedies including “Blazing Saddles” and “Young Frankenstein”?  
-<strong>Thursday: </strong>Which Australian male tennis player won his only Grand Slam title at Wimbledon in 1987?  
-<strong>Friday: </strong>Which British admiral lost both an arm and partial sight in one eye during his illustrious naval career?
+<strong>Monday: </strong>Which car company, established in 1899, sells models including the Megane and Clio?
 
 ----------
