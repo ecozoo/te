@@ -1,4 +1,4 @@
-## The world in brief 2023-05-22
+## The world in brief 2023-05-23
 
 The <strong>EU</strong> fined <strong>Meta</strong>, which owns Facebook and Instagram, €1.2bn ($1.3bn) for failing to comply with its [privacy rules](https://www.economist.com/europe/2022/09/01/is-the-eu-overreaching-with-new-digital-regulations) and ordered the company to suspend transfers of user data to America. It is the largest fine to be imposed on a big tech company in the bloc. Ireland’s Data Protection Commission, one of the EU’s privacy watchdogs, said that Facebook did not properly protect the data of European users against American surveillance programmes. 
 
@@ -8,7 +8,7 @@ Vyacheslav Gladkov, the governor of <strong>Russia’s</strong> Belgorod region,
 
 <strong>Sinan Ogan</strong>, the third-placed candidate in [Turkey’s presidential election](https://www.economist.com/europe/2023/05/14/recep-tayyip-erdogan-beats-his-challenger-as-turkey-votes), said he would back <strong>Recep Tayyip Erdogan</strong>, the country’s president, in the run-off on May 28th. Mr Erdogan achieved 49.5% in the first, just short of a majority. Mr Ogan received only 5.2%. His announcement further narrows the chances of the opposition candidate, <strong>Kemal Kilcdargolu</strong>, of pulling off a historic win.
 
-[Tim Scott](https://www.economist.com/united-states/2023/04/13/why-tim-scott-is-such-a-long-shot-for-the-republican-nomination), a <strong>Republican</strong> senator from South Carolina, announced his presidential bid. The 57-year-old is the first African-American senator to represent a Southern state since 1881 and is well respected by his party. He has already amassed nearly $22m in fund-raising. Other Republicans may enter the fray soon. [Ron DeSantis](https://www.economist.com/united-states/2022/11/09/the-rise-of-ron-desanctimonious), Florida’s governor, is expected to announce his bid this week.
+<strong>TikTok</strong> sued <strong>Montana</strong> over the state’s [ban on the social-media app](https://www.economist.com/united-states/2023/03/30/both-americas-political-camps-agree-that-tiktok-is-troubling), which it called a violation of Americans’ free-speech rights. Montana’s law, due to take effect next year, will fine app stores that enable downloads of the Chinese-owned app. It is the first such measure in America, enacted over concerns about users’ vulnerability to data collection and propaganda.
 
 <strong>China’s</strong> vice foreign minister said <strong>Japan</strong> and the <strong>G7</strong> colluded to “smear and attack China” and summoned the Japanese ambassador to Beijing to protest against the “hype around China-related issues”. The <em>Global Times</em>, a state-backed tabloid, called the [G7 summit](https://www.economist.com/asia/2023/05/16/can-the-west-win-over-the-rest-of-the-world), hosted by Japan, an “anti-China workshop”. On Saturday the G7 condemned China’s “economic coercion” and “militarisation activities” in the [South China Sea](https://www.economist.com/the-economist-explains/2023/02/10/how-the-nine-dash-line-fuels-tensions-in-the-south-china-sea). 
 
@@ -58,7 +58,7 @@ Ms Hwang will further explore the restorative power of nature in this year’s s
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0a5b7f63704f797a786f7979654a6f696564656763797e24696567">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="a6f7d3cfdce3d5d6d4c3d5d5c9e6c3c5c9c8c9cbcfd5d288c5c9cb">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Monday: </strong>Which car company, established in 1899, sells models including the Megane and Clio?
 
