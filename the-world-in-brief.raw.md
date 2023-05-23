@@ -2,7 +2,7 @@
 
 <strong>Russia’s</strong> defence ministry said that their forces had repelled the [pro-Ukrainian militias](https://www.economist.com/the-economist-explains/2023/05/23/who-are-the-pro-ukrainian-militias-raiding-russias-belgorod-region) raiding Russia’s Belgorod region. This has not yet been independently verified. Earlier, Vyacheslav Gladkov, the governor of the region, which borders <strong>Ukraine</strong>, said that several drones had been intercepted above his territory overnight. Mykhailo Podolyak, a senior adviser to Volodymyr Zelensky, said that Ukraine has “nothing to do” with the events there. 
 
-President Joe Biden and Kevin McCarthy, the Republican speaker of the House, failed to reach a deal to raise <strong>America’s debt ceiling</strong>, but vowed to keep talking. Both men described their hours-long meeting at the White House on Monday as “productive” and suggested an agreement was within reach. Earlier Janet Yellen, the treasury secretary, warned that [failure to raise the debt ceiling](https://www.economist.com/finance-and-economics/2023/05/22/what-happens-if-america-defaults-on-its-debt) before June 1st could trigger a debt default.
+<strong>Ron DeSantis</strong>, Florida’s governor, will reportedly announce his bid for America’s presidency in an audio discussion with Elon Musk on Twitter on Wednesday. Meanwhile, his rival for the Republican nomination got a court date: a judge in New York said that <strong>Donald Trump’s</strong> [trial over hush-money payments](https://www.economist.com/leaders/2023/03/30/prosecuting-donald-trump-over-stormy-daniels-looks-like-a-mistake) to a porn star would begin in March 2024, coinciding with the busiest season for primaries.
 
 <strong>Apple</strong> announced a multibillion dollar deal with<strong> Broadcom</strong>, an [American chipmaker](https://www.economist.com/business/2022/05/26/will-a-chipmaking-giants-60bn-bet-on-software-pay-off), to develop 5G parts for its devices. The two had previously signed a three-year $15bn agreement that was due to expire soon. This new deal is part of the iPhone maker’s commitment to invest $430bn in the American economy by 2026. Shares in Broadcom ticked up on the announcement.
 
@@ -54,7 +54,7 @@ Ms Condé, the oldest author ever to be shortlisted, would be a popular winner. 
 
 ## Daily Quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="2e7f5b47546b5d5e5c4b5d5d416e4b4d41404143475d5a004d4143">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="f6a7839f8cb385868493858599b693959998999b9f8582d895999b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday:</strong> Who directed the films 1917 and Skyfall?
 
