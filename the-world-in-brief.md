@@ -1,4 +1,4 @@
-## The world in brief 2023-05-23
+## The world in brief 2023-05-24
 
 <strong>Russia’s</strong> defence ministry said that their forces had repelled the [pro-Ukrainian militias](https://https://www.https://www.economist.com/the-economist-explains/2023/05/23/who-are-the-pro-ukrainian-militias-raiding-russias-belgorod-region) raiding Russia’s Belgorod region. This has not yet been independently verified. Earlier, Vyacheslav Gladkov, the governor of the region, which borders <strong>Ukraine</strong>, said that several drones had been intercepted above his territory overnight. Mykhailo Podolyak, a senior adviser to Volodymyr Zelensky, said that Ukraine has “nothing to do” with the events there. 
 
@@ -54,7 +54,7 @@ Ms Condé, the oldest author ever to be shortlisted, would be a popular winner. 
 
 ## Daily Quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="f6a7839f8cb385868493858599b693959998999b9f8582d895999b">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@https://www.economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="c190b4a8bb84b2b1b3a4b2b2ae81a4a2aeafaeaca8b2b5efa2aeac">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@https://www.economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Tuesday:</strong> Who directed the films 1917 and Skyfall?
 
