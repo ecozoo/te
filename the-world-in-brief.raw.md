@@ -6,11 +6,11 @@ Vyacheslav Gladkov, the governor of Russia’s <strong>Belgorod</strong> region,
 
 <strong>Ron DeSantis</strong>, Florida’s governor, will reportedly announce his bid for America’s presidency in an audio discussion with Elon Musk on Twitter on Wednesday. Meanwhile, his rival for the Republican nomination got a court date: a judge in New York said that <strong>Donald Trump’s</strong> [trial over hush-money payments](https://www.economist.com/leaders/2023/03/30/prosecuting-donald-trump-over-stormy-daniels-looks-like-a-mistake) to a porn star would begin in March 2024, coinciding with the busiest season for primaries.
 
+<strong>Israel’s parliament</strong> voted through a 1trn-shekel ($269bn) spending package after [Binyamin Netanyahu](https://www.economist.com/leaders/2023/03/16/will-bibi-break-israel), the prime minister, made concessions to previously-resistant far-right factions within his coalition. The final deal included funding for settler developments in the occupied West Bank, as well as resources for the ultra-orthodox education system. Yair Lapid, Israel’s opposition leader, called it the “most destructive budget in the country’s history”.
+
 <strong>Britain’s</strong> inflation rate dipped below 10% for the first time in eight months. <strong>Prices </strong>rose by 8.7% in the year to April, down from 10.1% in [March](https://www.economist.com/britain/2023/04/19/britains-inflation-rate-is-not-falling-fast-enough). But food inflation was 19.1%, and the Chancellor of the Exchequer, Jeremy Hunt, warned that the figures were still “worryingly high”. The Bank of England’s target is just 2%. 
 
 <strong>Typhoon Mawar</strong>, a cyclone with the strength of a category-four hurricane, edged towards [Guam](https://www.economist.com/united-states/2023/04/02/guam-where-americas-next-war-may-begin). Should the storm make direct landfall on the island, it will be Guam’s worst in years. The <strong>American territory</strong> has already been left without power. Earlier, President Joe Biden declared an emergency and residents not living in concrete houses were advised to seek safety elsewhere. 
-
-The world’s 1,200 biggest <strong>publicly listed companies </strong>collectively issued <strong>dividends</strong> worth a record $327bn in the first quarter of 2023, a year-on-year jump of 12%, according to a study released by Janus Henderson, a fund manager. The banking and oil sectors were among the biggest payers. One-off special dividends also boosted payouts.
 
 <strong>Target</strong> said it was pulling some [<strong>LGBT</strong>](https://www.economist.com/graphic-detail/2023/01/13/americas-far-right-is-increasingly-protesting-against-lgbt-people) merchandise from its stores to protect its employees. The unspecified items are part of the American retail chain’s<strong> Pride Collection</strong>, which it has run for more than a decade to mark Pride Month in June. But since introducing this year’s collection, Target has faced threats and “confrontational behaviour” in some of its stores.
 
@@ -52,7 +52,7 @@ LIGO consists of two American detectors in the states of Louisiana and Washingto
 
 ## Daily Quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="c796b2aebd82b4b7b5a2b4b4a887a2a4a8a9a8aaaeb4b3e9a4a8aa">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="2b7a5e42516e585b594e5858446b4e484445444642585f05484446">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Wednesday:</strong> What was the name of the sweater-wearing police officer in the Danish thriller “The Killing”?
 
