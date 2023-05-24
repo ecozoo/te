@@ -4,7 +4,7 @@ Mikhail Mishustin, <strong>Russia’s </strong>prime minister, signed several ag
 
 Vyacheslav Gladkov, the governor of Russia’s <strong>Belgorod</strong> region, claimed that several drones had been intercepted above his territory overnight. Russia earlier claimed to have repelled [pro-Ukrainian militias](https://https://www.https://www.economist.com/the-economist-explains/2023/05/23/who-are-the-pro-ukrainian-militias-raiding-russias-belgorod-region) raiding the region, which borders Ukraine, although this claim could not be verified. America insisted it did not “encourage or enable strikes inside of Russia”. Ukraine also denied any involvement. 
 
-<strong>Ron DeSantis</strong>, Florida’s governor, will reportedly announce his bid for America’s presidency in an audio discussion with Elon Musk on Twitter on Wednesday. Meanwhile, his rival for the Republican nomination got a court date: a judge in New York said that <strong>Donald Trump’s</strong> [trial over hush-money payments](https://https://www.https://www.economist.com/leaders/2023/03/30/prosecuting-donald-trump-over-stormy-daniels-looks-like-a-mistake) to a porn star would begin in March 2024, coinciding with the busiest season for primaries.
+<strong>Tina Turner</strong>—the “queen of rock’n’roll”—died at home in Switzerland, aged 83. Known for her husky voice, she found early success in an R&amp;B musical duo with her husband, Ike, whom she divorced in 1976. Years later came her reinvention as a stomping, stadium-filling solo act. She won 12 Grammys.
 
 <strong>Israel’s parliament</strong> voted through a 1trn-shekel ($269bn) spending package after [Binyamin Netanyahu](https://https://www.https://www.economist.com/leaders/2023/03/16/will-bibi-break-israel), the prime minister, made concessions to previously-resistant far-right factions within his coalition. The final deal included funding for settler developments in the occupied West Bank, as well as resources for the ultra-orthodox education system. Yair Lapid, Israel’s opposition leader, called it the “most destructive budget in the country’s history”.
 
@@ -52,7 +52,7 @@ LIGO consists of two American detectors in the states of Louisiana and Washingto
 
 ## Daily Quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="8cddf9e5f6c9fffcfee9ffffe3cce9efe3e2e3e1e5fff8a2efe3e1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@https://www.economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="90c1e5f9ead5e3e0e2f5e3e3ffd0f5f3fffefffdf9e3e4bef3fffd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@https://www.economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Wednesday:</strong> What was the name of the sweater-wearing police officer in the Danish thriller “The Killing”?
 
