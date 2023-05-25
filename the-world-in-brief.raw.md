@@ -1,6 +1,6 @@
-## The world in brief 2023-05-24
+## The world in brief 2023-05-25
 
-Mikhail Mishustin, <strong>Russia’s </strong>prime minister, signed several agreements with <strong>China </strong>during a trip to Beijing. Mr Mishustin said [relations between the two countries](https://www.economist.com/russias-reliance-on-china-will-persist-even-after-vladimir-putin-is-gone-says-alexander-gabuev) are “at an unprecedented high level” amid “sensational pressure from the collective West”. He is the highest-ranking official to visit China since Russia invaded Ukraine in 2022. The deals included commitments to strengthen trade in agriculture and services. 
+<strong>Ron DeSantis’s</strong> [presidential-campaign launch](https://www.economist.com/briefing/2023/05/24/ron-desantis-has-little-chance-of-beating-donald-trump) on Twitter was marred by technical glitches, delaying it by nearly half an hour, during which hundreds of thousands of users tuned out of the audio broadcast. The moderator, in a feeble attempt at spin, joked that they were “breaking the internet”. In fact Twitter’s fumbling of the event was nothing short of an embarrassment for Mr DeSantis and Elon Musk.
 
 Vyacheslav Gladkov, the governor of Russia’s <strong>Belgorod</strong> region, claimed that several drones had been intercepted above his territory overnight. Russia earlier claimed to have repelled [pro-Ukrainian militias](https://www.economist.com/the-economist-explains/2023/05/23/who-are-the-pro-ukrainian-militias-raiding-russias-belgorod-region) raiding the region, which borders Ukraine, although this claim could not be verified. America insisted it did not “encourage or enable strikes inside of Russia”. Ukraine also denied any involvement. 
 
@@ -52,7 +52,7 @@ LIGO consists of two American detectors in the states of Louisiana and Washingto
 
 ## Daily Quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="90c1e5f9ead5e3e0e2f5e3e3ffd0f5f3fffefffdf9e3e4bef3fffd">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="b7e6c2decdf2c4c7c5d2c4c4d8f7d2d4d8d9d8dadec4c399d4d8da">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Wednesday:</strong> What was the name of the sweater-wearing police officer in the Danish thriller “The Killing”?
 
