@@ -4,17 +4,17 @@
 
 <strong>Germany’s</strong> economy [entered a recession](https://www.economist.com/europe/2023/03/15/germany-is-finally-tackling-its-long-standing-economic-weaknesses) after contracting for a second consecutive quarter. GDP shrank by 0.3% quarter on quarter in the first three months of 2023, following a 0.5% decline in the last quarter of 2022. Growth has been hindered by inflation which has hurt household spending. Government expenditure also decreased significantly.
 
+<strong>Iran</strong> said that it had successfully test-launched a 2,000km-range ballistic missile. The country maintains that its missile programme, one of the biggest in the Middle East, is “defensive”. This weapon, however, will be capable of reaching Israel, a long-time foe. On Tuesday the chief of Israel’s armed forces warned of “action” over Iran’s nuclear developments.
+
+<strong>Russia </strong>and <strong>Belarus</strong> signed a deal which would allow Russia to deploy [tactical nuclear missiles](https://www.economist.com/united-states/2023/03/30/perils-grow-as-america-and-russia-stop-sharing-data-on-nukes) on Belarusian territory. Both countries framed the decision as a defensive one, with Sergei Shoigu, Russia’s defence minister, calling it a response to the “sharp escalation of threats” from the West. Control of the weapons will remain with Moscow.
+
 <strong>Volodymyr Zelensky</strong>, Ukraine’s president, said that Russia launched 36 Iranian drones towards Ukraine overnight. Mr Zelensky warned Iran against supplying more drones to Russia, saying that doing so could land them on “the dark side of history”. Meanwhile the head of the [Wagner Group](https://www.economist.com/the-economist-explains/2023/05/11/why-the-boss-of-wagner-group-is-feuding-with-russias-military-leaders), a mercenary organisation, announced that his troops would transfer their positions in <strong>Bakhmut</strong> to the Russian military.
 
 <strong>Britain </strong>announced record [net migration figures](https://www.economist.com/britain/2023/05/25/british-voters-want-more-immigrants-but-less-immigration), with 606,000 people added to the country’s population in 2022. One-off factors such as an influx of [refugees from Ukraine](https://www.economist.com/interactive/international/2023/02/22/ukrainian-refugees-remain-in-limbo) and immigrants from Hong Kong (a combined total of 160,000) contributed to the increase. Asylum seekers were also included for the first time. Almost 40% of migrants came as students, although the total share of non-EU student immigration fell in 2022.
 
-Fitch warned that America’s AAA <strong>credit rating</strong> could be downgraded should the country fail to [raise its debt ceiling](https://www.economist.com/finance-and-economics/2023/05/22/what-happens-if-america-defaults-on-its-debt) before June 1st. The credit-ratings agency placed America on a “rating watch negative” list because of “increased political partisanship” hindering talks to resolve the looming fiscal crisis. President Joe Biden’s administration insisted that “a bipartisan, reasonable agreement” was possible.
+An iconic cotton tree in [Freetown](https://www.economist.com/1843/2018/10/15/spellbinding-sierra-leone-has-plenty-to-offer), <strong>Sierra Leone’s</strong> capital, was knocked down by heavy winds. The enormous tree—which is also depicted on the country’s banknotes—was considered a symbol of liberty. The freed American slaves who founded the country are believed to have huddled under its branches upon arrival to their new home. The country’s president declared it a “great loss to the nation”.
 
-<strong>Canada </strong>and <strong>Saudi Arabia</strong> agreed to restore diplomatic ties, ending a five-year feud. Both countries said they would appoint new ambassadors and build a relationship based on common interests. Their relationship had collapsed [in 2018](https://www.economist.com/middle-east-and-africa/2018/08/09/saudi-arabia-picks-a-pointless-fight-with-canada) after Canadian officials criticised Saudi Arabia’s human-rights record. The kingdom responded by freezing all new trade and investment transactions with Canada. 
-
-<strong>Tina Turner</strong>—the “queen of rock’n’roll”—died at home in Switzerland, aged 83. Known for her husky voice, she found early success in an R&amp;B musical duo with her abusive husband, Ike, whom she divorced in 1976. Years later came her reinvention as a stomping, stadium-filling solo act. She won 12 Grammys.
-
-<strong>Figure of the day: </strong>$2trn, the amount that governments spent on defence in 2022, a 4% increase in real terms over 2021.[ Read the full story. ](https://www.economist.com/international/2023/05/23/what-a-war-tax-means-for-the-global-economy)
+<strong>Figure of the day: </strong>$2trn, the amount that governments spent on defence in 2022, a 4% increase in real terms over 2021.[ Read the full story. ](https://www.economist.com/international/2023/05/23/the-cost-of-the-global-arms-race)
 
 ----------
 
@@ -54,7 +54,7 @@ The V&amp;A will also provide space for contemporary work and special commission
 
 ## Daily Quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="3362465a49764043415640405c7356505c5d5c5e5a40471d505c5e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="eabb9f8390af999a988f999985aa8f898584858783999ec4898587">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Thursday:</strong> Which car brand is based in Maranello, Italy?
 
