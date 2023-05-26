@@ -1,4 +1,4 @@
-## The world in brief 2023-05-25
+## The world in brief 2023-05-26
 
 <strong>Ron DeSantis’s</strong> [presidential-campaign launch](https://https://www.https://www.economist.com/briefing/2023/05/24/ron-desantis-has-little-chance-of-beating-donald-trump) on Twitter was marred by technical glitches, delaying it by nearly half an hour, during which hundreds of thousands of users tuned out of the audio broadcast. Mr DeSantis was forced to deliver a truncated version of his stump speech, in which he promised to lead a “great American comeback”. In a later interview with Fox News, Mr DeSantis said as president he would ensure that “woke ideology ends up in the dustbin of history”. 
 
@@ -54,7 +54,7 @@ The V&amp;A will also provide space for contemporary work and special commission
 
 ## Daily Quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="88d9fde1f2cdfbf8faedfbfbe7c8edebe7e6e7e5e1fbfca6ebe7e5">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@https://www.economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="2372564a59665053514650504c6346404c4d4c4e4a50570d404c4e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@https://www.economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Thursday:</strong> Which car brand is based in Maranello, Italy?
 
