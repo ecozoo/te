@@ -1,4 +1,4 @@
-## The world in brief 2023-05-26
+## The world in brief 2023-05-27
 
 <strong>Ukraine </strong>said it shot down ten missiles and more than 20 [drones](https://www.economist.com/science-and-technology/2023/05/08/how-ukrainians-modify-civilian-drones-for-military-use) which <strong>Russia</strong> launched at its capital, Kyiv, and eastern cities overnight. At least two people were killed and 30 more were injured in Dnipro after a missile hit a hospital there. In Kharkiv, a north-eastern city, a fire reportedly broke out in an oil depot after it was struck twice. 
 
@@ -52,7 +52,7 @@ A bigger collection of his work is showing at Akron Art Museum in Ohio until lat
 
 ## Daily Quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="9ccde9f5e6d9efeceef9efeff3dcf9fff3f2f3f1f5efe8b2fff3f1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="510024382b142221233422223e1134323e3f3e3c3822257f323e3c">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
 <strong>Friday: </strong>Which pop singer achieved international success with “Never Gonna Give You Up”, his first single?
 
