@@ -1,68 +1,50 @@
-## The world in brief 2023-06-10
-
-Federal prosecutors charged <strong>Donald Trump </strong>with 37 felonies for mishandling classified documents at his Florida and New Jersey estates and obstructing their investigation. America’s former president allegedly stored records in a ballroom and a bathroom, shared with guests a “plan of attack” prepared for him by the Pentagon and suggested that his attorney hide or destroy documents subpoenaed by a grand jury. Some of the records described America’s nuclear-weapons programme. Mr Trump is due to appear in federal court in Miami on Tuesday. 
-
-President Vladimir Putin told his Belarusian counterpart, Alexander Lukashenko, that <strong>Russia </strong>will move tactical<strong> nuclear weapons</strong> into Belarus next month. According to Mr Putin, storage facilities will be ready by July 7th or 8th. Russia [resupplies its forces](https://https://www.https://www.economist.com/the-economist-explains/2023/03/17/how-belaruss-role-in-the-invasion-of-ukraine-could-grow) from Belarusian territory, but the deployment of a nuke in Belarus would mark an escalation of the country’s role in the war in Ukraine.
-
-<strong>Boris Johnson</strong> quit his post as an MP after receiving a report by fellow lawmakers investigating whether he had [lied to them](https://https://www.https://www.economist.com/britain/2023/03/22/honest-boris-johnson-looks-done-for) about holding parties during lockdown. Their report, which has not yet been published, is said to have recommended his suspension from parliament. Britain’s former prime minister denied wrongdoing and accused his colleagues of a “political hit-job”.
-
-The <strong>Nicaraguan</strong> government confiscated property belonging to 222 former political prisoners now in exile. In February the country’s authoritarian regime [released the political activists](https://https://www.https://www.economist.com/the-americas/2023/02/16/daniel-ortega-expels-222-political-prisoners-from-nicaragua), among whom are politicians, students and priests, and put them on a plane to America. The expulsion is part of an ongoing campaign of repression designed to keep Daniel Ortega, the country’s president, in power.
-
-Ukraine’s internal security service said that it had intercepted a call that proves that a Russian “sabotage group” blew up the <strong>Kakhovka dam</strong>. <strong>Russia</strong> and <strong>Ukraine</strong> have blamed each other for the dam’s destruction, which has flooded [Kherson](https://https://www.https://www.economist.com/europe/2023/06/07/life-in-kherson-after-the-kakhovka-dams-collapse), a region in south-east Ukraine. Residents have been left stranded and without drinking water. Some of those trying to escape have been shelled.
-
-<strong>Volodymyr Zelensky</strong>, Ukraine’s president, hailed “results” in [heavy fighting](https://https://www.https://www.economist.com/leaders/2023/06/08/ukraine-strikes-back) in <strong>Donetsk</strong>, a region in the country’s east. Hanna Maliar, the deputy defence minister, said <strong>Russian </strong>forces were “actively on the defensive” around Orikhiv, a city in the south-eastern province of Zaporizhia, where Ukraine has also launched attacks. Russia denied that Ukraine had achieved any breakthroughs.
-
-Colombian authorities found <strong>four children</strong> who had been<strong> lost in the Amazon jungle</strong> for 40 days after a plane crash. On May 1st a single-engine propellor plane carrying the children, two adults and a pilot suffered engine failure and disappeared from radar. Only the bodies of the adults were recovered from the downed plane, prompting a search for the children.
-
-<strong>Word of the week</strong>: <em>vishwaguru, </em>a Sanskrit phrase meaning “teacher to the world”. Narendra Modi, India’s prime minister, hopes to transform his country into a <em>vishwaguru </em>by sharing its digital technology. [Read the full story](https://https://www.https://www.economist.com/asia/2023/06/04/how-india-is-using-digital-technology-to-project-power).
+## The world in brief 2023-07-02
 
 ----------
 
-## Ukraine’s counter-offensive comes into focus
+## Included in your subscription
 
-Ukraine’s [counter-offensive](https://https://www.https://www.economist.com/briefing/2023/06/07/ukraines-counter-offensive-is-gathering-pace) is just days old. But its shape is gradually becoming clearer. One axis points east, to Luhansk and Bakhmut. Another aims south and south-east from Vuhledar. A third is now emerging as perhaps the most important. 
 
-Ukraine has launched a major southward assault in Zaporizhia province, which forms the central part of the war’s long front line. The advance looks like the biggest one yet. It may be aimed at driving to Melitopol, from where Ukrainian rockets could in effect sever the Russian “land bridge” to Crimea, or at moving south-east towards the port city of Berdyansk.
 
-Some of Ukraine’s most advanced Western-supplied weapons, including the German Leopard tanks, are now showing up on the battlefield. The advance has made some progress, according to Western officials, but Russian military bloggers, a barometer of official sentiment, are not panicking just yet. The coming days will make clear whether the Zaporizhia axis is indeed Ukraine’s main effort, as many suspected, or a bold feint to draw away Russian reserves. 
+Emmanuel Macron, <strong>France’s </strong>president, postponed a three-day state visit to Germany that had been due to begin on Sunday, amid [widespread riots](https://https://www.https://www.economist.com/europe/2023/07/01/rioting-in-france-presents-a-fresh-political-test-for-emmanuel-macron). The violence was sparked by the killing by police of Nahel M, a teenager, during a traffic stop in Nanterre, a suburb of Paris on June 27th. More than 1,300 people were arrested on Friday.
 
-## Egypt’s government talks at the opposition
+## Macron postpones state visit to Germany
 
-Abdel-Fattah al-Sisi, Egypt’s military dictator, has a penchant for dramatic monologues. In early May, at the opening session of the country’s first National Dialogue, a series of meetings for people across the political spectrum to “exchange visions” and propose reforms, he told attendees that Egypt “deserves [their] effort, sweat and blood” for its betterment. 
+Emmanuel Macron was due to begin a state visit to Germany on Sunday, the first for a French president in more than two decades. But on Saturday he postponed the trip due to “the domestic situation” in France. Nights of rioting in Paris and other cities, provoked by the fatal shooting of a teenager by a policeman on June 27th, have [shaken the country](https://https://www.https://www.economist.com/europe/2023/07/01/rioting-in-france-presents-a-fresh-political-test-for-emmanuel-macron).
 
-So far, they have probably only shed tears of frustration. Before the event even began the regime made clear that some topics, including the country’s controversial constitution, would be off limits. Critics say that the initiative has been nothing more than window dressing.
+The rioting and looting present a particularly difficult challenge for Mr Macron. On the far left, the opposition has blamed government neglect and poverty for the unrest. On the hard right, Marine Le Pen has accused the government of a “lax” approach to law and order. The country remains tense, and the violence shows no sign of subsiding. In 2005 rioting after the deaths of two teenagers fleeing the police continued for three weeks, and required a state of emergency to end it.
 
-The third session of the National Dialogue’s political committee begins on Sunday. In theory, its discussion could lead to revisions of a law on NGOs, which in its current form threatens to stifle civil society. In a country with an [abysmal human-rights record](https://https://www.https://www.economist.com/middle-east-and-africa/2022/07/18/egypt-locks-up-terrorists-but-wont-say-which-terror-group-they-belong-to), this is worth discussing. The opposition is probably tempering its expectations: Mr Sisi is skilled at monologues, but rather unpractised at conversation. 
+## Saudi Arabia and Iran crawl towards co-operation
 
-## The women who ran Finland
+It was rumoured that [Saudi Arabia](https://https://www.https://www.economist.com/the-economist-reads/2023/06/22/what-to-read-and-watch-to-understand-saudi-arabia) would reopen its embassy in Iran after the Eid al-Adha holiday, which ends this weekend. In March the two longtime foes agreed to restore diplomatic ties and reopen their missions within two months. Iran did so on June 6th. The Saudis seem less concerned by the deadline. “We’re working on it,” says their ambassador in Washington.
 
-Finland’s [record on gender equality](https://https://www.https://www.economist.com/graphic-detail/glass-ceiling-index) is rightly famous. The state’s generosity to new parents is enviable, and women are well represented at the highest levels of business and politics. So no one was particularly surprised in 2019 when Sanna Marin became the country’s third female prime minister. But, remarkably, the leaders of the four parties in her governing coalition were also all women. A new documentary series looks at their time in power.
+Both countries hope that tensions in the region will be lowered by the agreement—as does China, which [helped broker it](https://https://www.https://www.economist.com/middle-east-and-africa/2023/03/10/china-brokers-an-iran-saudi-rapprochement). Last month the Saudi foreign minister made a rare visit to Tehran, Iran’s capital. Hostile rhetoric has given way to talk of co-operation.
 
-“First Five”, released on Friday on HBO Max, follows the quintet as they grapple with issues ranging from covid-19 to Russia’s invasion of Ukraine, all while facing intense personal scrutiny. “If I’m working, I should be with my family…If I go running, it’s wrong because I should be working,” Ms Marin protests in one scene. Their term in office ended with [defeat to a centre-right party](https://https://www.https://www.economist.com/europe/2023/04/03/sanna-marin-concedes-defeat-in-finland) in elections in April this year. But many people hope that the idea of women holding all the top political jobs will stop seeming noteworthy. “Power can look different”, says Maria Ohisalo, leader of the Greens. “Power can look like this.”
+But tangible progress has been scant. The Saudis are yet to reach a permanent truce ending their [war in Yemen](https://https://www.https://www.economist.com/middle-east-and-africa/2023/04/20/a-prisoner-swap-is-a-symbolic-step-towards-ending-the-saudi-led-war-in-yemen), where they have fought an Iranian-backed militia for eight years. Talk of big Saudi investments in Iran remains just that. Even if they are no longer foes, the two countries are far from friends.
 
-## Man City poised for Champions League victory
+## India’s chess mastery
 
-There is no doubt that Manchester City is the [best football team](https://https://www.https://www.economist.com/graphic-detail/2023/06/08/man-city-v-inter-milan-is-the-most-lopsided-final-in-champions-league-history) in Europe. They have sauntered into the Champions League final, which they will play on Saturday against Inter Milan in Istanbul. In their 12 matches in the competition, they have been behind for a total of just 76 minutes. And in Erling Braut Haaland they have the tournament’s leading goal-scorer. 
+The inaugural Global Chess League will conclude in Dubai on Sunday. The tournament—a joint venture between Tech Mahindra, an Indian IT giant, and the International Chess Federation, features six teams of six. After facing off for more than ten days in a round-robin format, Triveni Continental Kings and UpGrad Mumba Masters have made it to the finals. Alpine Warriors (led by Magnus Carlsen, the world’s top player) and Ganges Grandmasters (headed by Viswanathan Anand, a former world champion) suffered shock upsets.
 
-Their demolition of reigning champions Real Madrid in the semi-finals was one of the most complete club performances—showcasing mesmerising passing and peerless positional play—in recent memory. Even Barcelona, during their imperial era, logged a defeat (in the first leg of their round-of-16 match-up against Arsenal), before coming through to win the title in 2011. City has displayed no such carelessness, only focused progress.
+Tech Mahindra’s backing of the GCL reflects a surge in the popularity of chess in India. The country now boasts 82 grandmasters, up from just six in 2000. In February 2022 [Rameshbabu Praggnanandhaa](http://espresso.https://www.economist.com/c09461ce85141b05d3ee6f2aea257935), a then 16-year-old Indian player, became the [youngest](https://https://www.https://www.economist.com/graphic-detail/2020/11/13/the-queens-gambit-is-right-young-chess-stars-always-usurp-the-old) person ever to beat Mr Carlsen. Later that year Chennai hosted the Chess Olympiad, another international tournament. Mr Carlsen, a five-time world champion, has said he thinks India is on the brink of a “chess revolution”.
 
-Inter showed some steel in overcoming rivals AC Milan in the semis. But their players—a collection of Premier League cast-offs—are not in City’s class. For the Abu Dhabi-owned club, a first European title surely awaits.
+## Culture for kids
 
-## Weekend profile: Oleksandr Syrsky, the head of Ukraine’s ground forces
+This weekend the Victoria &amp; Albert Museum will open “Young V&amp;A” in east London—an [updated incarnation](https://https://www.https://www.economist.com/the-world-ahead/2022/11/18/after-the-pandemic-a-feast-of-great-art-shows-is-coming) of its Museum of Childhood, following a three-year revamp. Children, teachers and local residents were involved in the design process, which the curator described as an attempt to create “the most joyful museum in the world”. The result centres around three galleries with the themes of “play”, “design” and “imagine”, including interactive spaces such as a storytelling stage and a den-building area.
 
-Russia expected to take Ukraine within days. But the defender’s latest [counter-offensive](https://https://www.https://www.economist.com/briefing/2023/06/07/ukraines-counter-offensive-is-gathering-pace), which began this week, started 16 months after troops first crossed the border. Much of Ukraine’s impressive resistance is the work of Colonel-General Oleksandr Syrsky, the head of Ukraine’s ground forces.
+Young V&amp;A is meant for children up to 14 years old: a group which, in 2021, made up nearly 18% of Britain’s population. Far fewer of them are now exposed to creative subjects in schools than was once the case. Between 2010 and 2022 the number of students studying “[arts](https://https://www.https://www.economist.com/business/2019/12/12/what-businesses-can-learn-from-the-arts)” subjects—such as design, drama and music—for their GCSEs (exams normally taken at age 16) in England fell by 40%. Institutions like Young V&amp;A are hoping to help fill that gap. 
 
-General Syrsky was born in 1965 in Vladimir, about 200km east of Moscow, now Russia’s capital, but has lived in Ukraine since the 1980s. He trained alongside current Russian commanders at the elite Higher Military Command School in Moscow. But he has long fought against Russia. Before becoming head of Ukraine’s land forces in 2019 he was the ground commander for operations in the east of the country, playing a prominent role in the war that began in 2014 with [Russia’s invasion of Crimea](https://https://www.https://www.economist.com/europe/2014/07/03/war-by-any-other-name). 
+## Weekend profile: Claudine Gay, Harvard University’s first black president
 
-Despite his Soviet training, his operational flexibility differentiates him from Russian generals. He preaches NATO principles of [decentralised command](https://https://www.https://www.economist.com/the-economist-explains/2022/07/25/what-is-mission-command) and prioritises his troops’ morale. Every day he reads messages from hundreds of soldiers and regularly visits them in the field. “You must feel the spirit of the army,” he says. 
+“My parents believed that education opens every door,” said Claudine Gay, a political scientist, in a speech in December after she was appointed the 30th president of Harvard University. A spot in Harvard’s freshman class can indeed unlock doors. But Ms Gay—who starts her job on Saturday—will have to [rethink how the keys are allocated](https://https://www.https://www.economist.com/united-states/2023/06/29/how-american-universities-will-react-as-race-based-admissions-end) following the Supreme Court’s ruling that [ends race-based admissions](https://https://www.https://www.economist.com/united-states/2023/06/29/why-americas-supreme-court-has-ended-affirmative-action). 
 
-The general is said to be a gym-addicted ascetic and an obsessive planner. In February 2022, while Volodymyr Zelensky, Ukraine’s president, was playing down the risk of an attack on Kyiv, General Syrsky was quietly preparing to defend it. Before the invasion he ordered that military hardware be moved to protect it from airstrikes. When Kyiv came under threat, Ukrainian soldiers blew up a dam on the [Irpin](https://https://www.https://www.economist.com/1843/2022/03/11/the-battle-for-irpin) river to flood the Russian positions and destroy their pontoon bridge. The invaders retreated and the [capital was saved](https://https://www.https://www.economist.com/europe/2022/03/28/russia-says-it-is-changing-its-war-aims-in-ukraine). In April 2022 General Syrsky was made a Hero of Ukraine.
+Ms Gay has said that her parents, Haitian immigrants who met while studying in New York, worked hard to put themselves through college. She was born in the Bronx in 1970, and grew up between Saudi Arabia, where her father worked for the US Army Corps of Engineers, and America, where she attended Phillips Exeter Academy, a selective boarding school. Her cousin, the author [Roxane Gay](https://https://www.https://www.economist.com/christmas-specials/2022/12/20/the-economics-of-thinness), told the <em>Crimson</em>, Harvard’s student newspaper, that growing up abroad made Claudine “very resolute and badass and confident of her place in the world”. 
 
-  
- In July General Syrsky planned an operation to push Russian troops back from Kharkiv. By September, after Ukraine launched its [shock counter-offensive](https://https://www.https://www.economist.com/europe/2022/09/08/ukraines-army-pierces-russian-lines-near-kharkiv) in the north-east, he had raised his country’s flag in liberated nearby towns. 
+Her place seemed to be the upper echelon of American academia: she studied economics at Stanford University and political science at Harvard, where she began teaching in 2006. She has served as dean of two of its biggest schools. Ms Gay is the second woman to run Harvard in its nearly 400-year history, and the first non-white president.
 
-  
- More recently he led the defence of [Bakhmut](https://https://www.https://www.economist.com/europe/2023/05/12/a-renewed-push-on-bakhmut-fuels-rumours-of-a-ukrainian-counter-offensive). Military wisdom says spending so much effort to defend a strategically insignificant town makes little sense. But keeping the Russians committed to such a meagre prize was arguably a masterstroke. Many more of those will be needed for Ukraine to make gains during the counter-offensive. General Syrsky’s military brilliance faces momentous challenges.
+In 2014 a group of [Asian Americans](https://https://www.https://www.economist.com/briefing/2015/10/03/the-model-minority-is-losing-patience), represented by a conservative lawyer-activist, sued Harvard, arguing that its consideration of race in admissions was discriminatory. (The policy, known as affirmative action, gave a leg-up to black, Hispanic and Native American applicants.) That lawsuit—and another against the University of North Carolina—worked its way up to the Supreme Court. On Thursday the conservative majority ruled for the plaintiffs. 
+
+Ms Gay has credited campus diversity with improving students’ educational experiences by ensuring a “special alchemy” of backgrounds. Universities will now need a new approach, and many will no doubt be watching Harvard’s next steps<em>.</em> Hours after the decision, she responded in a video. The ruling, she said, only “strengthened our resolve to continue opening doors”.
 
 ## Weekly crossword
 
@@ -72,45 +54,46 @@ Email all four answers, along with your home city and country, by 9am GMT on Mon
 
 <strong>Cryptic clues</strong>
 
-<em>1 down</em> Religious leaders all say oath, but not honestly (10) 
+<em>1 down</em> Strange TV news: halogen not on radio channels (11) 
 
-<em>1 across </em>Particles swapping sides around opening (5) 
+<em>1 across </em>Composer’s private army (6) 
 
-<em>2 across </em>Old dudes regularly throw away chances (4)
+<em>2 across </em>Paintings, say, kept by English extremists in our home (5) 
 
-<em>3 across</em> Way to cure pollution (5)
+<em>3 across</em> Programme stored in disc he mentioned (6) 
 
-<strong>Factual clues </strong>  
-<em>1 down</em> Those holding the top titles among the Shia clergy (10) 
+<strong>Factual clues</strong>
 
-<em>1 across </em>What iron oxide has more of than pure iron (5)
+<em>1 down</em> Properties of light detected by telescopes (11) 
 
-<em>2 across </em> What American farmers wanting a bumper crop think are worsening each year (4)
+<em>1 across </em>A group Vladimir Putin has decreed must be brought under the defence ministry’s control (6) 
 
-<em>3 across</em> What is currently plaguing America’s north-east (5) 
+<em>2 across </em>What is becoming hotter and, in places, less habitable (5) 
 
-## This week’s quiz winners
+<em>3 across</em> The type of pyramid that might be built by Charles Ponzi, for example (6) 
+
+## The winners of this week’s quiz
 
 Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
 
-<strong>Martha Baker</strong>, Überlingen, Germany
+<strong>David Flack</strong>, Wichita Falls, Texas, America 
 
-<strong>Iain McIntosh</strong>, Toronto, Canada
+<strong>Dean Dowdy</strong>, Athens, Greece
 
-<strong>Andy Wyatt</strong>, Manchester, Britain 
+<strong>Cheryl Hyslop</strong>, Ottawa, Canada
 
-They all gave the correct answers of <em>pumpkin</em>, <em>shepherds</em>, <em>pork barrel</em>, <em>Apple and</em> <em>cherry blossom</em>. The theme is pies: <em>pumpkin pie, shepherds pie, pork pie, apple pie </em>and <em>cherry pie.</em>
+They all gave the correct answers of <em>Strangers on a Train, “The economy, stupid”, Witchcraft, Lady and the Tramp</em> and <em>New York</em>. The theme is Sinatra songs: <em>Strangers in the Night, Something Stupid, Witchcraft, The Lady is a Tramp</em> and <em>New York, New York</em>
 
-The questions were: 
+The questions were:
 
-<strong>Monday: </strong>What is a common name for the mature winter squash, often used for seasonal decoration?
+<strong>Monday: </strong>Which 1951 Hitchcock film was based on a Patricia Highsmith novel?
 
-<strong>Tuesday: </strong>Members of which profession were the first to hear of Jesus’s birth, according to Luke’s gospel?
+<strong>Tuesday: </strong>Which slogan, devised by James Carville, was designed to keep the Clinton Presidential campaign focused on bread-and-butter issues?
 
-<strong>Wednesday: </strong>What phrase is used to describe the practice of demanding public spending that will benefit the constituents of an elected politician?
+<strong>Wednesday: </strong>Martha Corey, Alice Parker and Ann Pudeator were amongst those executed for which crime in Salem in 1692?
 
-<strong>Thursday: </strong>Which was the first company to reach a market capitalisation of $1 trillion?
+<strong>Thursday: </strong>Which 1955 Disney film features two dogs sharing a bowl of spaghetti?
 
-<strong>Friday: </strong>Which spring festival in Japan is known as hanami?
+<strong>Friday: </strong>Which US state shares a border with both Ontario and Quebec?
 
 ----------
