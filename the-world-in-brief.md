@@ -1,4 +1,4 @@
-## The world in brief 2023-07-02
+## The world in brief 2023-07-04
 
 ----------
 
@@ -6,94 +6,46 @@
 
 
 
-Emmanuel Macron, <strong>France’s </strong>president, postponed a three-day state visit to Germany that had been due to begin on Sunday, amid [widespread riots](https://https://www.https://www.economist.com/europe/2023/07/01/rioting-in-france-presents-a-fresh-political-test-for-emmanuel-macron). The violence was sparked by the killing by police of Nahel M, a teenager, during a traffic stop in Nanterre, a suburb of Paris on June 27th. More than 1,300 people were arrested on Friday.
+<strong>Israeli troops</strong>, backed by drones and armoured bulldozers, continued an assault on a refugee camp in the city of <strong>Jenin</strong>—one of the largest incursions on the West Bank in 20 years. At least eight people have been killed and over 50 wounded since the attack began early on Monday, according to Palestinian officials. Israel’s army said it was targeting “terrorist infrastructure” belonging to the Jenin Battalion, a militia. Violence has [flared](https://https://www.https://www.economist.com/middle-east-and-africa/2023/06/29/settler-vigilantes-are-getting-more-violent-and-israels-government-is-encouraging-them) in the region in recent months. Israel’s foreign minister said there were no plans to widen the operation throughout the West Bank. 
 
-## Macron postpones state visit to Germany
+## Macron meets the mayors
 
-Emmanuel Macron was due to begin a state visit to Germany on Sunday, the first for a French president in more than two decades. But on Saturday he postponed the trip due to “the domestic situation” in France. Nights of rioting in Paris and other cities, provoked by the fatal shooting of a teenager by a policeman on June 27th, have [shaken the country](https://https://www.https://www.economist.com/europe/2023/07/01/rioting-in-france-presents-a-fresh-political-test-for-emmanuel-macron).
+On Tuesday Emmanuel Macron, France’s president, will host a meeting of more than 200 mayors of towns and suburbs that have been battered by nightly [violence and rioting](https://https://www.https://www.economist.com/europe/2023/07/01/rioting-in-france-presents-a-fresh-political-test-for-emmanuel-macron) in the past week. Among them is Vincent Jeanbrun (pictured, gesturing), the centre-right mayor of L’Haÿ-les-Roses, a southern suburb of Paris, whose front gate was rammed with a car that was set on fire on Saturday night. Mr Jeanbrun’s wife broke her leg escaping with their children as fireworks were hurled at them. 
 
-The rioting and looting present a particularly difficult challenge for Mr Macron. On the far left, the opposition has blamed government neglect and poverty for the unrest. On the hard right, Marine Le Pen has accused the government of a “lax” approach to law and order. The country remains tense, and the violence shows no sign of subsiding. In 2005 rioting after the deaths of two teenagers fleeing the police continued for three weeks, and required a state of emergency to end it.
+The[ rioting](https://https://www.https://www.economist.com/europe/2023/06/29/dismay-and-violence-after-a-police-killing-in-france), which began after a teenage driver was shot dead by police during a traffic check on June 27th, seems to have peaked. But it obliged Mr Macron to cancel a state visit to Germany so that he could manage the crisis and meet the leaders of both houses of parliament. The president hopes that deploying tens of thousands of policemen will keep things calmer. His government will now start to unpick the reasons for the sudden social upheaval. 
 
-## Saudi Arabia and Iran crawl towards co-operation
+## Putin returns to the world stage
 
-It was rumoured that [Saudi Arabia](https://https://www.https://www.economist.com/the-economist-reads/2023/06/22/what-to-read-and-watch-to-understand-saudi-arabia) would reopen its embassy in Iran after the Eid al-Adha holiday, which ends this weekend. In March the two longtime foes agreed to restore diplomatic ties and reopen their missions within two months. Iran did so on June 6th. The Saudis seem less concerned by the deadline. “We’re working on it,” says their ambassador in Washington.
+On Tuesday Vladimir Putin will meet global leaders for the first time since the [Wagner rebellion](https://https://www.https://www.economist.com/europe/2023/06/29/the-wagner-mutiny-has-left-vladimir-putin-looking-dangerously-exposed) rattled his regime. Russia’s president will participate in a virtual summit of the [Shanghai Co-operation Organisation](https://https://www.https://www.economist.com/the-economist-explains/2022/09/14/what-is-the-shanghai-co-operation-organisation), along with the leaders of China, India, Pakistan and former Soviet states in central Asia. In theory, the broad-based regional talking-shop should offer a welcome setting for Mr Putin to assure his counterparts that all is well in the Kremlin. The SCO is one of the few international groupings in which Russia still enjoys some support. 
 
-Both countries hope that tensions in the region will be lowered by the agreement—as does China, which [helped broker it](https://https://www.https://www.economist.com/middle-east-and-africa/2023/03/10/china-brokers-an-iran-saudi-rapprochement). Last month the Saudi foreign minister made a rare visit to Tehran, Iran’s capital. Hostile rhetoric has given way to talk of co-operation.
+Yet Mr Putin could yet face some awkward questions. India, for instance, the host of this year’s summit, is [moving towards the West](https://https://www.https://www.economist.com/leaders/2023/06/15/joe-biden-and-narendra-modi-are-drawing-their-countries-closer). Narendra Modi, its prime minister, has just concluded a state visit to America. At last year’s SCO summit Mr Modi urged the Russian leader to pursue peace in Ukraine. Kazakhstan’s leader has gone further than Mr Modi, directly criticising the war. Mr Putin will be hoping that his flagging invasion will not have emboldened them to go any further. 
 
-But tangible progress has been scant. The Saudis are yet to reach a permanent truce ending their [war in Yemen](https://https://www.https://www.economist.com/middle-east-and-africa/2023/04/20/a-prisoner-swap-is-a-symbolic-step-towards-ending-the-saudi-led-war-in-yemen), where they have fought an Iranian-backed militia for eight years. Talk of big Saudi investments in Iran remains just that. Even if they are no longer foes, the two countries are far from friends.
+## Germany’s resilient economy
 
-## India’s chess mastery
+On Tuesday Germany reveals its foreign trade figures for May. Going on the previous month, the outlook looks better than feared: in April, Destatis, the German statistics agency, reported an increase of 1.2% for that month, whereas a contraction of 2.5% had been predicted. Most notably in April, exports to China increased by 10.1% to €8.5bn ($9.3bn). That has also helped improve Germany’s long-standing trade deficit with its largest trading partner. German exports to America, the country’s biggest market, also increased, by 4.7% compared with March. That helped offset falling trade with Britain and a precipitous drop with Russia.
 
-The inaugural Global Chess League will conclude in Dubai on Sunday. The tournament—a joint venture between Tech Mahindra, an Indian IT giant, and the International Chess Federation, features six teams of six. After facing off for more than ten days in a round-robin format, Triveni Continental Kings and UpGrad Mumba Masters have made it to the finals. Alpine Warriors (led by Magnus Carlsen, the world’s top player) and Ganges Grandmasters (headed by Viswanathan Anand, a former world champion) suffered shock upsets.
+The data release comes as [investor sentiment](https://https://www.https://www.economist.com/business/2023/06/08/german-bosses-are-depressed) darkens over Germany’s technical recession (defined as two consecutive quarters of negative growth). The country’s manufacturing sector shrank in June as both new orders and production dwindled. Good news from the statistics office could help lift the gloomy mood.
 
-Tech Mahindra’s backing of the GCL reflects a surge in the popularity of chess in India. The country now boasts 82 grandmasters, up from just six in 2000. In February 2022 [Rameshbabu Praggnanandhaa](http://espresso.https://www.economist.com/c09461ce85141b05d3ee6f2aea257935), a then 16-year-old Indian player, became the [youngest](https://https://www.https://www.economist.com/graphic-detail/2020/11/13/the-queens-gambit-is-right-young-chess-stars-always-usurp-the-old) person ever to beat Mr Carlsen. Later that year Chennai hosted the Chess Olympiad, another international tournament. Mr Carlsen, a five-time world champion, has said he thinks India is on the brink of a “chess revolution”.
+## Australia’s monetary balancing-act
 
-## Culture for kids
+There are signs that interest rates are starting to bite down under. Australia’s annual inflation dropped to a 13-month low of 5.6% in May, from 6.8% in April. But GDP growth is also slowing. Will that prompt the Reserve Bank of Australia to hold interest rates at 4.1% when it meets on Tuesday? 
 
-This weekend the Victoria &amp; Albert Museum will open “Young V&amp;A” in east London—an [updated incarnation](https://https://www.https://www.economist.com/the-world-ahead/2022/11/18/after-the-pandemic-a-feast-of-great-art-shows-is-coming) of its Museum of Childhood, following a three-year revamp. Children, teachers and local residents were involved in the design process, which the curator described as an attempt to create “the most joyful museum in the world”. The result centres around three galleries with the themes of “play”, “design” and “imagine”, including interactive spaces such as a storytelling stage and a den-building area.
+Analysts expect at least one more hike in the coming months. Core inflation (which strips out volatile food and fuel prices, as well as holiday travel) remains above the central bank’s target of 2-3%. The labour market remains tight and house prices, against the odds, are rebounding. 
 
-Young V&amp;A is meant for children up to 14 years old: a group which, in 2021, made up nearly 18% of Britain’s population. Far fewer of them are now exposed to creative subjects in schools than was once the case. Between 2010 and 2022 the number of students studying “[arts](https://https://www.https://www.economist.com/business/2019/12/12/what-businesses-can-learn-from-the-arts)” subjects—such as design, drama and music—for their GCSEs (exams normally taken at age 16) in England fell by 40%. Institutions like Young V&amp;A are hoping to help fill that gap. 
+The bank’s governor, Philip Lowe, says he wants to “keep the economy on an even keel”. But much more tightening and it could start to list. For many Australians, that would be a new experience. Barring a brief downturn during the pandemic, when wages were anyway subsidised, the country’s last recession ended over 30 years ago.
 
-## Weekend profile: Claudine Gay, Harvard University’s first black president
+## Teachers rally in Florida
 
-“My parents believed that education opens every door,” said Claudine Gay, a political scientist, in a speech in December after she was appointed the 30th president of Harvard University. A spot in Harvard’s freshman class can indeed unlock doors. But Ms Gay—who starts her job on Saturday—will have to [rethink how the keys are allocated](https://https://www.https://www.economist.com/united-states/2023/06/29/how-american-universities-will-react-as-race-based-admissions-end) following the Supreme Court’s ruling that [ends race-based admissions](https://https://www.https://www.economist.com/united-states/2023/06/29/why-americas-supreme-court-has-ended-affirmative-action). 
+This week the National Education Association holds its annual meeting in Orlando, the “backyard” of Ron DeSantis, Florida’s governor. It is America’s biggest labour union’s first fully in-person conference since 2019, and will include a “Freedom to Learn” rally. The union opposes Mr DeSantis’s [education policies](https://https://www.https://www.economist.com/united-states/2023/01/26/ron-desantis-wants-to-limit-free-speech-in-the-name-of-free-speech), which they say curtail teachers’ and students’ rights. New laws in Florida that block discussion of race and sexuality have led teachers to reconsider how they teach the history of slavery, and school libraries to ban books such as Margaret Atwood’s <em>The Handmaid’s Tale</em>.
 
-Ms Gay has said that her parents, Haitian immigrants who met while studying in New York, worked hard to put themselves through college. She was born in the Bronx in 1970, and grew up between Saudi Arabia, where her father worked for the US Army Corps of Engineers, and America, where she attended Phillips Exeter Academy, a selective boarding school. Her cousin, the author [Roxane Gay](https://https://www.https://www.economist.com/christmas-specials/2022/12/20/the-economics-of-thinness), told the <em>Crimson</em>, Harvard’s student newspaper, that growing up abroad made Claudine “very resolute and badass and confident of her place in the world”. 
+But Mr DeSantis seems to be digging in. The Republican presidential hopeful pitches himself as a defender of “parental rights”—against, implicitly, those of teachers. Other Republican governors have also accused teachers of indoctrinating pupils with critical race theory. At least eight states have enacted new so-called school-choice laws this year, such as giving residents vouchers they can use to pay private-school tuition, bypassing public education altogether.
 
-Her place seemed to be the upper echelon of American academia: she studied economics at Stanford University and political science at Harvard, where she began teaching in 2006. She has served as dean of two of its biggest schools. Ms Gay is the second woman to run Harvard in its nearly 400-year history, and the first non-white president.
+## Daily quiz
 
-In 2014 a group of [Asian Americans](https://https://www.https://www.economist.com/briefing/2015/10/03/the-model-minority-is-losing-patience), represented by a conservative lawyer-activist, sued Harvard, arguing that its consideration of race in admissions was discriminatory. (The policy, known as affirmative action, gave a leg-up to black, Hispanic and Native American applicants.) That lawsuit—and another against the University of North Carolina—worked its way up to the Supreme Court. On Thursday the conservative majority ruled for the plaintiffs. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [[email&#160;protected]](https://https://www.https://www.economist.com/cdn-cgi/l/email-protection) We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
-Ms Gay has credited campus diversity with improving students’ educational experiences by ensuring a “special alchemy” of backgrounds. Universities will now need a new approach, and many will no doubt be watching Harvard’s next steps<em>.</em> Hours after the decision, she responded in a video. The ruling, she said, only “strengthened our resolve to continue opening doors”.
+<strong>Tuesday</strong>: Which football manager, who has won titles with Chelsea, Inter Milan and Real Madrid, is nicknamed “the Special One”?
 
-## Weekly crossword
-
-Our crossword has two sets of clues, one for seasoned cruciverbalists and the other for less experienced solvers. Both give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-Email all four answers, along with your home city and country, by 9am GMT on Monday to [[email&#160;protected]](https://https://www.https://www.economist.com/cdn-cgi/l/email-protection) We will pick randomly from those with the right answers and crown three winners in next week’s edition.
-
-<strong>Cryptic clues</strong>
-
-<em>1 down</em> Strange TV news: halogen not on radio channels (11) 
-
-<em>1 across </em>Composer’s private army (6) 
-
-<em>2 across </em>Paintings, say, kept by English extremists in our home (5) 
-
-<em>3 across</em> Programme stored in disc he mentioned (6) 
-
-<strong>Factual clues</strong>
-
-<em>1 down</em> Properties of light detected by telescopes (11) 
-
-<em>1 across </em>A group Vladimir Putin has decreed must be brought under the defence ministry’s control (6) 
-
-<em>2 across </em>What is becoming hotter and, in places, less habitable (5) 
-
-<em>3 across</em> The type of pyramid that might be built by Charles Ponzi, for example (6) 
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
-
-<strong>David Flack</strong>, Wichita Falls, Texas, America 
-
-<strong>Dean Dowdy</strong>, Athens, Greece
-
-<strong>Cheryl Hyslop</strong>, Ottawa, Canada
-
-They all gave the correct answers of <em>Strangers on a Train, “The economy, stupid”, Witchcraft, Lady and the Tramp</em> and <em>New York</em>. The theme is Sinatra songs: <em>Strangers in the Night, Something Stupid, Witchcraft, The Lady is a Tramp</em> and <em>New York, New York</em>
-
-The questions were:
-
-<strong>Monday: </strong>Which 1951 Hitchcock film was based on a Patricia Highsmith novel?
-
-<strong>Tuesday: </strong>Which slogan, devised by James Carville, was designed to keep the Clinton Presidential campaign focused on bread-and-butter issues?
-
-<strong>Wednesday: </strong>Martha Corey, Alice Parker and Ann Pudeator were amongst those executed for which crime in Salem in 1692?
-
-<strong>Thursday: </strong>Which 1955 Disney film features two dogs sharing a bowl of spaghetti?
-
-<strong>Friday: </strong>Which US state shares a border with both Ontario and Quebec?
+<strong>Monday</strong>: Apart from Abigail Adams, who was the only woman to be the wife of one US President and mother of another?
 
 ----------
