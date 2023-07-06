@@ -1,4 +1,4 @@
-## The world in brief 2023-07-06
+## The world in brief 2023-07-07
 
 ----------
 
@@ -6,46 +6,56 @@
 
 
 
-The UN’s nuclear watchdog said it had observed no “visible indications of mines or explosives” in recent weeks at the <strong>Zaporizhia</strong> [nuclear power plant](https://https://www.https://www.economist.com/the-economist-explains/2023/06/07/how-the-breach-of-ukraines-kakhovka-dam-could-affect-a-nuclear-plant) in <strong>Ukraine</strong>, but it wants greater access to confirm their absence. Earlier Volodymyr Zelensky, Ukraine’s president, claimed Russia had placed “objects resembling explosives” on the roofs of buildings at the plant, Europe’s biggest. Russia seized control of it in February 2022. 
+Jens Stoltenberg, NATO’s secretary-general, said the alliance was “monitoring closely” the whereabouts of <strong>Yevgeny Prigozhin</strong>, the mutinous head of the Wagner group of Russian mercenaries, and his troops. He confirmed Mr Prigozhin had been “moving around”. Earlier[ Alexander Lukashenko](https://https://www.https://www.economist.com/the-economist-explains/2023/06/29/how-much-power-does-alexander-lukashenko-have), <strong>Belarus’s</strong> president, said that Mr Prigozhin was in St Petersburg, not Belarus. Mr Prigozhin has not been seen in public since the[ rebellion](https://https://www.https://www.economist.com/leaders/2023/06/25/the-meaning-of-prigozhins-short-lived-mutiny) against Russia’s leaders on June 23rd. He had agreed to stop his march on Moscow in exchange for amnesty for his soldiers and exile to Belarus.
 
-## As Twitter unravels, Meta launches Threads
+## Yellen’s olive branch to China
 
-Elon Musk’s eight months in charge of Twitter have been [turbulent](https://https://www.https://www.economist.com/united-states/2022/12/01/elon-musk-is-showing-what-a-waste-of-time-twitter-can-be). He began by firing 80% of the staff. Analysts forecast that by the end of the year he will have lost 4% of Twitter’s users and 28% of its advertising revenue. Rival social apps such as Mastodon and Truth Social have briefly flared, then fizzled—allowing Twitter to burn on.
+It has been more than four years since America’s top economic official last visited China. Janet Yellen, the treasury secretary, is trying to make up for some of that lost time: she arrived in Beijing on Thursday and will depart on Sunday. A few days of high-level meetings cannot address, let alone solve, all of the problems [bedevilling the relationship](https://https://www.https://www.economist.com/business/2023/07/04/in-its-tech-war-with-america-china-brings-out-the-big-guns) between the world’s two biggest economies. Even so, more dialogue is a step in the right direction.
 
-On Thursday [Meta](https://https://www.https://www.economist.com/business/2023/07/04/the-musk-zuckerberg-social-media-smackdown), Mark Zuckerberg’s social-media empire, will release Threads, its attempt to capitalise on Twitter’s travails. Launching a new social network is notoriously hard, but Threads has a head start. Meta is practised at cloning its rivals: Instagram Stories copied from Snapchat, and Reels imitates TikTok. Users can sign in to Threads with their Instagram account—something 87% of Twitter users already have. And Twitter’s paywall, introduced on July 1st, may just give them the shove they need to fly the nest.
+As the member of Joe Biden’s cabinet seen as most friendly towards China, Ms Yellen is a good emissary for [rebuilding diplomatic bridges](https://https://www.https://www.economist.com/china/2023/06/09/america-and-china-try-to-move-past-a-new-bump-in-relations). She is likely to tell her Chinese counterparts, including [He Lifeng](https://https://www.https://www.economist.com/china/2022/09/29/who-will-be-chinas-next-economic-tsar), the country’s economic tsar, that America still wants deep commercial ties. But Chinese officials are well aware that security hawks dominate [policy circles](https://https://www.https://www.economist.com/united-states/2023/05/16/the-fault-lines-in-americas-china-policy) in Washington these days, and that doves like Ms Yellen are an increasingly rare breed.
 
-## OPEC’s simmering frustrations
+## America walks an economic tightrope
 
-On Thursday the Organisation of the Petroleum Exporting Countries, which together with allies produces 40% of the world’s oil, concludes a two-day event in Vienna. Ministers and oil-industry bigwigs are discussing the path “towards a sustainable and inclusive energy transition”. 
+America’s job market is perhaps the most important variable in the global economy today. If hiring remains ultra-strong, the [Federal Reserve](https://https://www.https://www.economist.com/finance-and-economics/2023/06/15/sooner-or-later-americas-financial-system-could-seize-up) will probably press on with raising interest rates, even at the risk of causing financial turmoil. If, however, unemployment shoots up, the Fed would stop tightening, knowing that growth is stalling.
 
-The meeting itself could be more inclusive—last week media organisations, including Reuters and Bloomberg, had their invitations rescinded. Austria’s foreign minister cancelled his keynote speech to take a stand for press freedom.
+But for now, a more ambiguous scenario looks probable: the job market may remain robust enough to justify at least one more rate increase but with [enough cracks](https://https://www.https://www.economist.com/graphic-detail/2023/05/05/americas-jobs-report-is-not-as-strong-as-it-seems) in it to provoke concern that the Fed is going too far. A raft of data out on Friday is expected to show that job creation in June was strong by historical standards but weaker than in previous months. At the same time, the unemployment rate probably ticked up. But rapid wage growth may still point to stubbornly high inflation. Getting the policy balance right is only getting harder.
 
-Rumour has it that OPEC’s decision was initiated by Prince Abdulaziz bin Salman, the Saudi energy minister, who is frustrated by the cartel’s failed attempts to lift oil prices. Its members and allies are now withholding more than 5m barrels per day, or 1.5% of global supply. Yet the [price remains stuck](https://https://www.https://www.economist.com/finance-and-economics/2023/06/19/against-expectations-oil-and-gas-remain-cheap) well below $80 a barrel, which Saudi Arabia requires to balance its books as its pursues a flurry of mega-projects, including a 170km-long linear city and a desert ski resort. That state of affairs is hardly sustainable.
+## Taiwan eyes a tech rebound
 
-## A tech fest to help humanity
+Most of the world’s semiconductors, used in everything from smartphones to advanced American weaponry, are [made in Taiwan](https://https://www.https://www.economist.com/special-report/2023/03/06/taiwans-dominance-of-the-chip-industry-makes-it-more-important). The island also makes gadgets, such as personal computers, and various components. A slowdown in global tech demand, largely caused by inflation, is thus squeezing its export-dependent economy. Exports have shrunk year-on-year for nine consecutive months, causing it to slip into recession. On Friday the ministry of finance will release the latest trade figures.
 
-On Thursday the [International Telecommunication Union](https://https://www.https://www.economist.com/international/2022/09/20/an-election-that-could-make-the-global-internet-safer-for-autocrats), an agency of the United Nations, will open its seventh “AI for Good Global Summit”, one of the UN’s biggest technology conferences. Over two days, the event in Geneva will welcome 3,000 participants, more than 100 speakers and 50 robots, including several humanoid androids such as Grace and Desdemona, a health-care and rockstar robot, respectively.
+DBS, a Singaporean bank, estimates that exports fell by 13.1% year-on-year in June—a slight improvement on May’s 14.1%. And economists expect a further improvement for Taiwan’s economy. The AI hype could help boost export demand. And an end to the region’s brutal pandemic lockdowns has sparked new life into the island’s restaurants, shops and other services. Unemployment reached a 22-year low in April. Economic growth could be back in positive territory by the third quarter, according to DBS.
 
-Yet the tech fest is not designed to spruce up the image of an age-old intergovernmental bureaucracy (the ITU was founded in 1865). The aim is to help “ensure that [AI can be a powerful catalyst](https://https://www.https://www.economist.com/interactive/science-and-technology/2023/04/22/large-creative-ai-models-will-transform-how-we-live-and-work) for progress in our race to rescue the SDGs,” in the words of Doreen Bogdan-Martin, the agency’s secretary general, referring to the UN’s sustainable development goals. Panels will discuss how AI can support farmers and improve teaching in schools, so that AI may help to close, and not further widen, the digital divide between rich and developing countries.
+## The Church of England at loggerheads
 
-## Casey DeSantis woos Iowa’s mamas
+On Friday the Church of England’s legislative body, the general synod, gathers in York for a five-day session. The mood is gloomy. Two weeks ago the church disbanded its independent safeguarding board, a panel of three experts who scrutinised the institution’s response to [abuse](https://https://www.https://www.economist.com/international/2022/07/14/catholic-reformers-want-big-changes-to-a-church-marred-by-sex-abuse) of all kinds, including sexual. Two members of the panel told the <em>Daily Telegraph</em>, a newspaper, that the church had been obstructing their work.
 
-When Ron DeSantis was running for a [second term](https://https://www.https://www.economist.com/united-states/2022/11/10/ron-desantis-and-other-winners) as Florida’s governor last year, his wife, Casey, launched “Mamas for DeSantis”. The campaign aimed to garner support for Mr DeSantis’s education policies—and remind voters that the state was helmed by a youthful family man with three children. More than a million parents signed on.
+That is not the synod’s only problem. At its previous meeting in February, it approved a controversial plan to bless—but not conduct—same-sex marriages. Liberals wanted to go further, and criticised church leaders for reaffirming a resolution from 1998 stating that gay sex was “incompatible with scripture”. Conservatives opposed the reforms. The Global South Fellowship of Anglican Churches, which claims to represent three-quarters of the world’s Anglicans, said earlier this year the Church of England had disqualified itself as its “mother church”. Expect a tense gathering.
 
-On Thursday in Iowa Mrs DeSantis will unveil the next instalment of “Mamas for DeSantis”, this time to get mothers and grandmothers behind her husband’s 2024 presidential run. Florida’s first lady is unusually active in her husband’s career. Warm and telegenic, she is credited with making the awkward Mr DeSantis more likeable, and is his closest political adviser. She will appear in Iowa without her husband—her first solo event in the heavily Christian state, which may be receptive to her family-first messaging. But she has her work cut out: the decidedly less wholesome Donald Trump remains the preferred candidate among 40% of Republican women nationally, according to a recent Fox News poll.
+## PJ Harvey’s new musical landscape
 
-## Louis Armstrong’s wonderful world
+In the fourth decade of her career, [PJ Harvey](https://https://www.https://www.economist.com/1843/2015/10/20/pj-harvey-singer-turned-poet), an English songwriter, remains a unique figure in alternative rock. Abrasive early works, such as “50ft Queenie”, are still much imitated. But Ms Harvey has long since moved on, creating more textured music in ever-evolving forms. Her new album, “I Inside the Old Year Dying”, arrives seven years after her last. It is characteristically oblique, yet there is no mistaking that this complex, atmospheric record, played largely live in the studio, is an intimate portrait of the landscape, nature and seasons of her native Dorset.
 
-When Louis Armstrong was 11 years old, growing up in a poor area of New Orleans, he fired a pistol in the air on New Year’s Eve in 1912. The crime landed him in juvenile detention for 18 months. In that time Armstrong took cornet lessons [behind bars](https://https://www.https://www.economist.com/culture/2022/08/11/a-history-of-jazzs-relationship-with-organised-crime) and joined the reform school’s brass band. A new centre dedicated to the extraordinary career that followed opens in New York on Thursday.
-
-The Louis Armstrong Centre is situated opposite the modest brownstone in Corona, Queens, where Armstrong and his wife lived from 1943 until his death in 1971 (which has long been a museum). The centre has a performance venue, multimedia exhibition centre and a 60,000-piece archive of the gravelly-voiced musician, which includes original recordings, scrapbooks, 14 mouthpieces and five trumpets. Fittingly for a man who delighted in returning to his beloved home in Corona—his own wonderful world—and playing impromptu concerts from his stoop, the centre will offer free trumpet lessons to local children. Queens’s next “[Satchmo](https://https://www.https://www.economist.com/review/1997/09/04/beloved-satchmo)” may yet emerge.
+The themes and mood on “I Inside” recall Kate Bush’s experimental song suite “The Ninth Wave”. Its depth, range and intensity mark it out as a rural counterpart to William Doyle’s “Your Wilderness Revisited”, an album celebrating the suburbs, released in 2019. Ms Harvey makes these songs feel as if they have grown directly out of the West Country’s ancient soil.
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="b6e7c3dfccf3c5c6c4d3c5c5d9f6d3d5d9d8d9dbdfc5c298d5d9db">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@https://www.economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="abfadec2d1eed8dbd9ced8d8c4ebcec8c4c5c4c6c2d8df85c8c4c6">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@https://www.economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
-<strong>Thursday:</strong> Which tennis champion was stabbed in the back in 1993 by an obsessed fan or rival Steffi Graf?
+<strong>Friday:</strong> Which Spanish court painter is known for works such as “The Third of May 1808” and a portrait of the Duke of Wellington?
 
-<strong>Wednesday: </strong>Which animated children’s TV character is the cousin of Dora the Explorer?
+<strong>Thursday:</strong> Which tennis champion was stabbed in the back in 1993 by an obsessed fan of rival Steffi Graf?
+
+## The winners of last week’s crossword
+
+Thank you to everyone who took part in our weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random, were: 
+
+<strong>Rosemary Quinn</strong>, Kuala Lumpur, Malaysia
+
+<strong>Abhinav Garg</strong>, Pleasanton, California, Americ
+
+<strong>Sonny Gaarslev</strong>, Copenhagen, Denmark
+
+They all gave the correct answers of[ Wavelengths](https://https://www.https://www.economist.com/science-and-technology/2023/06/29/a-new-gravitational-wave-detection-has-excited-astronomers),[ Wagner](https://https://www.https://www.economist.com/leaders/2023/06/29/the-humbling-of-vladimir-putin),[ Earth](https://https://www.https://www.economist.com/interactive/briefing/2023/07/01/the-surprising-upside-of-climate-migration) and[ Scheme](https://https://www.https://www.economist.com/middle-east-and-africa/2023/06/27/after-years-of-talks-indebted-arab-states-and-the-imf-are-at-an-impasse). Check back tomorrow for this week’s crossword.
 
 ----------
