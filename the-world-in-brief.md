@@ -1,4 +1,4 @@
-## The world in brief 2023-07-23
+## The world in brief 2023-07-27
 
 ----------
 
@@ -6,94 +6,44 @@
 
 
 
-<strong>Ukrainian</strong> officials said eight people were killed in the east and north of their country in <strong>Russian</strong> attacks on Friday night. Meanwhile the Russian governor of Crimea said that a drone attack on an ammunition depot had caused a brief closure of a bridge connecting the annexed peninsula to Russia, which was damaged by explosions this week. The governor of Belgorod province claimed Ukrainian forces had fired [cluster munitions](https://https://www.https://www.economist.com/the-economist-explains/2022/07/07/why-are-cluster-munitions-so-dangerous) at a village. America has recently agreed to supply such weapons, which many countries have banned, to Ukraine.
+The <strong>Federal Reserve</strong> [raised interest rates](https://https://www.https://www.economist.com/finance-and-economics/2023/07/26/americas-battle-with-inflation-is-about-to-get-trickier) by a quarter-point, taking its benchmark rate to a range between 5.25% and 5.5%. Jerome Powell, chair of America’s central bank, declined to predict the pace of future rate increases and said that would depend on forthcoming data. To policymakers’ relief, America’s inflation rate appears to be easing—it was 3% in June, down by six percentage points from a year ago.
 
-## Australians and Americans bond at sea
+## The ECB’s out-of-office meeting
 
-Talisman Sabre— a biennial military exercise between America, Australia and other countries—begins in earnest on Saturday as the <em>USS</em> <em>Canberra</em> is brought into active service. It will be the first time that an American warship is commissioned abroad. Named after an Australian heavy cruiser sunk in 1942 (pictured), the American littoral combat ship, an unusual trimaran designed to fight in coastal waters, entered Sydney harbour alongside its modern Australian namesake.
+The governing council of the European Central Bank (ECB) must be itching to go on holiday after months of difficult [interest-rate decisions](https://https://www.https://www.economist.com/finance-and-economics/2023/07/05/economists-draw-swords-over-how-to-fix-inflation). But before they set their email auto-replies, the ECB faces a final call on Thursday. Rates might go up by another quarter of a percentage point. But the council’s more doveish members may prefer to hold off until they regroup in a few weeks. 
 
-The festivities honour the tight bond between America and Australia, the strongest fibre in America’s growing [lattice](https://https://www.https://www.economist.com/united-states/2023/06/15/how-the-pentagon-thinks-about-americas-strategy-in-the-pacific) of alliances and partnerships in the Indo-Pacific to counterbalance China. With more than 30,000 troops from 16 countries, this year’s Talisman Sabre will be the largest yet. It will simulate amphibious landings, air assaults, air combat and more. Beyond showing that different military branches and countries can operate together, the exercise also signals that in any future war with China, say over Taiwan, America is unlikely to fight alone. 
+Price rises in the euro zone have slowed: both headline and core inflation (which strips out energy and food prices) stood at 5.5% in June. But the private-sector economy is weakening and business sentiment is sagging, especially in Germany. If monetary policy is indeed working to cool both inflation and growth, the ECB could be close to pausing rate hikes, as other central banks have done. But the available [data may not yet support](https://https://www.https://www.economist.com/finance-and-economics/2023/07/05/economists-draw-swords-over-how-to-fix-inflation) a change of direction. Do not email in the meantime: the central bankers are out of the office, but will be back with a re-assessment in September.
 
-## What is the future of the Latino vote?
+## African leaders go to Russia with less love
 
-This weekend over 1,500 delegates from all over America are gathering at McCormick Place, Chicago’s biggest convention centre, for the annual conference of UnidosUS. The organisation advocates progressive policies intended to help people of Latin American origin in the United States—in particular around immigration rights. The keynote speaker this year is Kamala Harris, America’s vice-president, who will champion “the economic power of the Hispanic community”. 
+The Russia-Africa Summit which starts on Thursday in St Petersburg was meant to be a diplomatic victory for Vladimir Putin. Since Russia’s president began his full-scale invasion of Ukraine the Kremlin has redoubled its efforts to [woo African states](https://https://www.https://www.economist.com/middle-east-and-africa/2023/07/26/russia-and-ukraine-are-battling-for-influence-in-africa), not least for their political influence: the continent’s 54 countries hold more than a quarter of votes at the UN General Assembly.
 
-Among Democrats, [worries about the Latino vote](https://https://www.https://www.economist.com/united-states/2022/07/07/democrats-have-a-hispanic-problem) have grown. Though Latino voters largely remain more Democrat than Republican, a swing of some—particularly men—to the Republican cause over the past decade has helped the Grand Old Party become dominant in Florida, and slow the drift of places like Texas towards the Democrats. In last year’s midterm elections, 60% of Hispanics voted Democratic, down from 72% in 2018. Who knows about 2024? 
+But the reported turnout—17 leaders versus 43 at the previous meeting in 2019—shows the limits of Russia’s appeal. A few attendees are [customers of the Wagner Group](https://https://www.https://www.economist.com/middle-east-and-africa/2023/06/27/what-next-for-wagners-african-empire) of mercenaries; others want Russian arms. Some see Mr Putin as an ally in promoting a more multilateral world. But African countries are generally pragmatic. Russia has less [economic clout](https://https://www.https://www.economist.com/interactive/middle-east-and-africa/2023/07/18/why-africa-is-poised-to-become-a-big-player-in-energy-markets) than America, China or the EU. And its recent withdrawal from a deal to release Ukrainian grain exports will have harmed African interests. As a result many of the continent’s leaders may have decided that attending would have offered Russia a public-relations win too cheaply.
 
-## A South Asian rave in London
+## Party in the DPRK
 
-The South-Asian Underground party scene has come a long way from its roots in the late 1980s. Young adults, keen to escape strict parents and a predominantly white club circuit, would once dance to <em>bhangra</em> (traditional [Punjabi dance music](https://https://www.https://www.economist.com/1843/2012/12/05/kuljit-bhamra)) and British garage electronic mashups at sweaty daytime raves. Now a new generation of British South Asian artists want their music to go global. 
+North Korea’s dictator, Kim Jong Un, is having a party—and, for the first time in years, he has invited guests. On Thursday Chinese and Russian delegations will watch a military parade that celebrates “Victory Day”—the 70th anniversary of the day North Korea claims, controversially, to have won the Korean war. No one else is known to have entered the country since it closed its borders at the start of the covid-19 pandemic, apart from a new Chinese ambassador who arrived with his staff in March and an [American soldier](https://https://www.https://www.economist.com/asia/2023/07/19/an-american-soldier-has-deserted-to-north-korea) who dashed across the border last week.
 
-This weekend the Dialled In festival returns to north-east London for a third year running. The line-up spans <em>dhol </em>drum classics to [drill-music](https://https://www.https://www.economist.com/britain/2022/05/07/the-british-police-unit-helping-remove-drill-music-videos-from-the-web)—a genre of rap. Organised in collaboration with Daytimers, No ID, and Chalo, all UK-based collectives, the festival aims to highlight hybrid identities on the dance-music scene. So far it has been a raving success. Dialled In’s trademark mix of sounds could be heard at Glastonbury this summer. It has travelled farther afield, including at the first event held by Boiler Room, a London-based online broadcaster, in Pakistan last year.
+Don’t expect a grand reopening [soon](https://https://www.https://www.economist.com/asia/2023/07/24/kim-jong-un-has-no-desire-to-let-his-country-rejoin-the-world). The pandemic allowed Mr Kim to exert even tighter control over his heavily policed fief, and to continue [developing nuclear weapons](https://https://www.https://www.economist.com/asia/2022/10/18/north-korea-is-preparing-for-another-nuclear-test-or-many). As he has China’s and Russia’s support, chidings from America or South Korea have little sting. Mr Kim is having far too good a time to let his revelries end.
 
-## How to become more creative
+## Meloni cosies up in Washington
 
-Artists, kindergarten teachers, CEOs and techy types agree that creativity is a good thing. The World Economic Forum called it “the one skill that will future-proof you for the jobs market”. But few are sure what it is—or where to find it. Luckily, <em>The Economist </em>has recommended [the best books](https://https://www.https://www.economist.com/the-economist-reads/2023/07/12/what-to-read-to-become-more-creative) on the topic. 
+Italy’s prime minister, [Giorgia Meloni](https://https://www.https://www.economist.com/europe/2022/10/22/giorgia-meloni-and-her-allies-take-power-in-italy), meets President Joe Biden in Washington on Thursday amid signs she is ready to pull her country out of China’s Belt and Road Initiative. In 2019 Giuseppe Conte’s populist coalition [signed up](https://https://www.https://www.economist.com/europe/2019/03/21/italys-plan-to-join-chinas-belt-and-road-initiative-ruffles-feathers) to the programme of infrastructure projects that spans Eurasia, the Middle East and Africa. The pact has been one of the few bones of contention between America and its ally. It is due for renewal by the end of this year. 
 
-Interested in the creative mind? “Wired to Create”, by Scott Barry Kaufman and Carolyn Gregoire, charts recent developments in neuroscience and psychology, focusing on ten things creative people do differently. “The Artist’s Way”, by Julia Cameron, is a more practical manual. Creative types such as Alicia Keys and Patricia Cornwall credit it as the source of their success. “The Cult of Creativity”, by Samuel Franklin, asks where the concept originated. His conclusion? That its rise dovetailed with post-war capitalism, when a new service economy rewarded different skills than Fordian manufacturing—an antidote for anyone who has sat, pen in hand, struggling to locate their “divine muse”.
+Ms Meloni has won friends in America by [supporting Ukraine](https://https://www.https://www.economist.com/europe/2023/05/18/for-giorgia-meloni-supporting-ukraine-has-some-useful-benefits) both diplomatically and militarily, despite being yoked in government to two parties, the Northern League and Forza Italia, once closely linked to Russia. Since becoming prime minister, she has also dropped her fiery Eurosceptic rhetoric. That too is appreciated in Washington. But Mr Biden is politically distant from the hard-right Ms Meloni and has been reluctant to invite her to the table with other European allies. Ditching the BRI could bring her [closer to the in-crowd](https://https://www.https://www.economist.com/united-states/2020/11/23/joe-biden-will-embrace-allies-and-enlist-them-to-take-on-china).
 
-## Weekend profile: Qin Gang, China’s missing foreign minister
+## And now for something completely different…
 
-At some point the ill-explained, [weeks-long disappearance](https://https://www.https://www.economist.com/china/2023/07/20/chinas-foreign-minister-goes-missing) of China’s foreign minister, Qin Gang, will come to an end. Quite possibly Mr Qin will quietly resume his duties, just as suddenly as he stopped work after a day of meetings on June 25th. Perhaps he will explain the undefined health issues that remain the only official reason for his absence. Still, Mr Qin’s career path might be about to take a grimmer turn: grandees sometimes vanish, before reappearing to face charges of corruption, immorality or dissent.
+In “Different Times: a History of British Comedy”, David Stubbs, a culture writer, charts the country’s [changing sense of humour](https://https://www.https://www.economist.com/international/2019/05/18/the-boundaries-between-politics-and-stand-up-comedy-are-crumbling). Post-war comedy, he argues, was disinterested in altering the status quo—although that is news to anyone who has watched Monty Python. But he observes that from the late 1970s comedy merged with activism: stand-ups such as Alexei Sayle and Ben Elton fought Margaret Thatcher’s Conservative governments armed with gags. A decade of foul-mouthed shows followed, which were filled with righteous anger. Then comedy entered a new phase: political correctness.
 
-Mr Qin’s absence is a big deal because he is seen as Xi Jinping’s protégé. From 2014 to 2017 he served as head of diplomatic protocol, which involved lots of contact with Mr Xi. Provoking some envy as he rose, Mr Qin was fast-tracked to ministerial rank and into the party’s central committee in 2022, not long after being made a deputy foreign minister and ambassador to Washington. 
+Mr Stubbs sees this not as a straitjacket for comedians but as a liberation. He says that scrapping offensive tropes such as “dolly birds, amiable sex pests, comical Asians [and] nancy boys” enabled comedians to explore a broader sweep of British life. It is indeed good that comedians are no longer “punching down”—but comedy thrives on transgression. If comedians become too nice they might stop punching at all.
 
-Born in 1966 in Tianjin, a port city in the north-east, Mr Qin held a variety of roles in the foreign ministry, including two stints at the Chinese embassy in London. His familiarity with the West appears to co-exist with disdain. Indeed, some claim that Mr Qin reserves a special scorn for Western reporters, dating back to his first job after university, as a government-supplied researcher for an American news agency in Beijing. 
+## Daily quiz
 
-The foreign minister is sometimes called a “wolf warrior”, but truly wolfish envoys are often crudely anti-Western. Mr Qin is more sophisticated, capable of charm and pragmatism. As the protocol chief charged with delivering a successful state visit by Donald Trump to Beijing in November 2017, Mr Qin cleared red tape and de-escalated crises, including, allegedly, a brief physical altercation between the White House’s then chief of staff, John Kelly, and a Chinese security official. 
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="feaf8b9784bb8d8e8c9b8d8d91be9b9d91909193978d8ad09d9193">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@https://www.economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
-Yet Mr Qin has a talent for menace, too. He showed it in March 2021, when the European Union’s ambassador was summoned for a midnight dressing-down by Mr Qin, over EU sanctions relating to repression in Xinjiang. When the EU envoy resisted, he was warned to think of the consequences for his delegation, and by implication for the safety of his Chinese staff, diplomats relate. 
+<strong>Thursday: </strong>Which Vincent Price horror movie was remade in 1986 by David Cronenberg with Jeff Goldblum in the lead?
 
-Still, Mr Qin’s absence is a source of regret on the capital’s diplomatic circuit. In Mr Xi’s China, the black box of elite politics is only getting more opaque. China’s ruling classes continue to heed codes of silence reminiscent of 1950s Beijing. When clever, candid officials vanish, they are missed.
-
-## Weekly crossword
-
-Our crossword has two sets of clues, one for seasoned cruciverbalists and the other for less experienced solvers. Both give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>.
-
-Email all four answers, along with your home city and country, by 9am GMT on Monday to [[email&#160;protected]](https://https://www.https://www.economist.com/cdn-cgi/l/email-protection) We will pick randomly from those with the right answers and crown three winners in next week’s edition.
-
-<strong>Cryptic clues</strong>
-
-<em>1 down</em> Oscar-dinner drama upset a politician (8,4) 
-
-<em>1 across </em>Seatless at Saint-Saens concert, left with car (6) 
-
-<em>2 across </em> Lloyd farmed sheep (5) 
-
-<em>3 across</em> King Lear’s insanity overshadows a backward country (6) 
-
-<strong>Factual clues</strong>
-
-<em>1 down</em> He joined a love-fest in Washington in June (8,4)
-
-<em>1 across </em>Its plant in Sunderland will open in 2025 (6)
-
-<em>2 across </em> Ovine newsmaker in 1996 (5) 
-
-<em>3 across</em> Where “reasonableness” has revolutionised jurisprudence (6)
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
-
-<strong>Michael Wyszkowski</strong>, Dripping Springs, Texas, America 
-
-<strong>Hoshedar Wadia</strong>, London, United Kingdom
-
-<strong>Finnbogi Óskarsson</strong>, Reykjavík, Iceland
-
-They all gave the correct answers of<em>: Kidney, Black Panther, Pinto, Royal Navy </em>and <em>Lima. </em>The theme is beans:<em> kidney, black, pinto, navy </em>and <em>lima.</em>
-
-The questions were:
-
-<strong>Monday: </strong>Nephritis is a disease associated with which organ?
-
-<strong>Tuesday: </strong>Which is the most valuable ball in the game of snooker?
-
-<strong>Wednesday: </strong>A horse with a coat consisting of patches of white and other colours is known in America by what name?
-
-<strong>Thursday: </strong>Which branch of the armed services is often referred to in the UK as the “senior service”?
-
-<strong>Friday: </strong>Which South American capital city was originally known as “Ciudad de Los Reyes”?
+<strong>Wednesday: </strong>Which French novelist had an affair with Frederic Chopin and was the subject of two poems by Elizabeth Barrett Browning?
 
 ----------
