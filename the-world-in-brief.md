@@ -1,4 +1,4 @@
-## The world in brief 2023-07-27
+## The world in brief 2023-08-03
 
 ----------
 
@@ -6,44 +6,54 @@
 
 
 
-The <strong>Federal Reserve</strong> [raised interest rates](https://https://www.https://www.economist.com/finance-and-economics/2023/07/26/americas-battle-with-inflation-is-about-to-get-trickier) by a quarter-point, taking its benchmark rate to a range between 5.25% and 5.5%. Jerome Powell, chair of America’s central bank, declined to predict the pace of future rate increases and said that would depend on forthcoming data. To policymakers’ relief, America’s inflation rate appears to be easing—it was 3% in June, down by six percentage points from a year ago.
+<strong>Russian </strong>drones damaged a Ukrainian port in Izmail, a city on the Danube near the border with Romania. In July Russia withdrew from an agreement under which it allowed Ukraine to export grain by ship across the Black Sea; since then its air force has been [targeting Ukrainian ports](https://https://www.https://www.economist.com/international/2023/07/27/russia-is-attacking-ukraines-agricultural-exports). The attack on Izmail damaged nearly 40,000 tonnes of grain destined for Africa, China and Israel. Wheat futures in Chicago, the global benchmark, rose by 4% following the strike. 
 
-## The ECB’s out-of-office meeting
+## Republicans rally around Donald Trump
 
-The governing council of the European Central Bank (ECB) must be itching to go on holiday after months of difficult [interest-rate decisions](https://https://www.https://www.economist.com/finance-and-economics/2023/07/05/economists-draw-swords-over-how-to-fix-inflation). But before they set their email auto-replies, the ECB faces a final call on Thursday. Rates might go up by another quarter of a percentage point. But the council’s more doveish members may prefer to hold off until they regroup in a few weeks. 
+On Thursday Donald Trump is expected to be arraigned in federal court in Washington, DC, facing new charges over the [most serious](https://https://www.https://www.economist.com/united-states/2023/08/02/donald-trump-is-indicted-for-trying-to-steal-the-2020-election) of his alleged crimes: the attempt to overturn the legitimate results of the 2020 election. Yet any hope that criminal indictments against Mr Trump would break his near-decade-long stranglehold on the Republican Party have now been dashed not once, or twice—but thrice. 
 
-Price rises in the euro zone have slowed: both headline and core inflation (which strips out energy and food prices) stood at 5.5% in June. But the private-sector economy is weakening and business sentiment is sagging, especially in Germany. If monetary policy is indeed working to cool both inflation and growth, the ECB could be close to pausing rate hikes, as other central banks have done. But the available [data may not yet support](https://https://www.https://www.economist.com/finance-and-economics/2023/07/05/economists-draw-swords-over-how-to-fix-inflation) a change of direction. Do not email in the meantime: the central bankers are out of the office, but will be back with a re-assessment in September.
+The former president is once again basking in good feelings. “Thank you to everyone!!! I have never had so much support on anything before,” he wrote online. After he was indicted by New York prosecutors over alleged campaign-finance misconduct in March, he enjoyed a surge in the polls. In June, he was indicted over retaining highly classified intelligence; after leaving the federal courthouse in Miami, he casually stopped by a famous Cuban restaurant.
 
-## African leaders go to Russia with less love
+Republican strategists predict the indictments will either do nothing to imperil Mr Trump or will simply grow his base of support. There is a hydra-like quality to his appeal within his party: for every head that prosecutors attempt to decapitate, two more appear in its place.
 
-The Russia-Africa Summit which starts on Thursday in St Petersburg was meant to be a diplomatic victory for Vladimir Putin. Since Russia’s president began his full-scale invasion of Ukraine the Kremlin has redoubled its efforts to [woo African states](https://https://www.https://www.economist.com/middle-east-and-africa/2023/07/26/russia-and-ukraine-are-battling-for-influence-in-africa), not least for their political influence: the continent’s 54 countries hold more than a quarter of votes at the UN General Assembly.
+## The Bank of England’s conundrum
 
-But the reported turnout—17 leaders versus 43 at the previous meeting in 2019—shows the limits of Russia’s appeal. A few attendees are [customers of the Wagner Group](https://https://www.https://www.economist.com/middle-east-and-africa/2023/06/27/what-next-for-wagners-african-empire) of mercenaries; others want Russian arms. Some see Mr Putin as an ally in promoting a more multilateral world. But African countries are generally pragmatic. Russia has less [economic clout](https://https://www.https://www.economist.com/interactive/middle-east-and-africa/2023/07/18/why-africa-is-poised-to-become-a-big-player-in-energy-markets) than America, China or the EU. And its recent withdrawal from a deal to release Ukrainian grain exports will have harmed African interests. As a result many of the continent’s leaders may have decided that attending would have offered Russia a public-relations win too cheaply.
+Most economists expect Britain’s monetary policymakers on Thursday to raise the base interest rate by 0.25 percentage points, to 5.25%. That would follow similar moves by central banks in America and Europe last week and take the cost of borrowing to its highest level in 15 years. 
 
-## Party in the DPRK
+House prices have fallen by 3.8% since last year, a sign that rising rates are taking a toll. But after nearly two years of tightening, there remains pressure to turn the screws further still. The economy continues to prove resilient while Britain suffers from the highest [inflation rate](https://https://www.https://www.economist.com/britain/2023/06/21/britains-inflation-pain-is-mostly-self-inflicted-and-getting-worse) among G7 countries, despite a larger-than-expected drop last month. Mortgage approvals rose in June and net consumer borrowing recently hit a five-year high. 
 
-North Korea’s dictator, Kim Jong Un, is having a party—and, for the first time in years, he has invited guests. On Thursday Chinese and Russian delegations will watch a military parade that celebrates “Victory Day”—the 70th anniversary of the day North Korea claims, controversially, to have won the Korean war. No one else is known to have entered the country since it closed its borders at the start of the covid-19 pandemic, apart from a new Chinese ambassador who arrived with his staff in March and an [American soldier](https://https://www.https://www.economist.com/asia/2023/07/19/an-american-soldier-has-deserted-to-north-korea) who dashed across the border last week.
+As a result, markets have not ruled out the possibility that the bank goes further and raises rates by half a percentage point. With few tools at its disposal, the Bank of England must execute a delicate balancing act of tackling inflation without driving the economy into recession.
 
-Don’t expect a grand reopening [soon](https://https://www.https://www.economist.com/asia/2023/07/24/kim-jong-un-has-no-desire-to-let-his-country-rejoin-the-world). The pandemic allowed Mr Kim to exert even tighter control over his heavily policed fief, and to continue [developing nuclear weapons](https://https://www.https://www.economist.com/asia/2022/10/18/north-korea-is-preparing-for-another-nuclear-test-or-many). As he has China’s and Russia’s support, chidings from America or South Korea have little sting. Mr Kim is having far too good a time to let his revelries end.
+## A shaky peace for Filipino Muslims
 
-## Meloni cosies up in Washington
+On Thursday around 1,300 Muslim guerrillas will turn in their weapons as part of a process to end decades of rebellion in the Philippines. The former fighters belong to the Moro Islamic Liberation Front, which had been battling for an independent homeland in the south of the predominantly Christian country.  
+  
+ In 2014 the Front agreed to settle for greater autonomy for an area known as Bangsamoro. The region now has its own parliament. The government and the fighters’ leaders are now rushing to finish disarming as many as 40,000 guerrillas—and turning them into civilians—before elections due in May 2025. Help with new livelihoods is offered to those who put down arms. 
 
-Italy’s prime minister, [Giorgia Meloni](https://https://www.https://www.economist.com/europe/2022/10/22/giorgia-meloni-and-her-allies-take-power-in-italy), meets President Joe Biden in Washington on Thursday amid signs she is ready to pull her country out of China’s Belt and Road Initiative. In 2019 Giuseppe Conte’s populist coalition [signed up](https://https://www.https://www.economist.com/europe/2019/03/21/italys-plan-to-join-chinas-belt-and-road-initiative-ruffles-feathers) to the programme of infrastructure projects that spans Eurasia, the Middle East and Africa. The pact has been one of the few bones of contention between America and its ally. It is due for renewal by the end of this year. 
+But the peace is precarious. In June, government forces killed seven members of the Front; the group says they were mistaken for members of other armed bands. A yet greater threat comes from fighters professing allegiance to [Islamic State](https://https://www.https://www.economist.com/asia/2017/07/20/winning-the-war-with-is-in-the-philippines-but-losing-the-peace). The jihadis briefly seized the city of Marawi in 2017 and still yearn for a Southeast Asian caliphate.
 
-Ms Meloni has won friends in America by [supporting Ukraine](https://https://www.https://www.economist.com/europe/2023/05/18/for-giorgia-meloni-supporting-ukraine-has-some-useful-benefits) both diplomatically and militarily, despite being yoked in government to two parties, the Northern League and Forza Italia, once closely linked to Russia. Since becoming prime minister, she has also dropped her fiery Eurosceptic rhetoric. That too is appreciated in Washington. But Mr Biden is politically distant from the hard-right Ms Meloni and has been reluctant to invite her to the table with other European allies. Ditching the BRI could bring her [closer to the in-crowd](https://https://www.https://www.economist.com/united-states/2020/11/23/joe-biden-will-embrace-allies-and-enlist-them-to-take-on-china).
+## Amazon’s post-pandemic struggles
 
-## And now for something completely different…
+On Thursday Amazon, the world’s largest online retailer, will report its second-quarter results. Analysts think sales rose by a meagre 8% year on year, not counting those of its cloud division. That is a fraction of the 42% gain it reported for the same quarter in 2020. Back then, with lockdowns forcing consumers to move much of their spending online, pundits foresaw a golden age for e-commerce. The reality has been less lustrous. 
 
-In “Different Times: a History of British Comedy”, David Stubbs, a culture writer, charts the country’s [changing sense of humour](https://https://www.https://www.economist.com/international/2019/05/18/the-boundaries-between-politics-and-stand-up-comedy-are-crumbling). Post-war comedy, he argues, was disinterested in altering the status quo—although that is news to anyone who has watched Monty Python. But he observes that from the late 1970s comedy merged with activism: stand-ups such as Alexei Sayle and Ben Elton fought Margaret Thatcher’s Conservative governments armed with gags. A decade of foul-mouthed shows followed, which were filled with righteous anger. Then comedy entered a new phase: political correctness.
+After jumping from 12% to 16% in early 2020, the share of all retail sales made online in America has stagnated at 15%. It is now roughly where it would have been had the pre-pandemic trend continued uninterrupted. 
 
-Mr Stubbs sees this not as a straitjacket for comedians but as a liberation. He says that scrapping offensive tropes such as “dolly birds, amiable sex pests, comical Asians [and] nancy boys” enabled comedians to explore a broader sweep of British life. It is indeed good that comedians are no longer “punching down”—but comedy thrives on transgression. If comedians become too nice they might stop punching at all.
+To boost growth Amazon has been expanding [grocery shopping](https://https://www.https://www.economist.com/business/2023/07/24/why-walmart-is-trouncing-amazon-in-the-grocery-wars). But progress has been slow. Selling groceries is a low-margin business. Delivery costs make online grocery sales a loss-making proposition unless extra fees are added. The speedy rise of e-commerce may be entering a more sluggish phase.
 
-## Daily quiz
+## World cycling in Scotland
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="feaf8b9784bb8d8e8c9b8d8d91be9b9d91909193978d8ad09d9193">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@https://www.economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Some cycling events, such as the [Tour de France](https://https://www.https://www.economist.com/culture/2023/07/05/high-speed-descents-are-the-talk-of-the-tour-de-france), draw huge crowds. Others, like artistic cycling, where riders perform handstands on handlebars, do not. Consolidation can help those formats that struggle for media coverage. 
 
-<strong>Thursday: </strong>Which Vincent Price horror movie was remade in 1986 by David Cronenberg with Jeff Goldblum in the lead?
+The Union Cycliste Internationale, the governing body, has opted to roll the world championships of 13 separate disciplines, from BMX to cross-country racing, into a single event. Beginning on Thursday the Cycling World Championships will be contested in Glasgow and across Scotland for 11 days. Some events will also serve as qualifiers for the Olympics in Paris in 2024.
 
-<strong>Wednesday: </strong>Which French novelist had an affair with Frederic Chopin and was the subject of two poems by Elizabeth Barrett Browning?
+Familiar faces in the velodrome will include Harrie Lavreyson of the Netherlands, an Olympic and four-time world champion in the men’s sprint. Annemiek van Vleute, the all-time-great Dutch road cyclist, will also be competing. There may even be an appearance in the men’s road race from Tadej Pogacar of Slovenia, straight from his second-place finish in the Tour de France.
+
+## Daily Quiz
+
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="1445617d6e516764667167677b5471777b7a7b797d67603a777b79">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@https://www.economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+
+<strong>Thursday</strong>: What was the name of the “paranoid android” in “The Hitchhiker’s Guide to the Galaxy” series?
+
+<strong>Wednesday</strong>: Which businessman served as Secretary of commerce during the Trump administration?
 
 ----------
