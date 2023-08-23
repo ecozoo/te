@@ -1,4 +1,4 @@
-## The world in brief 2023-08-15
+## The world in brief 2023-08-23
 
 ----------
 
@@ -6,50 +6,48 @@
 
 
 
-The grand jury in<strong> Georgia</strong> investigating <strong>Donald Trump’s</strong> attempts to overturn the 2020 presidential election delivered ten indictments. More details, including the names of those charged, are to be revealed later on Monday night. Mr Trump has already been [indicted three times](https://www.economist.com/the-economist-explains/2022/10/05/how-much-legal-jeopardy-is-donald-trump-in) this year. The investigation in Georgia reportedly stems from a phone call Mr Trump made to Brad Raffensperger, the state’s top election official, asking him to “find 11,780 votes” to reverse his loss in the state.
+John Eastman, a lawyer [indicted](https://www.economist.com/united-states/2023/08/15/donald-trumps-racketeering-indictment-is-the-most-sweeping-yet) alongside <strong>Donald Trump</strong> for trying to overturn the 2020 presidential election results in <strong>Georgia</strong>, surrendered to authorities. Of the 18 co-defendants in the sweeping racketeering case, he was one of the first to turn himself in. He has denied the charges. Mr Trump has said he will surrender to authorities in Georgia on Thursday. Mark Meadows, Mr Trump’s former chief of staff and co-defendant [charged with racketeering](https://www.economist.com/united-states/2023/08/15/donald-trumps-racketeering-indictment-is-the-most-sweeping-yet), asked a federal court to block his arrest if he does not hand himself over to a state court in Georgia. Mr Meadows is seeking to move his case to federal court. Both deny wrongdoing.
 
-## Narendra Modi celebrates
+## Donald Trump declines to debate
 
-Delhi will be awash with tricolour flags on Tuesday as India celebrates 76 years of independence. [Narendra Modi](https://www.economist.com/asia/2023/06/15/narendra-modi-is-the-worlds-most-popular-leader), the prime minister, who will speak on the occasion at the Red Fort in Delhi, has more reason to celebrate than most. With less than a year to go until a general election, around 75% of Indians approve of the way he runs the country. In parliament last week he easily deflected the latest attempt by the opposition to hold his government to account for its handling of a deadly ethnic conflict in the north-eastern state of [Manipur](https://www.economist.com/asia/2023/06/29/ethnic-conflict-drags-on-in-manipur-in-indias-north-east) (Mr Modi has not visited the state since violence erupted in early May). 
+When the first debate among contenders for the Republican Party’s presidential nomination takes place in Wisconsin on Wednesday evening, the front-runner will be missing. Donald Trump, who is polling 37 percentage points ahead of his closest rival Ron DeSantis, Florida’s governor, says “the public knows who I am”. 
 
-America and other Western countries, keen to enlist India in their geopolitical rivalry with China, are keeping largely mum about the government’s Hindu-nationalist ideology, the attacks on civil society and the increasingly aggressive sidelining of India’s 200m Muslims. Nine years into the job, Mr Modi is sitting tighter than ever.
+Eight of Mr Trump’s rivals will be hoping to win a measure of fame on the debate stage. Hot topics will probably include abortion and America’s support for Ukraine. Yet, even in absentia, Mr Trump may steal the limelight. The <em>New York Times</em> reports that he has recorded an interview with Tucker Carlson, a tub-thumping former Fox News host, which will be released just as the debate airs. On the following day Mr Trump can expect more notoriety when he is [arraigned in Georgia](https://www.economist.com/united-states/2023/08/15/donald-trumps-racketeering-indictment-is-the-most-sweeping-yet) on charges that he sought to overturn the state’s vote for Joe Biden in the presidential election in 2020. Georgia, not Wisconsin, will be on voters’ minds. 
 
-## Rising anxiety about China’s economy
+## Russia’s struggling economy
 
-President Joe Biden is among those now worried about China’s economy. Thanks to an ageing population and weak hiring, China is a “ticking time-bomb”, he said at a fundraiser this month. “So they got some problems,” he concluded. On Tuesday China’s government will provide an update on the precise size of these problems. 
+On Wednesday Russia will publish industrial-production figures for July. Economists expect an increase of 5% compared with a year before, which would be the fifth consecutive monthly rise. 
 
-New data may show that youth unemployment in China’s cities, which reached 21.3% in June, rose again in July, as more graduates finished their studies and began looking for work. Other figures will reveal whether the recovery in services, like catering, is abating or spreading to big-ticket consumer goods. 
+The trend suggests that Russian manufacturers are adapting to the West’s sanctions and industrialists are finding alternative ways to source the components they need to keep producing goods for both Russia’s military and civilian economies. German exports to Russia’s friendlier neighbours in Central Asia, for example, have shot up suspiciously. 
 
-This month China has already reported [declining consumer prices](https://www.economist.com/finance-and-economics/2023/08/10/deflation-and-default-haunt-chinas-economy), a precipitous drop in exports and alarmingly weak demand for credit. On top of all that, Mr Biden’s government has imposed new [limits](https://www.economist.com/leaders/2023/08/10/joe-bidens-china-strategy-is-not-working) on American investment in the country. If China does indeed have problems, Mr Biden is one of them.
+However, the recovery in imports and a slump in the value of exports have contributed to a decline in the value of the [rouble](https://www.economist.com/finance-and-economics/2023/08/14/russia-will-struggle-to-cope-with-a-sinking-rouble), which briefly dropped below one American cent last week. The central bank raised interest rates by 3.5 percentage points, to 12%, to help prop up the currency. In the longer term, that should dampen Russia’s manufacturing output, at least for the civilian economy.
 
-## Investigating America’s withdrawal from Afghanistan
+## Zimbabwe’s general election
 
-Two years ago on Tuesday images of desperate Afghans climbing onto American cargo planes to escape the [Taliban](https://www.economist.com/asia/2023/05/01/life-under-the-rule-of-the-taliban-20) shocked the world. On August 15th 2021 Kabul fell when Afghanistan’s government surrendered after a [chaotic final withdrawal](https://www.economist.com/leaders/2021/08/21/the-fiasco-in-afghanistan-is-a-grave-blow-to-americas-standing) of American and coalition troops. Thousands of Afghans who had worked with the Americans (and others) were stranded. 
+When Zimbabweans [head to the polls](https://www.economist.com/by-invitation/2023/08/21/miles-tendi-on-the-depressingly-business-as-usual-feel-to-zimbabwes-election) on Wednesday they will do so in a despondent mood. Nearly three-quarters of people in the southern African country think it is going in the wrong direction, public-opinion surveys suggest. Little wonder: the annual rate of inflation hit 175.8% in June, the highest in nearly two and a half years. Millions have emigrated. 
 
-The humanitarian crisis marked a bitter end to a 20-year war. Republicans refuse to let President Joe Biden, who completed the hasty withdrawal begun by Donald Trump, forget. Michael McCaul, a congressman from Texas, claims that the Biden administration had no evacuation plan and has subpoenaed documents from the State Department. Despite receiving some records, Mr McCaul remains unsatisfied and has given the department until Wednesday to produce further material.
+In theory poor economic conditions should spell doom for President Emmerson Mnangagwa and the ruling Zimbabwe African National Union Patriotic Front. But in Zimbabwe voters’ views do not always translate into election results. ZANU PF has a history of rigging elections. Nelson Chamisa, leader of the main opposition party, Citizens Coalition for Change, claims that chicanery is once again rife. He is likely to contest the result. 
 
-Democrats suspect Mr McCaul is unlikely to uncover significant new information. Some Republicans doubt the public even [cares](https://www.economist.com/graphic-detail/2021/08/19/americans-views-on-the-afghanistan-withdrawal-run-along-party-lines). To the Afghans left behind, [routes to safety](https://www.economist.com/asia/2021/11/27/scammers-are-preying-on-afghans-desperate-to-leave-their-country) that do not involve smugglers and dinghies may matter more.
+If there is credible evidence of rigging, it will be hard for Zimbabwe to end its pariah status in the eyes of Western governments. As a result it will only deepen its ties with Russia and China. 
 
-## An international force for Haiti
+## Projecting power in the South China Sea
 
-Discussions will intensify this week about an international peacekeeping force for Haiti. A request last year by the country’s prime minister, Ariel Henry, for help to combat rampant gang violence received [widespread backing](https://www.economist.com/the-americas/2022/10/20/an-american-backed-foreign-force-may-be-sent-to-haiti), including from the UN. But the process stalled when no country was willing to take the lead. Last month Kenya offered to do so, and America said it would be willing to sponsor a resolution for the UN Security Council to authorise a deployment. 
+Three big warships—from America, Australia and Japan—are due to assemble this week, possibly as early as Wednesday, for exercises in the South China Sea. The allied flotilla will carry helicopters and fighter planes. The joint exercises are meant to show off allied naval force in the face of Chinese power farther north, in the waters around Taiwan, which China [claims as its own](https://www.economist.com/the-economist-explains/2023/02/10/how-the-nine-dash-line-fuels-tensions-in-the-south-china-sea). 
 
-The Kenyan offer of 1,000 police has been controversial, given the force’s poor human-rights record at home. In any case, Haitians dislike the idea of more foreign boots in their country. But they see no other way to tame [the chaos](https://www.economist.com/the-economist-explains/2021/07/19/why-is-haiti-so-difficult-to-govern). Since the assassination of the former president, Jovenel Moïse, in July 2021, there have been no elections in Haiti. Killings, kidnappings and sexual abuse have increased dramatically, according to a new report by Human Rights Watch, a lobby group. Even with international intervention, an end to Haiti’s misery seems far off.
+They will take place near the Philippines, which is already in a maritime dispute with China. [A rotting warship](https://www.economist.com/asia/2023/08/10/a-rotting-warship-becomes-a-flashpoint-for-sino-american-rivalry), deliberately run aground in 1999 around 200km from Palawan, a Philippine island, serves as a holdout against Chinese expansion, asserting a claim to parts of the South China Sea. The most harmful weapons used so far have been blinding laser beams and bruising water cannon, wielded by China. The Philippines has no aircraft-carriers, so its government’s alliances with America, Australia and Japan help to keep the dispute’s intensity low. China has to think twice about clashing with its small neighbours when they have powerful friends. 
 
-## Home Depot’s housing problem
+## India’s nail-biting moonshot
 
-On Tuesday Home Depot, America’s largest home-improvement retailer, reports its second-quarter earnings. Its profits have probably slid: as the housing market cools, American shoppers are spending less on DIY materials and expensive items like patio furniture and barbecues. 
+India aims to land [the first spacecraft](https://www.economist.com/science-and-technology/2023/08/16/a-pair-of-indian-and-russian-probes-approach-the-moon) near the Moon’s shadowy south pole on Wednesday, days after a Russian mission, <em>Luna 25</em>, [crashed nearby](https://www.economist.com/science-and-technology/2023/08/20/russias-bid-to-return-to-the-moon-comes-to-an-ignominious-end). An earlier attempt by India in September 2019 failed, as did those by Israel, Japan and the United Arab Emirates. The Indian Space Research Organisation’s lander is designed to disgorge a rover to study, among other things, ice that might one day be tapped to produce drinking water, oxygen and hydrogen fuel. India’s mission, <em>Chandrayaan-3</em>, cost less than it did to produce “Gravity”, a Hollywood space thriller from 2013. A successful touchdown will boost investment in India’s space industry, as well as national pride.
 
-America’s benchmark interest rate is at its highest in over two decades, putting off homebuyers—4m existing [homes](https://www.economist.com/finance-and-economics/2023/06/12/is-the-global-housing-slump-over) were sold in the year to June, a fall of 3.3% on the previous 12 months. Foreign investors are also retreating. International buyers bought around 85,000 American homes between April 2022 and March this year, the fewest since this data was first tracked in 2009. 
-
-There is some good news on the horizon. [Inflation](https://www.economist.com/finance-and-economics/2023/07/26/americas-battle-with-inflation-is-about-to-get-trickier) is gradually subsiding, a sign that the Federal Reserve’s policy of raising interest rates is working. Investors now expect the Fed to start cutting rates in 2024. That should encourage borrowing, and shopping. Home Depot will have to endure the pain for just a little longer.
+It will also make India just the fourth country, after America, the Soviet Union and China, to have landed on the Moon. But India’s is not the last such mission: Japan launches its own on August 26th, and more American missions will follow. The rush to return to the Moon has only just begun.
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="0352766a79467073716670706c4366606c6d6c6e6a70772d606c6e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="ecbd998596a99f9c9e899f9f83ac898f83828381859f98c28f8381">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
-<strong>Tuesday: </strong>Which sculptor, the first woman to win the Turner prize, is best known for her cast of the inside of a terraced house?  
-  
-<strong>Monday:</strong> Which British actor created the comedy “Fleabag”?
+<strong>Wednesday: </strong>Which American government agency has four production centres in Denver, Philadelphia, San Francisco and West Point?
+
+<strong>Tuesday:</strong> Which novel by Ira Levin is about a woman who is tricked into giving birth to Satan’s child?
 
 ----------
