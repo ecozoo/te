@@ -1,4 +1,4 @@
-## The world in brief 2023-09-06
+## The world in brief 2023-09-07
 
 ----------
 
@@ -6,48 +6,48 @@
 
 
 
-<strong>Oil</strong> prices rose marginally higher on Wednesday morning, with Brent crude remaining above $90 a barrel—the [first time](https://www.economist.com/finance-and-economics/2023/06/19/against-expectations-oil-and-gas-remain-cheap) it has breached that level this year. Saudi Arabia and Russia, the world’s second- and third-largest producers, said they would continue to limit output. [Saudi Arabia](https://www.economist.com/business/2023/03/16/saudi-aramco-makes-an-eye-popping-160bn-in-profit) is choking supply at around 9m barrels per day, 25% below its declared maximum output. It will continue to do so until the end of 2023.
+<strong>America</strong> said it would give <strong>Ukraine</strong> depleted uranium shells, used in M1 Abrams tanks, as part of a package of [military](https://www.economist.com/leaders/2023/07/06/a-new-era-of-high-tech-war-has-begun) and humanitarian aid worth $1bn. The announcement came as Antony Blinken, America’s secretary of state, visited Kyiv, Ukraine’s capital, for the third time since the war began. In the eastern city of Kostiantynivka, meanwhile, <strong>Russian </strong>shelling killed at least 17 people and injured many more.
 
-## A Georgia arraignment, minus Donald Trump
+## Good news for China’s economy?
 
-Donald Trump’s private jet will not be landing in Georgia on Wednesday. After [turning himself in](https://www.economist.com/the-economist-explains/2023/08/24/donald-trump-and-the-history-of-the-mugshot) to authorities at the Fulton County jail in August, he waived his right to appear at his arraignment. Last week he pleaded not guilty to [racketeering and other charges](https://www.economist.com/united-states/2023/08/15/donald-trumps-racketeering-indictment-is-the-most-sweeping-yet) stemming from his alleged effort to change the result of the 2020 presidential election. 
+An impressive export boom helped [China’s economy](https://www.economist.com/finance-and-economics/2023/08/24/chinas-economy-is-in-desperate-need-of-rescue) weather the pandemic. Now that the country’s growth is faltering again, some worry it will try to export its way out of trouble by deliberately devaluing the yuan. That seems unlikely. China has kept its currency fairly stable on a trade-weighted basis and is keen to avoid the kind of destabilising capital outflows that followed its clumsy devaluation in 2015. 
 
-Some of his 18 co-defendants, however, will be arraigned in person. Mark Meadows, Mr Trump’s former chief of staff, is trying to get his case moved from state to federal court (where he believes his prospects would be better). He argues that, by facilitating Mr Trump’s alleged conspiracy, he was merely doing his job. In court filings, three others—Republicans who submitted false paperwork to Congress alleging that Mr Trump had won Georgia—have pointed fingers at Mr Trump. All were charged under a law [originally designed to bring down the mafia](https://www.economist.com/the-economist-explains/2023/08/15/why-was-rico-a-mafia-targeting-act-used-to-charge-donald-trump). Their strategy is fast becoming apparent: blame the kingpin.
+Nonetheless, hopes are rising that China’s exports may be close to bottoming out. The global economy has not been as weak as feared. China’s shipments to Asia, Latin America and Africa have also proved more resilient this year than its sales to America. Figures released later on Thursday may show that China’s exports grew in dollar terms in August compared with the previous month, even if they were still much lower than a year earlier. That would represent a rare piece of good news amid the China gloom.
 
-## Rishi Sunak’s rough question time
+## Britain is losing its way in cutting carbon
 
-On Wednesday Rishi Sunak faces Sir Keir Starmer, the leader of the opposition, at the first Prime Minister’s Questions since Britain’s Parliament broke up on July 19th. It will be a rough ride. 
+To the east of Britain lies the windy North Sea. Sailors have battled the gusts for around 2,000 years. More recently, Britain has harnessed them in another way: [building offshore wind turbines](https://www.economist.com/britain/2023/09/05/britain-is-losing-its-way-in-cutting-carbon). Geographical blessing was aided by clever policy, such as “contracts for difference”, which guaranteed investors’ returns and drove down costs rapidly Last year, offshore turbines—some of which stand over 300 metres tall—provided around one-seventh of Britain’s electricity. Only China has installed more. 
 
-In the summer recess before an election year, governing parties typically road-test their campaign lines. That went badly for Mr Sunak’s Conservatives. A week focused on irregular migrant boats ended with the evacuation, over a legionella scare, of a barge intended as new accommodation for asylum-seekers. In “health week” NHS waiting figures reached a new high. And as schools returned on Monday, ministers were scrambling to identify hundreds of buildings feared to be unsafe because of [flaws in their concrete](https://www.economist.com/the-economist-explains/2023/09/04/why-some-british-school-buildings-might-be-unsafe). 
+There are concerns, however, about the latest renewable-energy auction, the results of which are expected from Thursday. In contrast to previous rounds, few if any offshore wind projects are expected to win contracts. Developers blame the government for not increasing its maximum strike price—the highest bid allowed to developers in a reverse auction—in line with spiralling building costs. With other wealthy countries competing for the steel and vessels needed to erect turbines, a hiatus could knock the wind out of a British success story.
 
-Grim polls for the Tories have barely shifted in recent months: a survey by Redfield and Wilton, a pollster, published on Monday, gave Labour a 16-point lead. Sir Keir had a 17-point advantage over his rival—his best result since Mr Sunak became prime minister last October.
+## “Ghost guns” are back in court
 
-## Mexico’s ruling party picks its presidential candidate
+A clash resumes on Thursday over “[ghost guns](https://www.economist.com/the-economist-explains/2021/04/09/what-are-ghost-guns-and-can-joe-biden-stop-their-spread)”—kits for building untraceable weapons. The Fifth Circuit Court of Appeals will consider whether a judge in Texas was right to block a rule, imposed last year by the Bureau of Alcohol, Tobacco, Firearms and Explosives, that subjects ghost guns to the same regulations as conventional firearms. 
 
-Morena, Mexico’s ruling party, will on Wednesday announce its candidate for the presidential election in June 2024. It will almost certainly be Claudia Sheinbaum, the former mayor of Mexico City. She was 17 percentage points ahead of her closest rival in the final public opinion poll in August, before Morena began its opaque process of surveying 12,500 people across Mexico to help make its pick. Ms Sheinbaum is a heavyweight politician, but has benefited from the implicit support of Andrés Manuel López Obrador, the president.
+The plaintiffs—a ghost-gun producer and gun-rights advocates—claim law-abiding citizens should be free to make firearms for their own use. They say the ATF’s rule undermines a practice that has persisted “since the earliest colonial days”. 
 
-On September 3rd Xóchitl Gálvez, a senator, was anointed the candidate for an opposition coalition comprising the Institutional Revolutionary Party, the National Action Party and the Party of the Democratic Revolution. Mexico is therefore almost certain to get its [first female president](https://www.economist.com/the-americas/2023/05/23/mexico-could-elect-its-first-female-president-next-year) next year. Hugely charismatic, Ms Gálvez will put up a good fight. Morena is projected to win the presidency, but Ms Sheinbaum may rule over a divided congress.
+The government condemns this as inconsistent with the law—and “common sense”. It likens the regulation to those governing flat-pack furniture: it is obvious that a tax on sales of bookshelves would also apply to boxes of parts and tools for self-assembly. To conclude otherwise for ready-to-assemble guns “makes a mockery of Congress’s careful regulatory scheme”. The Supreme Court, which temporarily reinstated the ghost-gun regulations in August, will probably have the last word. 
 
-## Australia braces itself for economic slowdown
+## Strikes loom at Chevron’s Australian gas plants
 
-Interest rates may well have peaked down under. On Tuesday Australia’s Reserve Bank held them steady at 4.1% for the third consecutive month, after inflation dropped by more than expected. The annual inflation rate eased to 4.9% in July, from 5.4% in June. 
+Picket lines may soon go up at two of Chevron’s biggest liquefied natural gas projects in Australia, Gorgon and Wheatstone. Talk of industrial action emerged after Offshore Alliance, a union, spurned a recent pay proposal. The union threatened to cost the supermajor billions of dollars: the plants made nearly $7bn last year, almost a fifth of Chevron’s total profit. A strike planned for Thursday has been delayed by at least a day, while the two sides negotiate.
 
-But it isn’t all good news. Australia’s economy is slowing—GDP grew by just 0.4% in the second quarter, according to data released on Wednesday. The Reserve Bank expects Australia to eke out GDP growth of 1% this year. That is slower than the population growth rate, meaning a fall in GDP per person. 
+Any strike would squeeze gas markets too. The facilities accounted for close to 7% of global LNG supply last year. A prolonged shutdown could bring its contribution offline. When news of potential strikes first broke in early August, European natural-gas prices shot up by almost 40%. 
 
-One big concern is slowing growth in China, Australia’s biggest trading partner. Australia usually relies on China’s huge appetite for iron ore and coal. Even after it launched a campaign of [economic coercion](https://www.economist.com/asia/2023/05/23/australia-has-faced-down-chinas-trade-bans-and-emerged-stronger) against Australia in 2020, China still accounts for almost a third of Australia&#x27;s global trade in goods and services. If China’s demand for Australian resources crashes with its economy, the “lucky country” will feel it.
+Chevron has assuaged investors’ fears for the moment. It says it can run the facilities with a skeleton crew for many months. Moreover, European storage is brimming with gas, helping soften prices. But that may change if workers hold the line.
 
-## The story of dress and power
+## Who will win the Mercury prize?
 
-“Optics governed more or less everything in the political world,” wrote Michelle Obama in [“Becoming”](https://www.economist.com/books-and-arts/2018/11/17/michelle-obamas-memoir-is-a-call-to-action), her memoir. “And I factored this into every outfit.” A 1950s dress by Norman Norell, an American designer, worn by Mrs Obama to a Christmas concert in 2010 was particularly resonant. The first vintage piece ever donned by a First Lady at a public event, it championed thrift-store shopping before it was fashionable. It eloquently suggested to a country reeling from recession that there was no shame in rewearing clothes time and time again. 
+The problem with the Mercury prize—an annual award for the best album by a British or Irish act, to be announced on Thursday—is that it pits against each other very different kinds of music. The year’s shortlist, drawn up by a panel of independent experts from a variety of music backgrounds, comprises 12 albums. Their creators include little known, critically acclaimed acts alongside socially conscious hip-hop performers and superstar rock bands like the Arctic Monkeys. As usual, there are folk and jazz nominees, such as Lankum and Ezra Collective. 
 
-That item, and nine others in Sotheby’s “Fashion Icons” collection, can already be bid for online and are open to viewing in New York from Thursday. From Princess Diana’s famous black-sheep jumper to a wedding veil worn by Madonna, each spotlights fashion’s symbolic power. But it is the dress worn by Mrs Obama—who on average generated $14m for the fashion industry during each public appearance as First Lady—that steals the show.
+The acts that do not make the shortlist often say as much about the accolade as those that do. This year there was no room for Ed Sheeran and Sam Smith, demonstrating that the arbiters are prepared to snub chart-toppers. Trying to guess the winner is a fool’s errand given the variety of genres on display. “Hugo” by Loyle Carner (pictured), a hip-hop artist, is the bookies’ favourite. 
 
 ## Daily quiz
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="d382a6baa996a0a3a1b6a0a0bc93b6b0bcbdbcbebaa0a7fdb0bcbe">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7524001c0f300605071006061a3510161a1b1a181c06015b161a18">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+
+<strong>Thursday: </strong>Which drummer from the rock band Genesis went on to have a successful solo singing career?
 
 <strong>Wednesday: </strong>What three-word phrase is often used by conservatives as an insult to President Joe Biden?
-
-<strong>Tuesday: </strong>Which woman is the national personification of the French republic?
 
 ----------
