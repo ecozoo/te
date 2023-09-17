@@ -1,4 +1,4 @@
-## The world in brief 2023-09-07
+## The world in brief 2023-09-17
 
 ----------
 
@@ -6,48 +6,94 @@
 
 
 
-<strong>America</strong> said it would give <strong>Ukraine</strong> depleted uranium shells, used in M1 Abrams tanks, as part of a package of [military](https://www.economist.com/leaders/2023/07/06/a-new-era-of-high-tech-war-has-begun) and humanitarian aid worth $1bn. The announcement came as Antony Blinken, America’s secretary of state, visited Kyiv, Ukraine’s capital, for the third time since the war began. In the eastern city of Kostiantynivka, meanwhile, <strong>Russian </strong>shelling killed at least 17 people and injured many more.
+The <strong>United Auto Workers</strong>, one of America’s biggest unions, said talks with <strong>Ford</strong> had been “reasonably productive”. The union has called simultaneous [strikes](https://www.economist.com/united-states/2023/09/13/joe-bidens-love-of-unions-runs-into-a-giant-strike) at three carmakers’ plants—Ford, General Motors and Stellantis. (The UAW did not disclose how its negotiators fared at the other two.) Nearly 13,000 auto workers have downed tools. The union is seeking a 36% pay rise over four years; the companies have offered between 20% and 21%. 
 
-## Good news for China’s economy?
+## Le Pen and Salvini buddy up
 
-An impressive export boom helped [China’s economy](https://www.economist.com/finance-and-economics/2023/08/24/chinas-economy-is-in-desperate-need-of-rescue) weather the pandemic. Now that the country’s growth is faltering again, some worry it will try to export its way out of trouble by deliberately devaluing the yuan. That seems unlikely. China has kept its currency fairly stable on a trade-weighted basis and is keen to avoid the kind of destabilising capital outflows that followed its clumsy devaluation in 2015. 
+Elections to the European Parliament do not take place until June 2024, but the campaign effectively gets under way on Sunday in Italy. Marine Le Pen, leader of France’s [hard-right](https://www.economist.com/briefing/2023/09/14/the-hard-right-is-getting-closer-to-power-all-over-europe) National Rally, will join Matteo Salvini, head of Italy’s populist League (previously called the Northern League), in Pontida, near Milan, for the Italian party’s annual jamboree. Ms Le Pen’s guest appearance, and speech, will transform the affair into a European campaign event.
 
-Nonetheless, hopes are rising that China’s exports may be close to bottoming out. The global economy has not been as weak as feared. China’s shipments to Asia, Latin America and Africa have also proved more resilient this year than its sales to America. Figures released later on Thursday may show that China’s exports grew in dollar terms in August compared with the previous month, even if they were still much lower than a year earlier. That would represent a rare piece of good news amid the China gloom.
+The two leaders are hoping next year to boost their European parliamentary group, which also includes the hard-right [Alternative for Germany](https://www.economist.com/europe/2023/09/14/germanys-rampant-hard-right-afd-puts-other-parties-in-a-fix) party. The gathering is also a chance for Ms Le Pen to remind the French at home that she has lost none of her drive. Polls suggest that the RN could top French voting at the European election, beating Emmanuel Macron’s centrist coalition into second place. Ahead of the next French presidential election in 2027, when Mr Macron cannot stand again, that would send [a tremor through Europe](https://www.economist.com/leaders/2023/09/14/a-fresh-wave-of-hard-right-populism-is-stalking-europe).
 
-## Britain is losing its way in cutting carbon
+## Climate Week kicks off
 
-To the east of Britain lies the windy North Sea. Sailors have battled the gusts for around 2,000 years. More recently, Britain has harnessed them in another way: [building offshore wind turbines](https://www.economist.com/britain/2023/09/05/britain-is-losing-its-way-in-cutting-carbon). Geographical blessing was aided by clever policy, such as “contracts for difference”, which guaranteed investors’ returns and drove down costs rapidly Last year, offshore turbines—some of which stand over 300 metres tall—provided around one-seventh of Britain’s electricity. Only China has installed more. 
+“Our window of opportunity is about to close” is the stark message from Climate Group, the organisers of this year’s Climate Week, which begins on Sunday. The event will see business leaders, politicians and policy wonks—including Jim Skea, the new chair of the Intergovernmental Panel on Climate Change—gather in New York, where the high-level meetings of the UN General Assembly are also taking place from Monday. Film screenings and speaker sessions on environmental justice and sustainable living are scheduled around the city.
 
-There are concerns, however, about the latest renewable-energy auction, the results of which are expected from Thursday. In contrast to previous rounds, few if any offshore wind projects are expected to win contracts. Developers blame the government for not increasing its maximum strike price—the highest bid allowed to developers in a reverse auction—in line with spiralling building costs. With other wealthy countries competing for the steel and vessels needed to erect turbines, a hiatus could knock the wind out of a British success story.
+The gathering’s aim is to find ways to hold “those in positions of power” responsible for climate change. That feels urgent after months of record-breaking [heatwaves](https://www.economist.com/science-and-technology/2023/07/19/are-heatwaves-evidence-that-climate-change-is-speeding-up) and[ extreme weather events](https://www.economist.com/the-economist-explains/2023/07/19/what-happens-when-extreme-weather-hits-several-places-at-once), and ahead of COP28, the UN climate summit taking place in the [UAE](https://www.economist.com/briefing/2023/09/07/the-gulf-countries-want-to-reshape-the-middle-east-in-their-image) from November 30th. The theme of this year’s Climate Week is “We can. We will”. The hope is that such determined words can encourage decisive action, too.
 
-## “Ghost guns” are back in court
+## Another show of Saudi sporting strength
 
-A clash resumes on Thursday over “[ghost guns](https://www.economist.com/the-economist-explains/2021/04/09/what-are-ghost-guns-and-can-joe-biden-stop-their-spread)”—kits for building untraceable weapons. The Fifth Circuit Court of Appeals will consider whether a judge in Texas was right to block a rule, imposed last year by the Bureau of Alcohol, Tobacco, Firearms and Explosives, that subjects ghost guns to the same regulations as conventional firearms. 
+Over the past two weeks 719 athletes from 117 countries have gathered in Riyadh for the World Weightlifting Championships, which is being held in Saudi Arabia for the first time. The event serves as the qualification route for the Olympics in Paris in 2024. The choice of location for weightlifting’s flagship tournament also carries extra significance. 
 
-The plaintiffs—a ghost-gun producer and gun-rights advocates—claim law-abiding citizens should be free to make firearms for their own use. They say the ATF’s rule undermines a practice that has persisted “since the earliest colonial days”. 
+First, it is another display of [Saudi sporting ambitions](https://www.economist.com/briefing/2023/08/10/saudi-arabia-is-spending-a-fortune-on-sport). The country’s lavish spending on football and golf has grabbed more attention, but it is expanding its influence in even niche sports. Second, the tournament shows a softening in the kingdom’s stance towards Israel. On Sunday, the last day of competition, Israel’s David Litvinov will try to win the super-heavyweight division, following three compatriots in other categories. It is the first time Israeli athletes have ever been allowed into Saudi Arabia. The shift follows a slight rapprochement between the two countries in recent months, after years of hostility. But establishing genuine diplomatic ties will require much more heavy lifting.
 
-The government condemns this as inconsistent with the law—and “common sense”. It likens the regulation to those governing flat-pack furniture: it is obvious that a tax on sales of bookshelves would also apply to boxes of parts and tools for self-assembly. To conclude otherwise for ready-to-assemble guns “makes a mockery of Congress’s careful regulatory scheme”. The Supreme Court, which temporarily reinstated the ghost-gun regulations in August, will probably have the last word. 
+## The sunnier side of Edvard Munch
 
-## Strikes loom at Chevron’s Australian gas plants
+In 1892 the Association of Berlin Artists invited Edvard Munch, then an obscure Norwegian painter, to stage a solo show. His unusual canvases caused such a scandal that it closed after one week. The modernist artist capitalised on the unexpected publicity by moving to Berlin, where he lived and worked for several periods on and off until 1908.
 
-Picket lines may soon go up at two of Chevron’s biggest liquefied natural gas projects in Australia, Gorgon and Wheatstone. Talk of industrial action emerged after Offshore Alliance, a union, spurned a recent pay proposal. The union threatened to cost the supermajor billions of dollars: the plants made nearly $7bn last year, almost a fifth of Chevron’s total profit. A strike planned for Thursday has been delayed by at least a day, while the two sides negotiate.
+A new exhibition at the Berlinische Galerie, on until January, traces Munch’s influence on the city’s art scene. “Magic of the North” displays around 80 pieces, with paintings, photographs, lithographs and woodcuts. The works include portraits of Munch and his contemporaries in Berlin, such as Dagny Juel Przybyszewska, his muse. 
 
-Any strike would squeeze gas markets too. The facilities accounted for close to 7% of global LNG supply last year. A prolonged shutdown could bring its contribution offline. When news of potential strikes first broke in early August, European natural-gas prices shot up by almost 40%. 
+The controversy around Munch’s early exhibition in Berlin was driven, in part, by his paintings’ personal and psychological subject matter (best exemplified in “The Scream”, a [later work](https://www.economist.com/1843/2019/04/24/the-personal-trauma-that-lies-behind-edvard-munchs-unnerving-art)). Visitors to the latest incarnation may be surprised by much brighter offerings, such as “Young People on the Beach”, painted in 1904.
 
-Chevron has assuaged investors’ fears for the moment. It says it can run the facilities with a skeleton crew for many months. Moreover, European storage is brimming with gas, helping soften prices. But that may change if workers hold the line.
+## Weekend profile: Shikma Bressler, the unlikely face of Israel’s protests
 
-## Who will win the Mercury prize?
+Since Israel’s government revealed [its judicial-overhaul plans](https://www.economist.com/middle-east-and-africa/2023/01/16/binyamin-netanyahu-rushes-to-take-on-israels-supreme-court) in January, it has been on a collision course with the Supreme Court—and a particle physicist. Shikma Bressler has become the unlikely face of protests against the country’s [far-right coalition](https://www.economist.com/middle-east-and-africa/2022/12/29/israels-new-government-is-the-most-right-wing-ever) government. This week, as the Supreme Court began discussing whether to strike down the government’s [first reform](https://www.economist.com/middle-east-and-africa/2023/09/14/the-judge-and-the-attorney-general-fighting-for-israeli-democracy) aimed at shrinking the judiciary’s powers, thousands of demonstrators again took to the streets of Tel Aviv and Jerusalem.
 
-The problem with the Mercury prize—an annual award for the best album by a British or Irish act, to be announced on Thursday—is that it pits against each other very different kinds of music. The year’s shortlist, drawn up by a panel of independent experts from a variety of music backgrounds, comprises 12 albums. Their creators include little known, critically acclaimed acts alongside socially conscious hip-hop performers and superstar rock bands like the Arctic Monkeys. As usual, there are folk and jazz nominees, such as Lankum and Ezra Collective. 
+Ms Bressler claims she never had any political ambitions. She normally works as a senior scientist at the Weizmann Institute of Science. There she leads a research group that deals in other collisions: bashing particles into each other at the Large Hadron Collider, at CERN in Switzerland, to understand the universe’s fundamental building blocks. She has said that she longs to return to everyday life in the lab. 
 
-The acts that do not make the shortlist often say as much about the accolade as those that do. This year there was no room for Ed Sheeran and Sam Smith, demonstrating that the arbiters are prepared to snub chart-toppers. Trying to guess the winner is a fool’s errand given the variety of genres on display. “Hugo” by Loyle Carner (pictured), a hip-hop artist, is the bookies’ favourite. 
+Since March 2020, however, she has been in the political spotlight. At the time, Binyamin Netanyahu, the prime minister, was due to stand trial on corruption charges (which he denies). But [his trial was postponed](https://www.economist.com/middle-east-and-africa/2020/07/23/binyamin-netanyahu-boasted-too-soon-of-defeating-the-coronavirus) when the courts were shut as part of the first coronavirus lockdown. In response, Ms Bressler and two of her brothers founded the Black Flags, a pro-democracy protest movement that spread across the country. When Mr Netanyahu was relegated to the opposition after the 2021 election, the group disbanded—but within 18 months, “Bibi”, as he is known, was back in office.
 
-## Daily quiz
+His plans to limit the judiciary’s power spurred Ms Bressler to return to the megaphone. Shortly before the first legal step of that plan passed, which in July ended [the Supreme Court’s ability](https://www.economist.com/middle-east-and-africa/2023/07/24/a-blow-against-israels-supreme-court-plunges-the-country-into-crisis) to use “reasonableness” as grounds to overturn government decisions, she led 20,000 people on a five-day march from Tel Aviv to Jerusalem. Among her concerns are the decision’s implications for women’s rights in Israel.
 
-Our baristas will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7524001c0f300605071006061a3510161a1b1a181c06015b161a18">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+Her campaign has not been without missteps. Last week she likened parts of the coalition to “Nazis” for their [views on Palestinians](https://www.economist.com/1843/2023/05/26/meet-the-hype-man-for-binyamin-netanyahus-controversial-reforms), which Mr Netanyahu was quick to condemn as “an insult to the Holocaust” and an “incitement to murder”. Ms Bressler, who is Jewish, later apologised on X (formerly Twitter). Many of her fellow protesters, though, seem unlikely to hold it against her; like Ms Bressler, they see these demonstrations as the battle of a generation.
 
-<strong>Thursday: </strong>Which drummer from the rock band Genesis went on to have a successful solo singing career?
+## Weekly crossword
 
-<strong>Wednesday: </strong>What three-word phrase is often used by conservatives as an insult to President Joe Biden?
+Our crossword has two sets of clues, one for seasoned cruciverbalists and the other for less experienced solvers. Both give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
+
+<strong>Cryptic clues</strong>
+
+<em>1 down </em>Ban demonstration in favour of replacing former lover (11)
+
+<em>1 across </em>Develop odd zeal and slight paranoia after taking first choice of red or blue pill (6) 
+
+<em>2 across</em> Strapped-for-cash, dealer doesn’t close (5) 
+
+<em>3 across</em> Steal the Spanish coin (6) 
+
+<strong>Factual clues</strong>
+
+<em>1 down </em>Something Brazil is considering ending for gambling (11) 
+
+<em>1 across </em>A drug first approved in America in 1987 (6) 
+
+<em>2 across</em> What more English councils risk becoming (5) 
+
+<em>3 across</em> A metal needed for battery cathodes in electric vehicles (6) 
+
+Email all four answers, along with your home city and country, by 9am GMT on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection). We will pick randomly from those with the right answers and crown three winners in next week’s edition.
+
+## The winners of last week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
+
+<strong>Mark Jarboe</strong>, Lawrence, Kansas, America
+
+<strong>Tarja Ryynänen</strong>, Helsinki, Finland
+
+<strong>Stephen Phillips</strong>, Perth, Australia
+
+They all gave the correct answers of <em>sperm, Beluga, pilot, Finn </em>and <em>Blue</em>. The theme is whales: <em>sperm whale, Beluga whale, pilot whale, fin whale</em> and <em>blue whale.</em>
+
+The questions were:
+
+<strong>Monday:</strong> What is the common name for the male reproductive cell, or gamete?
+
+<strong>Tuesday: </strong>What is the most expensive type of caviar?
+
+<strong>Wednesday: </strong>What is the name for a mariner who guides ships into port?
+
+<strong>Thursday: </strong>Which character was played by John Boyega in the later Star Wars films?
+
+<strong>Friday: </strong>Which Joni Mitchell album is regularly voted by critics as one of the greatest of all time?
 
 ----------
