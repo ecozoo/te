@@ -1,4 +1,4 @@
-## The world in brief 2023-11-20
+## The world in brief 2023-11-27
 
 ----------
 
@@ -6,42 +6,78 @@
 
 
 
-<strong>Israel</strong> released evidence it claims proves “<strong>Hamas</strong> is waging terror from hospitals”. The Israel Defence Forces released a video of a tunnel it says lies beneath <strong>al-Shifa</strong> hospital in Gaza (Hamas has denied that tunnel entrances are under civilian infrastructure). It also released footage apparently showing Hamas bringing two hostages into the facility on October 7th, the day of its deadly attack. Earlier the World Health Organisation described al-Shifa , now overrun by Israeli forces, as a “death zone”. Its staff saw a mass grave at the entrance and were told it contained more than 80 bodies.
+<strong>Hamas</strong> handed over more [hostages](https://www.economist.com/middle-east-and-africa/2023/11/24/hamas-releases-24-hostages-including-13-israelis)—14 Israelis (including one Russian with dual citizenship, according to the Israeli Defence Forces) and three Thais—to the Red Cross on Sunday, the third day of a [four-day truce](https://www.economist.com/middle-east-and-africa/2023/11/22/israel-strikes-a-hostage-deal-but-promises-the-gaza-war-isnt-over) with <strong>Israel</strong>. In exchange Israel will release more Palestinian prisoners. The pause in fighting has allowed supplies of food, fuel and medicine to enter Gaza. The UN confirmed that 61 lorries—the largest humanitarian delivery since Hamas’s attack on October 7th—reached the north of the besieged enclave on Saturday.
 
-## A discreet birthday at the White House
+## India and Israel draw closer
 
-Joe Biden turns 81 on Monday, a milestone that his team will seek to play down. Last year the White House hosted his granddaughter’s wedding the day before he became an octogenarian. The timing, CNN reported, was “not a coincidence”. Coverage focused less on the president’s quiet birthday brunch than on Naomi Biden’s bridal gown. 
+On Sunday India marks 15 years since gunmen from Lashkar-e-Taiba (LeT), a Pakistani terrorist group, killed 166 people in a four-day rampage in Mumbai, the commercial capital. The co-ordinated attacks included one on a Jewish community centre, where the terrorists murdered six Jews. Last week, to mark the sombre anniversary, Israel designated LeT a terrorist organisation.
 
-But no amount of spin will make Americans forget Mr Biden’s age. In a recent poll of registered voters in six swing states, the figures around the president’s fitness were among the starkest: 71% thought he was too old for the job. There is little he can do on that front. More unsettling were [trends among non-white voters](https://www.economist.com/culture/2023/11/17/why-non-white-voters-are-abandoning-the-democratic-party). They are traditionally steadfast Democrats, but 42% of Hispanic and 22% of black voters said they would opt for Donald Trump. As he blows out the candles on his cake, Mr Biden’s birthday wish will be to lower those numbers.
+The declaration is the latest sign of [growing co-operation](https://www.economist.com/asia/2023/11/02/narendra-modi-has-shifted-india-from-the-palestinians-to-israel) between the countries. Over the past decade India has bought missiles, drones and border-security equipment from Israel, making it the Israeli defence industry’s biggest foreign customer. The two sides have also bonded over their shared dedication to fighting Islamist terrorism. Once sympathetic to the Palestinians’ plight, India abstained from a UN resolution calling for a ceasefire in Gaza. Its stance has disappointed the leaders of India’s 200m Muslims. But Narendra Modi, the prime minister, scarcely cares. His Bharatiya Janata Party has won votes from middle-class Hindus by offending India’s Muslim minority. With a general election scheduled next year, Mr Modi is unlikely to change tack. 
 
-## A cold war in Ukraine
+## China, Japan and South Korea hold talks
 
-The Indian summer Ukraine experienced during much of October and November has come to an end, with snow and sub-zero temperatures expected in parts of the country this week. Elsewhere, this would mean woollen socks and mulled wine. In Ukraine, it means more air-raid sirens, renewed Russian missile attacks on the country’s energy grid, and the threat of power outages and cold homes.  
-  
- The start of winter will also probably mark the end of Ukraine’s counter-offensive, which appears to have run out of steam some time ago. The coming months are unlikely to see any major [breakthroughs](https://www.economist.com/europe/2023/11/01/ukraines-commander-in-chief-on-the-breakthrough-he-needs-to-beat-russia) by the Ukrainians, the country’s top military commander recently warned. Time is not on Ukraine’s side. Russia can draw on far bigger stocks of weapons, ammunition, and manpower. Ukraine, meanwhile, faces the risk of a slowdown in American military assistance. A tough winter looms.
+On Sunday South Korea will host the foreign ministers of China and Japan in Busan, a city on its south-eastern coast. It is the first meeting among the countries’ top diplomats in four years. Ambitions to hold annual trilateral summits, first stated in 2008, faded owing to regional tensions and the covid-19 pandemic. Now the ministers hope to pave the way for a leaders’ meeting at the “earliest convenient time”. 
 
-## America, Japan and the Philippines counter China
+China is concerned that its neighbours are [improving their relations with one another](https://www.economist.com/asia/2023/05/04/americas-closest-indo-pacific-allies-are-cosying-up), which could change the power balance in the Indo-Pacific. Relations between Japan and South Korea were long strained by bickering over Japan’s colonial-era atrocities. But Yoon Suk-yeol, South Korea’s president since 2022, has largely put this issue aside. That has also helped both countries to become closer to America. In August President Joe Biden [hosted](https://www.economist.com/asia/2023/08/10/why-joe-biden-will-host-japan-and-south-koreas-leaders-at-camp-david) Mr Yoon and Kishida Fumio, Japan’s prime minister, for the first-ever standalone summit among the three countries’ leaders. China has been paying attention—and pushing to restart its own high-level talks. 
 
-Marines from America, Japan and South Korea are heading back to barracks on Monday after 12 days of exercises with local counterparts in the Philippines. The exercises, which involved 2,700 troops, focused on coastal defence, with some held on islands facing internationally disputed waters. The Philippines [contests](https://www.economist.com/china/2023/11/09/a-chinese-dispute-with-the-philippines-is-a-test-of-america) parts of the South China Sea with China; further north, Japan and China contest part of the East China Sea.
+## F1 has a boredom problem
 
-America supports Japan and the Philippines in resisting Chinese expansionism, and has separate alliances with both. But it also has a bigger interest in preventing China from forcibly absorbing the self-governing island of Taiwan. In turn, both Japan and the Philippines, like Taiwan, depend on the threat of American intervention to deter China. They plan more such tripartite training exercises among the rest of their forces. 
+Two years ago, before the Formula 1 season’s 22nd and final race in Abu Dhabi, Max Verstappen of Red Bull and Lewis Hamilton of Mercedes were locked together on the same number of points. A controversy over the handling of the safety car resulted in Mr Verstappen, on a newer set of tyres, overtaking Sir Lewis on the last lap to take the title. The result stood despite Mercedes’s loud protests.
 
-## Africa seeks more investment
+Since then Mr Verstappen has seen Sir Lewis and the rest of the grid disappear into his mirrors. In 2022 he won an unprecedented 15 races. This year, he has already broken his own record, taking 18 of the 21 so far. Sunday’s season-closer, again in Abu Dhabi, will thus be little more than a victory lap for Mr Verstappen’s bullish team. Formula 1’s owners will be [hoping that a challenger](https://www.economist.com/culture/2023/10/20/max-verstappens-brilliance-is-hurting-formula-one) might emerge in 2024 to keep the action exciting. 
 
-African leaders are racking up the air miles in their quest for investment. Earlier this month many of the continent’s presidents were in Riyadh, the capital of Saudi Arabia, for the first-ever Saudi-Africa summit. On November 20th some will attend the G20 “Compact with Africa” conference in Berlin. The German-inspired initiative was launched in 2017 to promote private investment in 13 participating African countries. Backed by the G20 bloc and multilateral banks, the initiative helps members develop economic, financial and business reforms and links them to investors. 
+## The boost of the Booker prize
 
-Its record so far is disappointing. Investment in members of the compact has barely increased, and other African countries have been creating jobs more quickly. The Nigerian president, [Bola Tinubu](https://www.economist.com/podcasts/2023/09/07/nigerias-president-bola-tinubu-needs-to-turn-ideas-for-reform-into-real-plans) (pictured), is flying to Berlin to court investors even though his country is not part of the scheme. Africa’s well-travelled presidents will want to return home with more than jet lag.
+When the Booker prize judges announce their choice for the best English-language novel of the past year on Sunday, there is a 50% chance the author’s name is “Paul”. Paul Harding, Paul Lynch and Paul Murray are all shortlisted, alongside Sarah Bernstein, Jonathan Escoffery and [Chetna Maroo](https://www.economist.com/culture/2023/05/18/quiet-artworks-sometimes-make-the-deepest-impressions). Bookmakers have Mr Lynch’s “Prophet Song” as the frontrunner: a dystopian tale in which Ireland is governed by a totalitarian regime. But it would be foolhardy to write off Mr Murray’s “The Bee Sting”, an account of one family’s dysfunction, told from multiple perspectives.
 
-## Iceland volcano threatens to erupt
+The triumphant author will get £50,000 ($62,000) as well as a huge publicity boost. Shehan Karunatilaka’s [“The Seven Moons of Maali Almeida”](https://www.economist.com/culture/2022/08/18/shehan-karunatilaka-returns-with-another-thrilling-satire) had sold 3,000 hardback copies before it won the [prize in 2022](https://www.economist.com/culture/2022/12/06/these-are-the-economists-best-books-of-2022); in the subsequent months, that figure soared to 70,000 (alongside 50,000 paperbacks). Literary prizes may involve intangible factors, but the “Booker bump” is a real-world phenomenon.
 
-Icelanders are warily watching a volcano on the country’s south-western Reykjanes peninsula; for the past few days, it has been threatening to blow. Thousands of earthquakes have been recorded in the area—a warning that an eruption could be imminent. A large crack now runs through streets of Grindavik, a small fishing town on the peninsula. Residents were evacuated a week ago. Also nearby is the Svartsengi geothermal power station, which provides electricity and hot water to thousands of homes (and the Blue Lagoon, a popular bathing spot). The government is building defensive barriers around the station to protect it from flowing magma.
+## Weekend profile: Sam Altman, AI’s poster child
 
-Volcanic activity near the Reykjanes peninsula picks up every millennium or so, with the last spate occurring about 800 years ago. Scientists say that, based on the increase in seismic activity in recent years, the icy island has entered another [fiery phase](https://www.economist.com/science-and-technology/2017/07/22/events-in-iceland-explain-years-of-famine-in-europes-dark-ages). It could last for centuries.
+It is hard to think of a tech company that has had a more exciting year than OpenAI, the artificial-intelligence firm behind ChatGPT. For most of 2023 it looked like a highly successful firm whose technology was [shaking up the world](https://www.economist.com/business/2023/02/28/investors-are-going-nuts-for-chatgpt-ish-artificial-intelligence). On November 17th the company itself was shaken up when its board suddenly sacked Sam Altman, its co-founder and CEO. After his staff and the firm’s investors rallied for his return, Mr Altman was [quickly reinstated](https://www.economist.com/leaders/2023/11/22/the-fallout-from-the-weirdness-at-openai). 
 
-## Daily quiz
+The reasons behind his [short exile](https://www.economist.com/business/2023/11/23/sam-altmans-return-marks-a-new-phase-for-openai) remain unclear. Reports hint at various causes, from discomfort over Mr Altman’s many side projects to disagreement over whether OpenAI had struck the right balance between the safety of its products and the speed at which they were being developed.
 
-We will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="4312362a39063033312630302c0326202c2d2c2e2a30376d202c2e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+But it is that very ability to move fast that vaulted Mr Altman into the top echelons of Silicon Valley. Mr Altman launched his first company in 2005, when he was 19, after dropping out of Stanford University. He said he worked so hard to build Loopt, a location-sharing app, that he got scurvy. Although the venture wasn’t a big success, the startup caught the eye of Paul Graham, co-founder of Y Combinator and an influential figure in the valley. In 2014 Mr Graham put Mr Altman in charge of the tech incubator.
 
-<strong>Monday:</strong> Which is the largest of the Channel Islands, which lie between England and France?
+A year later, while still leading Y Combinator, Mr Altman founded OpenAI with a group of investors and entrepreneurs, including Elon Musk. Their goal was to build artificial general intelligence (AGI), a system that can outperform humans on most intellectual tasks. But advancing AGI was time-consuming, leading Mr Altman to step back from Y Combinator in 2019. That year OpenAI—which had until then been a non-profit—set up a for-profit subsidiary to pay for expensive computing capacity and top-notch talent. The divisions this opened up led to the turmoil at OpenAI this week. Mr Altman’s return, under a new board, is likely to supercharge its business ambitions.
+
+As an investor, Mr Altman has placed big bets on other futuristic pursuits, such as Helion Energy, a company that plans to build the world’s first nuclear-fusion power plant. His portfolio includes Retro Biosciences, a company aiming to lengthen human life, and Neuralink, a brain-implant outfit. Mr Altman evidently hopes to shake up the world in more ways than one.
+
+## The winners of this week’s quiz
+
+Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
+
+<strong>Hugh Eastwood, St Louis, Missouri, America  
+ Mildred Brandstadt, Montreal, Canada  
+ Nikola Braun, Munich, Germany</strong>
+
+They all gave the correct answers of <em>Jersey, Charlotte Russe, Idaho, Maris </em>and<em> King Edward VIII. </em>The theme is potatoes:<em> Jersey Royal, Charlotte, Idaho, Maris Piper </em>and<em> King Edward.</em>
+
+## Weekly crossword
+
+Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
+
+<strong>Cryptic clues</strong>
+
+<em>1 down </em>Unexpectedly, one bus sign announced for city (6,5)
+
+<em>1 across </em>Pile of gold coins perhaps chocolate (6) 
+
+<em>2 across</em> Energy source put right after two notes (5)
+
+<em>3 across</em> Room with unknown rocket-maker (6) 
+
+<strong>Factual clues</strong>
+
+<em>1 down </em>The soon-to-be seat of Javier Milei’s government (6,5)
+
+<em>1 across </em>What the United Arab Emirates has in oil (6)
+
+<em>2 across</em> A form of geoengineering becoming more acceptable (5)
+
+<em>3 across</em> A company preparing to face down Amazon (6)
+
+Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
 
 ----------
