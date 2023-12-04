@@ -1,4 +1,4 @@
-## The world in brief 2023-11-27
+## The world in brief 2023-12-04
 
 ----------
 
@@ -6,78 +6,42 @@
 
 
 
-<strong>Hamas</strong> handed over more [hostages](https://www.economist.com/middle-east-and-africa/2023/11/24/hamas-releases-24-hostages-including-13-israelis)—14 Israelis (including one Russian with dual citizenship, according to the Israeli Defence Forces) and three Thais—to the Red Cross on Sunday, the third day of a [four-day truce](https://www.economist.com/middle-east-and-africa/2023/11/22/israel-strikes-a-hostage-deal-but-promises-the-gaza-war-isnt-over) with <strong>Israel</strong>. In exchange Israel will release more Palestinian prisoners. The pause in fighting has allowed supplies of food, fuel and medicine to enter Gaza. The UN confirmed that 61 lorries—the largest humanitarian delivery since Hamas’s attack on October 7th—reached the north of the besieged enclave on Saturday.
+<strong>Israel </strong>continued to launch air strikes across the <strong>Gaza Strip</strong>. Bombs reportedly hit the Jabalia refugee camp in the north, as well as the [southern cities](https://www.economist.com/middle-east-and-africa/2023/11/26/a-brutal-battle-for-southern-gaza-beckons-after-the-truce-ends) of Khan Younis and Rafah. Israeli ground troops also clashed with Hamas near Khan Younis, suggesting that a planned ground offensive in Gaza’s south had begun. The White House urged Israel to do more to protect civilians and said it was trying to persuade Hamas and Israel to resume negotiations. Gaza’s Hamas-run health ministry said the death toll in the enclave since October 7th had exceeded 15,500.
 
-## India and Israel draw closer
+## A hearing for Duterte
 
-On Sunday India marks 15 years since gunmen from Lashkar-e-Taiba (LeT), a Pakistani terrorist group, killed 166 people in a four-day rampage in Mumbai, the commercial capital. The co-ordinated attacks included one on a Jewish community centre, where the terrorists murdered six Jews. Last week, to mark the sombre anniversary, Israel designated LeT a terrorist organisation.
+Rodrigo Duterte, a former president of the Philippines, is due to appear before prosecutors in Manila on Monday. Mr Duterte has been summoned to answer a criminal complaint that he threatened to kill a member of congress, France Castro, an opponent of his political dynasty, on live television. Mr Duterte’s response so far has been cryptic, saying that Ms Castro is “oppressing” him. 
 
-The declaration is the latest sign of [growing co-operation](https://www.economist.com/asia/2023/11/02/narendra-modi-has-shifted-india-from-the-palestinians-to-israel) between the countries. Over the past decade India has bought missiles, drones and border-security equipment from Israel, making it the Israeli defence industry’s biggest foreign customer. The two sides have also bonded over their shared dedication to fighting Islamist terrorism. Once sympathetic to the Palestinians’ plight, India abstained from a UN resolution calling for a ceasefire in Gaza. Its stance has disappointed the leaders of India’s 200m Muslims. But Narendra Modi, the prime minister, scarcely cares. His Bharatiya Janata Party has won votes from middle-class Hindus by offending India’s Muslim minority. With a general election scheduled next year, Mr Modi is unlikely to change tack. 
+Ms Castro’s complaint is grave. But it pales in comparison with suspicions that, when Mr Duterte was president, his law enforcers avidly carried out general death threats he made against dealers in illegal drugs, [killing thousands of people](https://www.economist.com/graphic-detail/2021/11/22/how-many-people-have-been-killed-in-rodrigo-dutertes-war-on-drugs). Prosecutors at the International Criminal Court, suspecting crimes against humanity, are investigating some of those killings. But Mr Duterte’s successor and protector, President Ferdinand Marcos, is shunning their investigation. He calls it redundant because the Philippines has a functioning system of justice of its own. Ms Castro’s case will test Mr Marcos’s argument. The outcome will show whether the system functions to uphold justice, or impunity. 
 
-## China, Japan and South Korea hold talks
+## A Senate battle over Ukraine aid
 
-On Sunday South Korea will host the foreign ministers of China and Japan in Busan, a city on its south-eastern coast. It is the first meeting among the countries’ top diplomats in four years. Ambitions to hold annual trilateral summits, first stated in 2008, faded owing to regional tensions and the covid-19 pandemic. Now the ministers hope to pave the way for a leaders’ meeting at the “earliest convenient time”. 
+America’s Senate this week formally takes up President Joe Biden’s $106bn supplemental request for national security, including military aid to Ukraine. As the flow of American weapons to Ukraine [slows down](https://www.economist.com/graphic-detail/2023/12/02/americas-political-paralysis-is-complicating-its-support-for-ukraine), nobody is certain whether congressional paralysis can be overcome soon, or at all.
 
-China is concerned that its neighbours are [improving their relations with one another](https://www.economist.com/asia/2023/05/04/americas-closest-indo-pacific-allies-are-cosying-up), which could change the power balance in the Indo-Pacific. Relations between Japan and South Korea were long strained by bickering over Japan’s colonial-era atrocities. But Yoon Suk-yeol, South Korea’s president since 2022, has largely put this issue aside. That has also helped both countries to become closer to America. In August President Joe Biden [hosted](https://www.economist.com/asia/2023/08/10/why-joe-biden-will-host-japan-and-south-koreas-leaders-at-camp-david) Mr Yoon and Kishida Fumio, Japan’s prime minister, for the first-ever standalone summit among the three countries’ leaders. China has been paying attention—and pushing to restart its own high-level talks. 
+Lloyd Austin, America’s defence secretary, has urged Congress not to waver at a “hinge in history” as foes—including Russia, China and Iran—seek to weaken American leadership. But the aid faces many obstacles. One is a demand by Republicans to pair it with asylum reform and other steps to stanch migration at the southern border. Another is some Democrats’ call to put conditions on aid to Israel to limit civilian casualties in Gaza. A third is a push by China hawks to increase help to Taiwan, funded by squeezing economic assistance to Ukraine. And even if the Senate strikes a deal, it is uncertain whether bitterly divided Republicans in the House would agree to it. 
 
-## F1 has a boredom problem
+## Turkey’s sticky inflation
 
-Two years ago, before the Formula 1 season’s 22nd and final race in Abu Dhabi, Max Verstappen of Red Bull and Lewis Hamilton of Mercedes were locked together on the same number of points. A controversy over the handling of the safety car resulted in Mr Verstappen, on a newer set of tyres, overtaking Sir Lewis on the last lap to take the title. The result stood despite Mercedes’s loud protests.
+After Recep Tayyip Erdogan won re-election in this year’s Turkish presidential elections, he [appointed](https://www.economist.com/europe/2023/06/04/turkeys-president-erdogan-shifts-towards-sane-economics) a new finance minister and central bank governor. They pulled off the policy U-turn the country’s economy needed. Faced with runaway inflation and the prospect of a currency crash, Turkey’s central bank has raised the benchmark interest rate by a cumulative 31.5 percentage points in only five months, to 40%. Currency depreciation, which saw the Turkish lira lose nearly 30% of its dollar value in the first six months of the year, has slowed. 
 
-Since then Mr Verstappen has seen Sir Lewis and the rest of the grid disappear into his mirrors. In 2022 he won an unprecedented 15 races. This year, he has already broken his own record, taking 18 of the 21 so far. Sunday’s season-closer, again in Abu Dhabi, will thus be little more than a victory lap for Mr Verstappen’s bullish team. Formula 1’s owners will be [hoping that a challenger](https://www.economist.com/culture/2023/10/20/max-verstappens-brilliance-is-hurting-formula-one) might emerge in 2024 to keep the action exciting. 
+But inflation, stoked by years of lending at negative real rates, has proved exceptionally sticky. On Monday Turkey publishes its inflation data for November. Economists polled by Reuters expect consumer prices to have risen by 63% in annual terms, up from 61.4% in October. The central bank’s own forecast puts the annual inflation rate at 65% by the end of the year. The bank will need to keep tightening to see any improvement.
 
-## The boost of the Booker prize
+## Polish and Ukrainian lorry drivers stand off
 
-When the Booker prize judges announce their choice for the best English-language novel of the past year on Sunday, there is a 50% chance the author’s name is “Paul”. Paul Harding, Paul Lynch and Paul Murray are all shortlisted, alongside Sarah Bernstein, Jonathan Escoffery and [Chetna Maroo](https://www.economist.com/culture/2023/05/18/quiet-artworks-sometimes-make-the-deepest-impressions). Bookmakers have Mr Lynch’s “Prophet Song” as the frontrunner: a dystopian tale in which Ireland is governed by a totalitarian regime. But it would be foolhardy to write off Mr Murray’s “The Bee Sting”, an account of one family’s dysfunction, told from multiple perspectives.
+Snow-dusted lines of lorries snake for dozens of kilometres at the border between Poland and Ukraine. Since November 6th Polish drivers have enforced a blockade, letting only a few Ukrainian vehicles through every hour (humanitarian supplies are allowed passage). The queues at four crossings amount to 3,000 lorries. Ukraine is preparing to evacuate hundreds of drivers. On Monday Polish ministers will voice the woes of the protesters at the EU’s Transport Council meeting in Brussels.
 
-The triumphant author will get £50,000 ($62,000) as well as a huge publicity boost. Shehan Karunatilaka’s [“The Seven Moons of Maali Almeida”](https://www.economist.com/culture/2022/08/18/shehan-karunatilaka-returns-with-another-thrilling-satire) had sold 3,000 hardback copies before it won the [prize in 2022](https://www.economist.com/culture/2022/12/06/these-are-the-economists-best-books-of-2022); in the subsequent months, that figure soared to 70,000 (alongside 50,000 paperbacks). Literary prizes may involve intangible factors, but the “Booker bump” is a real-world phenomenon.
+The Polish drivers criticise [the EU](https://www.economist.com/europe/2022/06/30/poland-is-being-given-an-opportunity-to-matter-in-europe) for abolishing an entry permit system after Russia’s invasion. They say that unfairly favours their cheaper Ukrainian rivals whose transport companies are exempt from the bloc’s climate regulations. [Poland](https://www.economist.com/the-economist-explains/2023/09/21/why-poland-is-halting-its-supply-of-weapons-to-ukraine) argues that Ukraine’s electronic queuing system discriminates against foreign drivers trying to leave, holding them up further. The EU is getting impatient: on November 29th it accused Poland of holding it “hostage” by blocking its external borders. Yet Slovak and Hungarian drivers are threatening similar blockades.
 
-## Weekend profile: Sam Altman, AI’s poster child
+## A refresh at the Met
 
-It is hard to think of a tech company that has had a more exciting year than OpenAI, the artificial-intelligence firm behind ChatGPT. For most of 2023 it looked like a highly successful firm whose technology was [shaking up the world](https://www.economist.com/business/2023/02/28/investors-are-going-nuts-for-chatgpt-ish-artificial-intelligence). On November 17th the company itself was shaken up when its board suddenly sacked Sam Altman, its co-founder and CEO. After his staff and the firm’s investors rallied for his return, Mr Altman was [quickly reinstated](https://www.economist.com/leaders/2023/11/22/the-fallout-from-the-weirdness-at-openai). 
+Museums are not just about what you see, but how. After a five-year renovation, the Metropolitan Museum of Art in New York presents a fresh take on a core part of its collection. The initiative, called “Look Again: European Paintings 1300–1800”, has seen 45 galleries repainted, relit and rehung. Recent acquisitions and loans notably boost the representation of female artists. But the project mainly shows old works in a new light—indeed, the impetus for the reshuffle was the replacement of the galleries’ skylights.
 
-The reasons behind his [short exile](https://www.economist.com/business/2023/11/23/sam-altmans-return-marks-a-new-phase-for-openai) remain unclear. Reports hint at various causes, from discomfort over Mr Altman’s many side projects to disagreement over whether OpenAI had struck the right balance between the safety of its products and the speed at which they were being developed.
+The biggest change is that works are organised chronologically rather than by country. Italian panel paintings now hang next to their Dutch equivalents, Americans portraits alongside British. Sculpture, decorative art and even musical instruments are sprinkled throughout. As is modern art: in one gallery, the work of Gerrit Dou, a 17th-century Dutch artist, rubs elbows with that of Henri Matisse, Elaine De Kooning and Kerry James Marshall, a contemporary painter. Artwork and visitors alike are invited into new conversations. 
 
-But it is that very ability to move fast that vaulted Mr Altman into the top echelons of Silicon Valley. Mr Altman launched his first company in 2005, when he was 19, after dropping out of Stanford University. He said he worked so hard to build Loopt, a location-sharing app, that he got scurvy. Although the venture wasn’t a big success, the startup caught the eye of Paul Graham, co-founder of Y Combinator and an influential figure in the valley. In 2014 Mr Graham put Mr Altman in charge of the tech incubator.
+## Daily quiz
 
-A year later, while still leading Y Combinator, Mr Altman founded OpenAI with a group of investors and entrepreneurs, including Elon Musk. Their goal was to build artificial general intelligence (AGI), a system that can outperform humans on most intellectual tasks. But advancing AGI was time-consuming, leading Mr Altman to step back from Y Combinator in 2019. That year OpenAI—which had until then been a non-profit—set up a for-profit subsidiary to pay for expensive computing capacity and top-notch talent. The divisions this opened up led to the turmoil at OpenAI this week. Mr Altman’s return, under a new board, is likely to supercharge its business ambitions.
+We will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="c190b4a8bb84b2b1b3a4b2b2ae81a4a2aeafaeaca8b2b5efa2aeac">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
-As an investor, Mr Altman has placed big bets on other futuristic pursuits, such as Helion Energy, a company that plans to build the world’s first nuclear-fusion power plant. His portfolio includes Retro Biosciences, a company aiming to lengthen human life, and Neuralink, a brain-implant outfit. Mr Altman evidently hopes to shake up the world in more ways than one.
-
-## The winners of this week’s quiz
-
-Thank you to everyone who took part in this week’s quiz. The winners, chosen at random, were: 
-
-<strong>Hugh Eastwood, St Louis, Missouri, America  
- Mildred Brandstadt, Montreal, Canada  
- Nikola Braun, Munich, Germany</strong>
-
-They all gave the correct answers of <em>Jersey, Charlotte Russe, Idaho, Maris </em>and<em> King Edward VIII. </em>The theme is potatoes:<em> Jersey Royal, Charlotte, Idaho, Maris Piper </em>and<em> King Edward.</em>
-
-## Weekly crossword
-
-Our crossword is designed for experienced cruciverbalists and newcomers alike. Both sets of clues give the same answers, all of which feature in articles in this week’s edition of <em>The Economist</em>:
-
-<strong>Cryptic clues</strong>
-
-<em>1 down </em>Unexpectedly, one bus sign announced for city (6,5)
-
-<em>1 across </em>Pile of gold coins perhaps chocolate (6) 
-
-<em>2 across</em> Energy source put right after two notes (5)
-
-<em>3 across</em> Room with unknown rocket-maker (6) 
-
-<strong>Factual clues</strong>
-
-<em>1 down </em>The soon-to-be seat of Javier Milei’s government (6,5)
-
-<em>1 across </em>What the United Arab Emirates has in oil (6)
-
-<em>2 across</em> A form of geoengineering becoming more acceptable (5)
-
-<em>3 across</em> A company preparing to face down Amazon (6)
-
-Email all four answers by 9am GMT on Monday to [[email&#160;protected]](https://www.economist.com/cdn-cgi/l/email-protection), along with your home city and country. We will pick randomly from those with the right answers and crown three winners in next week’s edition.
+<strong>Monday:</strong> In which four-player card game is it possible for one partnership or team to bid “six no trumps”?
 
 ----------
