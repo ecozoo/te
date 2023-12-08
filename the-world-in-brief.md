@@ -1,4 +1,4 @@
-## The world in brief 2023-12-04
+## The world in brief 2023-12-08
 
 ----------
 
@@ -6,42 +6,59 @@
 
 
 
-<strong>Israel </strong>continued to launch air strikes across the <strong>Gaza Strip</strong>. Bombs reportedly hit the Jabalia refugee camp in the north, as well as the [southern cities](https://https://www.https://www.economist.com/middle-east-and-africa/2023/11/26/a-brutal-battle-for-southern-gaza-beckons-after-the-truce-ends) of Khan Younis and Rafah. Israeli ground troops also clashed with Hamas near Khan Younis, suggesting that a planned ground offensive in Gaza’s south had begun. The White House urged Israel to do more to protect civilians and said it was trying to persuade Hamas and Israel to resume negotiations. Gaza’s Hamas-run health ministry said the death toll in the enclave since October 7th had exceeded 15,500.
+<strong>Vladimir Putin </strong>announced he will seek another six-year term as <strong>Russia’s</strong> president ahead of elections set to take place next May. His bid for re-election was widely expected; in 2020 he changed Russia’s constitution to allow him to rule until 2036. Mr Putin, who has led Russia since 1999, is a shoo-in for victory—he has quashed all credible opposition.
 
-## A hearing for Duterte
+## America goes cold on Ukraine
 
-Rodrigo Duterte, a former president of the Philippines, is due to appear before prosecutors in Manila on Monday. Mr Duterte has been summoned to answer a criminal complaint that he threatened to kill a member of congress, France Castro, an opponent of his political dynasty, on live television. Mr Duterte’s response so far has been cryptic, saying that Ms Castro is “oppressing” him. 
+Ukraine’s ability to beat back Russia has mostly been shaped by events happening far from the front lines—in Washington, DC. But the mood in America has been souring. On Monday an influential article in the <em>Washington Post</em> outlined criticisms of Ukraine’s counter-offensive, attributed to sources at the Pentagon, claiming that Ukraine has misused American aid. On Tuesday Ukraine’s president, Volodymyr Zelensky, abruptly cancelled a call with America’s Senate which would have requested more military aid. He must have known his plea would fall on deaf ears. 
 
-Ms Castro’s complaint is grave. But it pales in comparison with suspicions that, when Mr Duterte was president, his law enforcers avidly carried out general death threats he made against dealers in illegal drugs, [killing thousands of people](https://https://www.https://www.economist.com/graphic-detail/2021/11/22/how-many-people-have-been-killed-in-rodrigo-dutertes-war-on-drugs). Prosecutors at the International Criminal Court, suspecting crimes against humanity, are investigating some of those killings. But Mr Duterte’s successor and protector, President Ferdinand Marcos, is shunning their investigation. He calls it redundant because the Philippines has a functioning system of justice of its own. Ms Castro’s case will test Mr Marcos’s argument. The outcome will show whether the system functions to uphold justice, or impunity. 
+On Wednesday Republicans in the Senate blocked President Joe Biden’s funding bill, which includes $61bn for Ukraine (and $14bn for Israel), demanding that aid be tied to immigration reforms. Mr Biden has said that he is prepared to make “significant compromises” on border security to get the bill passed, but they are unlikely to be enough for the Republicans. With just a week before the Senate adjourns for the holidays, Mr Zelensky is facing a bleak winter.
 
-## A Senate battle over Ukraine aid
+## A better balance for America’s economy
 
-America’s Senate this week formally takes up President Joe Biden’s $106bn supplemental request for national security, including military aid to Ukraine. As the flow of American weapons to Ukraine [slows down](https://https://www.https://www.economist.com/graphic-detail/2023/12/02/americas-political-paralysis-is-complicating-its-support-for-ukraine), nobody is certain whether congressional paralysis can be overcome soon, or at all.
+America’s labour market may be in a sweet spot. Figures on Friday are expected to show that the country added 190,000 jobs in November, up from 150,000 in October. But the difference probably resulted from auto workers and Hollywood actors ending their strikes. Excluding these additions, job growth would be about the same, a sign of stabilisation at a solid level: neither too hot, nor too cold.
 
-Lloyd Austin, America’s defence secretary, has urged Congress not to waver at a “hinge in history” as foes—including Russia, China and Iran—seek to weaken American leadership. But the aid faces many obstacles. One is a demand by Republicans to pair it with asylum reform and other steps to stanch migration at the southern border. Another is some Democrats’ call to put conditions on aid to Israel to limit civilian casualties in Gaza. A third is a push by China hawks to increase help to Taiwan, funded by squeezing economic assistance to Ukraine. And even if the Senate strikes a deal, it is uncertain whether bitterly divided Republicans in the House would agree to it. 
+  
+ More good news came earlier this week when separate data showed that job openings fell to 8.7m in October, the lowest since March 2021. The number of job openings per unemployed worker is now down to about 1.3, well below the record high of nearly two in early 2022, when companies were struggling to fill vacancies. A better balance in the supply of and demand for [workers](https://https://www.https://www.economist.com/finance-and-economics/2023/11/28/welcome-to-a-golden-age-for-workers) will probably translate into easing wage pressures and, ultimately, slowing inflation.
 
-## Turkey’s sticky inflation
+## The EU’s scramble to find new money
 
-After Recep Tayyip Erdogan won re-election in this year’s Turkish presidential elections, he [appointed](https://https://www.https://www.economist.com/europe/2023/06/04/turkeys-president-erdogan-shifts-towards-sane-economics) a new finance minister and central bank governor. They pulled off the policy U-turn the country’s economy needed. Faced with runaway inflation and the prospect of a currency crash, Turkey’s central bank has raised the benchmark interest rate by a cumulative 31.5 percentage points in only five months, to 40%. Currency depreciation, which saw the Turkish lira lose nearly 30% of its dollar value in the first six months of the year, has slowed. 
+The pandemic was awful for the European Union, but a boon for its big spenders. Deficit rules were suspended to allow members to fork out whatever was needed to support their economies. The EU borrowed to set aside a whopping €807bn ($781bn) for the bloc’s [recovery fund](https://https://www.https://www.economist.com/europe/2022/05/26/the-eus-covid-19-recovery-fund-has-changed-how-europe-spends-money), set up in 2020 to help poorer states. Now interest rates are much higher and budgets tighter. And other shocks, such as the war in Ukraine, are also weighing on members. At a meeting that will run until Friday finance ministers are negotiating who will bear the costs; EU leaders will make the final decision next week.  
+  
+ Long-term financial support for Ukraine, ever more important as [America waivers](https://https://www.https://www.economist.com/the-world-ahead/2023/11/13/europe-needs-to-step-up-support-for-ukraine), will cost around €50bn in grants and loans. Help for southern states to manage migration will add €15bn. The old deficit rules will come back into force in 2024, though they will be harder to apply. Proposals to give highly indebted countries, such as Italy, more time to bring down debt, are controversial. The EU is having a rude awakening from its [fiscal fantasyland](https://https://www.https://www.economist.com/leaders/2023/05/04/governments-are-living-in-a-fiscal-fantasyland).
 
-But inflation, stoked by years of lending at negative real rates, has proved exceptionally sticky. On Monday Turkey publishes its inflation data for November. Economists polled by Reuters expect consumer prices to have risen by 63% in annual terms, up from 61.4% in October. The central bank’s own forecast puts the annual inflation rate at 65% by the end of the year. The bank will need to keep tightening to see any improvement.
+## The comeback of Notre-Dame
 
-## Polish and Ukrainian lorry drivers stand off
+A year from Friday the gothic cathedral of Notre-Dame is due to re-open its doors, five years after a[ devastating fire](https://https://www.https://www.economist.com/europe/2019/04/17/france-agonises-over-the-fire-that-devastated-notre-dame) toppled its spire and destroyed much of its roof. To mark the countdown Emmanuel Macron visited the site in Paris. The French president will observe the rebuilding of the 70m-long oak spire (based on the 19th-century <em>flèche</em> which was destroyed).  
 
-Snow-dusted lines of lorries snake for dozens of kilometres at the border between Poland and Ukraine. Since November 6th Polish drivers have enforced a blockade, letting only a few Ukrainian vehicles through every hour (humanitarian supplies are allowed passage). The queues at four crossings amount to 3,000 lorries. Ukraine is preparing to evacuate hundreds of drivers. On Monday Polish ministers will voice the woes of the protesters at the EU’s Transport Council meeting in Brussels.
 
-The Polish drivers criticise [the EU](https://https://www.https://www.economist.com/europe/2022/06/30/poland-is-being-given-an-opportunity-to-matter-in-europe) for abolishing an entry permit system after Russia’s invasion. They say that unfairly favours their cheaper Ukrainian rivals whose transport companies are exempt from the bloc’s climate regulations. [Poland](https://https://www.https://www.economist.com/the-economist-explains/2023/09/21/why-poland-is-halting-its-supply-of-weapons-to-ukraine) argues that Ukraine’s electronic queuing system discriminates against foreign drivers trying to leave, holding them up further. The EU is getting impatient: on November 29th it accused Poland of holding it “hostage” by blocking its external borders. Yet Slovak and Hungarian drivers are threatening similar blockades.
+The reconstruction is a political test for Mr Macron, who is struggling in the polls. Hours after the fire broke out in 2019, he vowed to rebuild in five years. That was an ambitious timescale. 
 
-## A refresh at the Met
+Not everything will be finished when the doors re-open. But it is broadly on schedule. This has been possible thanks to the generosity of French (and some international) donors, who are providing the bulk of the financing. The total cost of reconstruction is expected to be €700m ($755m), which is, remarkably, less than the €840m secured in a national fundraiser.
 
-Museums are not just about what you see, but how. After a five-year renovation, the Metropolitan Museum of Art in New York presents a fresh take on a core part of its collection. The initiative, called “Look Again: European Paintings 1300–1800”, has seen 45 galleries repainted, relit and rehung. Recent acquisitions and loans notably boost the representation of female artists. But the project mainly shows old works in a new light—indeed, the impetus for the reshuffle was the replacement of the galleries’ skylights.
+## Art taking on autocracy
 
-The biggest change is that works are organised chronologically rather than by country. Italian panel paintings now hang next to their Dutch equivalents, Americans portraits alongside British. Sculpture, decorative art and even musical instruments are sprinkled throughout. As is modern art: in one gallery, the work of Gerrit Dou, a 17th-century Dutch artist, rubs elbows with that of Henri Matisse, Elaine De Kooning and Kerry James Marshall, a contemporary painter. Artwork and visitors alike are invited into new conversations. 
+This weekend Coco Fusco, a Cuban-American artist, plays the role of a literary agent for Antigone, a figure from Greek mythology who represents resistance to authority, on stage in Berlin. In “Antigone is Not Available Right Now”, Ms Fusco fields requests from an Iranian film director, a Russian punk band and a Cuban theatre troupe hoping to employ Antigone’s moral standing against dictatorial regimes. But Antigone is tired and hiding in Hades. She is sceptical, says Ms Fusco, “about whether human beings today really want democracy anymore.”
+
+  
+ The show is part of an exhibition on Ms Fusco’s career as a performance and video artist being held at the KW Institute for Contemporary Art. Much of Ms Fusco&#x27;s work has been a critique of Western imperialism, dressing up in 1992 as an “undiscovered” Amerindian tribesperson to lampoon the European “discovery” of the Americas. Later works spotlight state repression and torture in Cuba and and by the American military. Her laudable goal is “art-making that disrupts complacency.”
+
+## The winners of last week’s crossword
+
+Thank you to everyone who took part in our weekly crossword, published in the weekend edition of Espresso. The winners, chosen at random, were:
+
+<strong>Jane Harvey</strong>, Barcelona, Spain   
+<strong>Ron George</strong>, Winnipeg, Canada  
+<strong>Jack Conn</strong>, Minneapolis, Minnesota, America
+
+They all gave the correct answers of [Blue-collar](https://https://www.https://www.economist.com/leaders/2023/11/30/a-new-age-of-the-worker-will-overturn-conventional-thinking), [Byron](https://https://www.https://www.economist.com/britain/2023/11/24/the-dark-hedges-are-dying), [Coal](https://https://www.https://www.economist.com/china/2023/11/27/will-china-save-the-planet-or-destroy-it) and [Royal](https://https://www.https://www.economist.com/international/2023/11/29/a-religious-revolution-is-under-way-in-the-middle-east). Check back tomorrow for this week’s crossword.
 
 ## Daily quiz
 
-We will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="c190b4a8bb84b2b1b3a4b2b2ae81a4a2aeafaeaca8b2b5efa2aeac">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@https://www.economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+We will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="7322061a09360003011600001c3316101c1d1c1e1a00075d101c1e">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@https://www.economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
-<strong>Monday:</strong> In which four-player card game is it possible for one partnership or team to bid “six no trumps”?
+<strong>Friday: </strong>Which Netflix series tells the story of Queen Elizabeth II of Britain’s reign?
+
+<strong>Thursday: </strong>Which sauce, often used as a dip, is made from mayonnaise, pickles, lemon juice and herbs?
 
 ----------
