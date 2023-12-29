@@ -1,4 +1,4 @@
-## The world in brief 2023-12-20
+## The world in brief 2023-12-29
 
 ----------
 
@@ -6,48 +6,40 @@
 
 
 
-<strong>Colorado’s </strong>supreme court ruled that <strong>Donald Trump</strong> is ineligible to run for president again and cannot appear on the state’s primary ballot. The extraordinary decision, against which Mr Trump is sure to appeal to America’s Supreme Court, is the first to disqualify the former president based on a provision in the [14th Amendment barring insurrectionists](https://www.economist.com/united-states/2023/11/21/does-a-civil-war-era-ban-on-insurrectionists-apply-to-donald-trump) from holding office. Similar lawsuits have been filed in nearly 30 states. The Colorado court’s decision will not take effect until January 4th, to accommodate appeals.
+Maine became the second state in <strong>America </strong>to disqualify <strong>Donald Trump</strong>, the [overwhelming frontrunner](https://www.economist.com/interactive/2024-republican-primaries-tracker) of the Republican primary race, from the primary ballot. Shenna Bellows, Maine’s secretary of state and a Democrat, ruled that Mr Trump had “engaged in insurrection”, making him ineligible to run for president under a provision in the 14th Amendment of the constitution. It follows a similar [ruling by Colorado’s supreme court](https://www.economist.com/the-economist-explains/2023/09/20/could-the-14th-amendment-bar-donald-trump-from-becoming-president-again) last week, which Mr Trump said he will appeal. 
 
-## 2023 in review: the rise of the hermit consumer
+## 2024 in preview: Moon missions are back
 
-<em>This week we are looking back on 2023. Today, business</em>
+Next year NASA astronauts are due to [return to the Moon](https://www.economist.com/the-world-ahead/2023/11/13/astronauts-are-returning-to-the-moonwell-sort-of). Well, sort of. Four astronauts—Reid Wiseman, Victor Glover, Christina Hammock Koch and Jeremy Hansen—will travel 7,400km beyond the Moon, swing around and return to Earth, without landing on the lunar surface. They will be the first humans to reach the vicinity of the Moon since those of Apollo 17 in 1972. 
 
-In some ways [covid-19 was a blip](https://www.economist.com/finance-and-economics/2023/10/22/welcome-to-the-age-of-the-hermit-consumer). Most countries re-attained their pre-covid GDP in short order. But more than two years after lockdowns were lifted, consumer habits across the rich world have shifted decisively.
+It will be a thrilling year for space exploration. China will try to deliver another robotic lander to the Moon and Japan will launch its Martian Moons Exploration mission. NASA plans to launch <em>Europa Clipper</em>, a probe dedicated to studying the habitability of one of Jupiter’s moons, and the Indian Space Research Organisation aims to kick off its <em>Shukrayaan </em>mission to Venus. Private companies will also test new, reusable rockets, the most impressive of which is SpaceX’s <em>Starship</em>, which should manage to put 150 tonnes into orbit. Expect to see more trials of that behemoth in 2024.
 
-Before covid the share of spending devoted to services, from hotel stays to haircuts, was rising steadily. In 2023 it remained stubbornly at pre-covid level. People are still less interested in leisure activities that take place outside the home. In countries that spent more time in lockdown, hermit habits have become ingrained. Japan has witnessed a 50% decline in restaurant bookings for business purposes.
+## 2024 in preview: Smaller, better, faster, stronger AI
 
-One possible reason is that some people remain afraid of infections. Another is work patterns: across the rich world people now regularly work from home. And covid may have made people genuinely more hermit-like: people are spending less on social activities and more on solitary pursuits. Covid’s biggest legacy, it seems, has been to pull people apart.
+What to expect from AI in 2024? As large language models (LLMs) become commercial commodities, there is a growing focus on making them [smaller and faster](https://www.economist.com/the-world-ahead/2023/11/13/ai-models-will-become-smaller-and-faster). Small models, which can be squeezed onto fewer chips, are much less expensive to train and to run—some can even run on a laptop or smartphone.
 
-## 2023 in review: AI’s big year
+Developers have been training smaller models with more training data. For instance, “Chinchilla”, an LLM developed in 2022 by Google DeepMind, outperforms OpenAI’s GPT-3, despite being a quarter of the size: it was trained on four times the data. Focus is also shifting from “how much” data to “how good”, as stocks of new, high-quality text are expected to gradually dry up. 
 
-This year artificial intelligence left the lab and entered the mainstream. Within two months of its launch in November 2022 ChatGPT, a chatbot created by [OpenAI](https://www.economist.com/business/2023/11/23/sam-altmans-return-marks-a-new-phase-for-openai), a company backed by Microsoft, had racked up 100m users. Internet searches for “artificial intelligence” surged; more than $40bn in venture capital flowed into AI in the first half of 2023 alone. 
+A bigger advance, however, will be in learning how to use them better. To enhance the accuracy of responses, for example, LLMs can be combined with extra software and a specialised database of knowledge. Showing what is possible has turned into figuring out what is practical.
 
-The craze for consumer experimentation has since cooled. But an entirely [new industry](https://www.economist.com/business/2023/01/30/the-race-of-the-ai-labs-heats-up) centred on supercharged AI models started taking shape this year. The emerging order still sees OpenAI ahead technologically, but deep-pocketed rivals such as Google may yet catch up.
+## 2024 in preview: Watch out for CRISPR
 
-Along with the AI hype, there has been a rise in “doomer” discourse. Some believe that, left unchecked, AI poses an existential risk to humanity. Britain and America have asked model-makers, like OpenAI and Microsoft, to make non-binding commitments to allow external experts to test AI products before they release them to the public. As the industry continues to grow, the experts will have their hands full.
+[Gene-edited drugs](https://www.economist.com/the-world-ahead/2023/11/13/new-medical-treatments-will-use-genetic-scissors-and-other-clever-tricks) will make headlines in 2024. The first CRISPR drug, exa-cel, which made its historic arrival in late 2023, will treat sickle-cell disease and beta thalassaemia, two genetic blood disorders. CRISPR is a gene-editing technique that precisely cuts and edits DNA. The therapy, developed by Crispr Therapeutics and Vertex, edits stem cells extracted from a patient’s body. When returned, the edited cells counteract the genetic defect. The treatment is said to last a lifetime. But these drugs will cost more than $2m per patient, and for many around the world they will be impossible to obtain. 
 
-## 2023 in review: The Sino-American tech war
+The coming year will also see progress in gene-editing technology towards off-the-shelf treatments for cancer and diabetes. The workhorse of the immune system, the T-cell, can be gathered from donors and reprogrammed via gene-editing to fight cancer without triggering an immune rejection by the patient’s body. Similar technology could help diabetics by creating replacement insulin-producing cells in the pancreas.
 
-In 2023 the simmering tech battle between America and China got hotter. It began in earnest in 2019, when Donald Trump’s administration banned the sale of high-end chips to Huawei, a Chinese telecoms-equipment maker. In 2022, when Joe Biden introduced a blanket ban on the sales of advanced semiconductors to all companies in China, leaders in Beijing took months to formulate [a response](https://www.economist.com/business/2023/07/04/in-its-tech-war-with-america-china-brings-out-the-big-guns). But over the past year China has appeared far more prepared to fight.
+## 2024 in preview: More success for weight-loss drugs
 
-In July, for example, China announced export controls on gallium and germanium, two rare metals needed to make state-of-the-art chips. And in October, when America said it would strengthen its chip controls, China retaliated just three days later, saying it would impose new export controls on graphite.
+After decades of disappointing weight-loss treatments, the arrival of safe and effective drugs is a milestone. Some now talk of a future without obesity. That is no small claim: obesity affects 1.1bn people, or roughly 14% of the world’s population. In 2024 Novo Nordisk and Eli Lilly, two pharma giants, will [battle for dominance](https://www.economist.com/the-world-ahead/2023/11/13/expect-a-bumper-year-for-weight-loss-drugs) of what could be a $77bn market by 2030, through their drugs Wegovy (semaglutide) and Zepbound (tirzepatide). 
 
-America has already dragged allies such as Japan, the Netherlands and South Korea into the fight. It will probably try to recruit more. Chinese companies, for their part, have found clever workarounds to get their hands on chips via less scrutinised markets.
-
-## 2023 in review: Worker v machine
-
-The story of unions in America, until now largely one of [declining power](https://www.economist.com/united-states/2022/12/14/americas-unions-are-gentrifying), changed in 2023. Labour strikes in two industries grappling with technological upheaval yielded high-profile victories for workers. The gains, however, may be short-lived.
-
-Hollywood’s writers took to the picket lines in May; actors joined them in July. Both groups fret about the effects of streaming platforms and artificial intelligence on their pay cheques and intellectual property. They each won meaningful concessions, including loose terms governing AI use and bonuses for shows that do well on streaming. But new terms can hardly contain AI, which has already begun to[ transform fame](https://www.economist.com/briefing/2023/11/09/now-ai-can-write-sing-and-act-is-it-still-possible-to-be-a-star).
-
-Farther east, the car industry faced its own upset. In September members of the United Auto Workers, frustrated by shrinking benefits since the financial crisis, [began simultaneous strikes](https://www.economist.com/business/2023/09/20/americas-big-car-firms-face-lengthy-strikes) affecting all of Detroit’s “big three” carmakers. The UAW members won pay rises, but, as with Hollywood’s workers, new technology may soon threaten their jobs. Electric vehicles are mechanically simpler than conventional ones—and less labour-intensive to build.
+More treatments are coming. Most are based on the same idea: glucagon-like peptide-1 agonists, which keep people fuller for longer. They also affect the brain’s hypothalamus, which controls hunger, and may make fat more likely to break down. The catch is that you have to keep taking them. Eventually, though, taking obesity drugs every day may become widely accepted—especially if, as a recent paper suggested, they could reduce the risk of major cardiovascular events, such as strokes and heart attacks, by 20%.
 
 ## Daily quiz
 
-We will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="b2e3c7dbc8f7c1c2c0d7c1c1ddf2d7d1dddcdddfdbc1c69cd1dddf">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+We will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="8cddf9e5f6c9fffcfee9ffffe3cce9efe3e2e3e1e5fff8a2efe3e1">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday. 
 
-<strong>Wednesday: </strong>What phenomenon began in California in 1849 and in the Australian state of Victoria in 1851?
+<strong>Friday: </strong>What bird is associated in Britain with the arrival of spring, inspiring an orchestral work by Frederick Delius?
 
-<strong>Tuesday:</strong> In some mythologies, which reptile supports the world on its back?
+<strong>Thursday: </strong>What substance comprises between 45% and 75% of the human body?
 
 ----------
