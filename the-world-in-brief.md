@@ -1,4 +1,4 @@
-## The world in brief 2024-03-18
+## The world in brief 2024-04-03
 
 ----------
 
@@ -8,46 +8,46 @@
 
 
 
-To no one’s surprise <strong>Russia’s</strong> election commission said that early results from the country’s [sham presidential election](https://https://www.https://www.economist.com/europe/2024/03/17/vladimir-putins-sham-re-election-is-notable-only-for-the-protests) showed Vladimir Putin winning 87% of the vote, allowing him another six-year term. Long queues formed at some polling stations at noon on Sunday. That was the hour at which supporters of Alexei Navalny—Russia’s most prominent opposition leader, who died in prison last month—had called on people to turn up by way of protest. 
+<strong>Taiwan’s</strong> strongest <strong>earthquake</strong> in 25 years struck the east of the island. The 7.4-magnitude quake’s epicentre was in the sea about 18km (11 miles) south of the city of Hualien. Tsunami warnings were raised in Japan and the Philippines but later dropped. Buildings have collapsed and the power supply was disrupted in the capital, Taipei. TSMC, Taiwan’s chipmaking giant, evacuated several of its factories. Details of casualties remain scant; early reports suggest that at least seven people have died and hundreds have been injured.
 
-## China’s opaque economy
+## Texas’s contentious new immigration law
 
-The strength of China’s [economic recovery](https://https://www.https://www.economist.com/finance-and-economics/2024/03/14/chinas-economic-bright-spots-provide-a-warning) is becoming harder to judge. That represents a kind of progress compared with much of last year, when the economy was all too clearly weak. More recent indicators have been mixed. Exports and inflation were surprisingly strong in February. Credit growth and house prices, on the other hand, were disappointing.
+On Wednesday the Fifth Circuit, America’s [most conservative](https://https://www.https://www.economist.com/united-states/2023/11/30/a-maga-court-in-new-orleans-is-shaping-the-supreme-courts-agenda) federal appeals court, will hear oral arguments on Texas’s new immigration law. [Senate Bill 4 (SB4)](https://https://www.https://www.economist.com/the-economist-explains/2024/03/21/will-texas-succeed-in-enforcing-its-own-immigration-law) makes crossing into Texas from Mexico except at legal ports of entry a state crime. It grants police the authority to arrest people they suspect have come into Texas illegally, and authorises state judges to order deportations, powers normally reserved for federal authorities. On March 19th the Supreme Court ruled that Texas could temporarily enforce the bill while the lower court deliberated on its merits. But the Fifth Circuit put it back on hold that night. 
 
-On Monday China released further clues in the form of data on domestic economic activity in the first two months of this year (often combined in China’s statistics because the Spring Festival holiday can fall in either). Retail sales grew year-on-year by 5.5% (before adjusting for inflation), down from December’s figure. But industrial production grew by 7%, its fastest pace for almost two years. Extra working days may have helped. The leap year is yet another reason why China’s economic momentum is even harder to decipher than usual.
+The debate is part of a clash between the Biden administration and Greg Abbott, Texas’s governor, over how to handle the influx of migrants. The federal government reckons that it reserves the right to set immigration policy, while Texas contends it ought to be able to defend itself. One way or another, the case will probably return to the Supreme Court.
 
-## Why Ukraine is running out of shells
+## More ammunition for Ukraine
 
-The worsening situation in Ukraine will be at the top of the agenda when foreign ministers from the European Union meet on Monday. Ukrainian forces have been suffering acute “shell hunger” since the end of last year. This, combined with exhaustion and sagging morale, was a major reason for their withdrawal from Avdiivka, a strategically important [eastern town](https://https://www.https://www.economist.com/europe/2024/02/17/avdiivka-falls-at-last-as-russia-presses-along-the-front-line), a month ago. 
+Jan Lipavsky, the Czech foreign minister, deserves the gratitude of his NATO counterparts at their meeting on Wednesday. Mr Lipavsky has led his government’s initiative to source shells for Ukraine. They are badly needed: for the past few months [Russia has been outgunning](https://https://www.https://www.economist.com/the-economist-explains/2024/03/20/might-russia-run-out-of-big-guns) Ukraine at a rate of at least five to one. 
 
-Both America and Europe bear the blame for the shortages. MAGA Republicans have stalled a \$60bn military-support bill for months; the EU has provided Ukraine with less than half the 1m shells it had promised to supply by March. (That deadline has now been stretched to the end of the year.) The European Commission has recently allocated €500m (around $550m) to boost Europe’s shell production, but will not hit its target of 2m a year until the end of 2025. A Czech initiative to source 800,000 shells may be more immediately promising. In the meantime Russia is pressing home its advantage.
+Although the first tranche of 800,000 shells may not reach Ukraine until June, simply knowing that they are coming has eased the pressure on Ukrainian commanders to ration munitions. The Czechs think they can find up to 1.5m shells in total. Other NATO members, including Norway, Germany and Canada, have footed the bill.
 
-## Alleged social-media meddling at SCOTUS
+However, the initiative is no substitute for the Biden administration’s $61bn military support package, still stalled in Congress. Apart from shells, Ukraine needs more air-defence interceptors as it reels from a new onslaught of Russian missiles, as well as the Kremlin’s powerful glide bombs. Only American support will help procure them<strong>. </strong>
 
-America’s Supreme Court will hear <em>Murthy v Missouri</em> on Monday. The case contends that the Biden administration pressured social-media companies to engage in censorship—and, in doing so, violated the principle of [free speech](https://https://www.https://www.economist.com/united-states/2024/02/23/two-ideas-of-free-speech-duel-at-americas-supreme-court) enshrined in the First Amendment.
+## Disney’s proxy fight reaches a climax
 
-Louisiana, Missouri and five individuals complain that federal officials cajoled platforms to remove posts related to the covid-19 pandemic and the 2020 election. The plaintiffs argue that the government tried to “coerce private companies to censor ordinary Americans”. They cite examples such as the White House telling Twitter to “get moving” in taking down an anti-vaccine tweet by Robert F. Kennedy in January 2021, or asking Facebook “are you guys fucking serious?” and badgering the company about censoring misinformation that July.
+Bob Iger’s re-run as boss of Disney has been far from the fairytale many hoped for. The entertainment giant’s share price is up by 25% since Mr Iger returned in November 2022, a better performance than that of its rivals’, including Warner Bros Discovery and Paramount Global. But Mr Iger continues to [tussle](https://https://www.https://www.economist.com/business/2023/11/09/the-bob-iger-v-nelson-peltz-rematch) with activist shareholders. They think Disney should be doing better still (it has been outpaced by the S&amp;P 500 index of big American companies).
 
-The Biden administration counters that presidents “have long used the bully pulpit to shape private conduct and influence the public on the issues of the day”. It argues that only “threats or inducements”, not “strong language”, count as illicit coercion.
+On Wednesday the saga will reach a climax. At the company’s annual general meeting shareholders will vote on whether to accept board nominees put forward by two activist firms: Trian Partners, led by Nelson Peltz, a Wall Street veteran, and Blackwells Capital. Trian wants deeper cost cutting, among other things. Blackwells thinks shareholders could be better off if the company were broken up. If either gets a seat at the table, Disney’s next season could be even more dramatic.
 
-## Europe’s economy picks up
+## An imminent rate cut for Europe
 
-On Monday the European Union’s statistics agency will release figures for international trade in goods in January, as well as inflation data for February. Both are likely to provide much-needed good news. In December 2023 the euro area reported a €16.8bn ($18.3bn) surplus in trade in goods with the rest of the world, reflecting strengthening exports; a year earlier it had reported a deficit of €8.5bn. Inflation, meanwhile, is on a downward trend. The annual rate was 2.8% in January 2024, compared with 8.6% in January 2023. 
+Next Thursday the [European Central Bank](https://https://www.https://www.economist.com/finance-and-economics/2024/03/26/europes-economy-is-under-attack-from-all-sides) may start to cut interest rates. Euro-area figures for March, published on Wednesday, will show that inflation is approaching the bank’s target of 2%. The economics suggest that the ECB should start cutting long before inflation hits that target.
 
-Europe’s economic performance pales in comparison to [America](https://https://www.https://www.economist.com/leaders/2024/03/14/americas-extraordinary-economy-keeps-defying-the-pessimists), where the economy has grown twice as fast as the euro zone’s since the end of 2019. That is partly because of European problems with red tape, high energy costs and a shortage of skilled labour. But Europe still has reasons to be cheerful: it remains an export champion, and its fiscal deficits are far smaller than the one across the pond. 
+Germany, France, Italy and Spain have already reported their national inflation rates for March. Their numbers—2.3%, 2.4%, 1.3% and 3.2% respectively—suggest that 2% is close. There are two reasons for the ECB to hurry. Fiscal policy can only get tighter: France is trying to trim its bombshell budget deficit, and Germany is expected to limit its spending to a constitutionally allowed size. That will weaken the economy further. Second, the gap between the ECB’s current interest rate (4%) and the possible target rate (2%) is large. Reaching it will require more 0.25 percentage-point cuts than the ECB has meetings left this year. Time for the bank to look forward.
 
-## Modernism, out of whole cloth
+## Could medical devices be oxygen-powered?
 
-Modernism is criss-crossed with grids—in fact, they define [modernist](https://https://www.https://www.economist.com/culture/2022/12/01/ukraines-modernist-art-has-defied-censorship-and-missiles) movements like cubism and De Stijl (a Dutch style built on vertical and horizontal lines). Curves suggest old, natural forms. Grids signal something new.
+The medical-technology industry is among the most innovative. But many electric medical devices are still powered by lithium batteries, which must eventually be replaced. Chinese engineers reporting in <em>Chem</em>, a journal, may have breathed new life into medtech by drawing power from the body itself. They have developed an implantable battery that runs on blood oxygen.
 
-“Woven Histories: Textiles and Modern Abstraction”, an exhibition which opened at the National Gallery of Art in Washington, DC at the weekend, locates the grid’s origins in the warp and weft of textiles. Even ancient weavers had an affinity with abstraction: they can only draw with straight lines. “Woven Histories” highlights textiles, often by women artists, as having played key roles in the development of Dada, constructivism and the Bauhaus in the 1920s and 1930s.
-
-In the 1960s and 1970s the rigidity of the grid yielded to rising interest in folk art and basketry. Feminist and queer artists explored the embodied politics of fashion. As modernism waned, the weave loosened. But, this show suggests, textiles still tied 20th-century art together.
+The battery’s electrodes—made of sodium and gold—react with oxygen molecules to produce electricity. Engineers surgically implanted the batteries in rats’ backs and measured the electrical output. The 1.3 volts produced was not enough to power a medical device like a pacemaker, but metal-O2 batteries can in theory store more energy than lithium ones. The experiment also had unintended benefits. By reading the battery’s output, the scientists were able to monitor the rate at which the wound healed. And because the battery consumes oxygen, implanting it near tumours could starve cancer cells. Not a bad set of side-effects.
 
 ## Daily quiz
 
-We will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="3766425e4d72444745524444587752545859585a5e44431954585a">[email&#160;protected]</span>](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=QuizEspresso@https://www.economist.com). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
+We will serve you a new question each day this week. On Friday your challenge is to give us all five answers and, as important, tell us the connecting theme. Email your responses (and include mention of your home city and country) by 1700 GMT on Friday to [<span class="__cf_email__" data-cfemail="c697b3afbc83b5b6b4a3b5b5a986a3a5a9a8a9abafb5b2e8a5a9ab">[email&#160;protected]</span>](https://https://www.https://www.economist.com/cdn-cgi/l/email-protection#b5e4c0dccff0c6c5c7d0c6c6daf5d0d6dadbdad8dcc6c19bd6dad8). We’ll pick randomly from those with the right answers and crown three winners on Saturday.
 
-<strong>Monday: </strong>Rastafarians use the name of which ancient Mesopotamian city to refer to the white western world?
+<strong>Wednesday:</strong> “Bedroom in Arles” and “Wheatfield with Crows” are paintings by which famous artist?
+
+<strong>Tuesday: </strong>Which is the highest mountain in the United Kingdom?
 
 ----------
