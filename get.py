@@ -241,8 +241,25 @@ if __name__ == '__main__':
                 'graphic-detail', 'obituary', 'essay')
     section1s = ('special-reports', 'technology-quarterly')
 
+    thres = 3
+
     for section in sections:
-        while sectionGet(section) == 1: pass
+        if section == '':
+            continue
+        c = 0
+        while sectionGet(section) == 1:
+            c += 1
+            if c > thres:
+                print(f'Failed to get {section} ...')
+                break
+
+            pass
 
     for section in section1s:
-        while section1Get(section) == 1: pass
+        c = 0
+        while section1Get(section) == 1:
+            c += 1
+            if c > thres:
+                print(f'Failed to get {section} ...')
+                break
+            pass
